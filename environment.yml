@@ -1,0 +1,32 @@
+# conda environment for the ancient discrimination analysis
+# includes Python packages + bioinformatics CLI tools
+#
+# create:  conda env create -f environment.yml
+# activate: conda activate phylo_asr
+
+name: phylo_asr
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  # python
+  - python=3.9.25
+
+  # bioinformatics CLI tools
+  - mafft=7.525         # multiple sequence alignment
+  - iqtree=3.0.1        # phylogenetic inference (ML trees + ASR)
+  - hmmer=3.4           # profile HMM search (hmmsearch, hmmbuild)
+  - cd-hit=4.8.1        # sequence clustering / redundancy reduction
+
+  # python packages (via pip for version pinning)
+  - pip
+  - pip:
+    - biopython==1.86
+    - pandas==2.3.3
+    - numpy==2.3.5
+    - scipy==1.16.3
+    - matplotlib==3.10.7
+    - seaborn==0.13.2
+    - requests==2.32.4

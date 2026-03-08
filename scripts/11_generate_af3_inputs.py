@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# NOTE: Phase 3 script (planned, not yet completed).
+# generates input files for AF3 structural predictions.
+# the full prediction campaign has not been run.
 """generate AF3 JSON input files for all 296 prediction jobs.
 
 AF3 input format uses:

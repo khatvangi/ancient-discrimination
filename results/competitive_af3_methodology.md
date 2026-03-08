@@ -1,3 +1,8 @@
+# NOTE: Phase 3 (planned, not yet completed)
+# this document describes the AF3 competitive binding methodology designed
+# for Phase 3 structural predictions. server pilot results (45 jobs) are
+# included as feasibility data. the full local batch is incomplete.
+
 # competitive AF3 binding: methodology and metrics guide
 
 ## design

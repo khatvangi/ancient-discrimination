@@ -2,9 +2,30 @@
 
 ## One-sentence claim
 
-Ancient protein domains did not distinguish between RNA and DNA; nucleic acid
-binding specificity is a derived trait that evolved through domain diversification
-after LUCA.
+Ancient nucleic-acid-binding domains show widespread weak RNA/DNA discrimination
+in structural-contact analyses, consistent with ancestral generalism — binding
+specificity appears to be a derived trait that emerged through domain
+diversification after LUCA.
+
+## Scope and caveats
+
+This claim rests on three evidence types, each with inherent limitations:
+
+1. **Annotation-based census**: the LUCA RNA/DNA-binding fractions (54 RNA, 21 DNA
+   out of 871 LUCA-age Pfam domains) use modern functional annotation (Pfam, GO,
+   RBPWorld). RNA annotations draw on experimental CLIP/RIC/OOPS data while DNA
+   annotations rely solely on GO-derived terms, creating an asymmetry in coverage.
+
+2. **Structural contact analysis**: the NAS-Bench paired SI comparison covers 19
+   Pfam rows (18 independent domain families) that have both RNA and DNA co-crystal
+   structures in PDB. This sample is biased toward experimentally tractable,
+   well-studied families — it is not a random draw from LUCA's proteome.
+
+3. **Ancestral state reconstruction**: ASR infers root-state amino acid identities
+   from extant sequences using probabilistic models (IQ-TREE, LG+G4). These are
+   statistical reconstructions of the most likely ancestral states, not direct
+   observations of extinct proteins. Conclusions concern the surviving
+   representatives of ancient lineages.
 
 ## The philosophical thread
 
@@ -18,14 +39,21 @@ from chemistry.
 ## What we claim (novel)
 
 1. The RNA-binding fraction of LUCA's proteome has never been quantified.
-   We provide that number for the first time.
+   We provide that number for the first time, using the intersection of
+   Wehbi et al. 2024 LUCA Pfam classifications with RBPWorld/EuRBPDB
+   RNA-binding domain lists. This is an annotation-based census, not a
+   direct measurement of binding.
 
-2. Ancient nucleic-acid-binding domains were generalist binders (RNA + DNA),
-   not specialists. Specificity emerged later through diversification.
+2. Among LUCA-age domains with paired RNA and DNA co-crystal structures,
+   structural contact analysis (NAS-Bench) reveals that 7/18 (39%) show
+   near-identical contact profiles for RNA and DNA (DI < 0.10), and 13/18
+   (72%) show weak discrimination (DI < 0.25). This is consistent with
+   ancestral generalism, though the PDB-available sample is not exhaustive.
 
-3. The timing and mechanism of the RNA/DNA discrimination transition can be
-   traced computationally using structural prediction (AF3/Boltz-2) across
-   orthologs from all three domains of life.
+3. The timing and mechanism of the RNA/DNA discrimination transition may be
+   traceable computationally using structural prediction across orthologs
+   from all three domains of life. This remains a hypothesis for future
+   structural prediction work (Phase 3, planned but not yet completed).
 
 ## What supports this (existing evidence)
 
@@ -46,7 +74,11 @@ from chemistry.
 
 ## Target venue
 
-eLife, MBE, or Nature Communications — depending on strength of AF3 results.
+eLife, MBE, or Nature Communications — depending on strength of results.
+Current evidence (census + NAS-Bench + ASR) supports a census-focused paper.
+AF3/Boltz-2 structural predictions (Phase 3) are planned but not yet completed;
+they would strengthen the paper if successful but are not required for the
+core census + structural-contact claims.
 
 ## Key datasets (all downloadable)
 

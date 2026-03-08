@@ -1,0 +1,12 @@
+# python dependencies for the ancient discrimination analysis
+# tested with Python 3.9+ (conda phylo_asr uses 3.9.25; system uses 3.12.11)
+#
+# install: pip install -r requirements.txt
+
+biopython==1.86
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.16.3
+matplotlib==3.10.7
+seaborn==0.13.2
+requests==2.32.4

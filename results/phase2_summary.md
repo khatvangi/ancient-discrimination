@@ -1,4 +1,7 @@
 # Phase 2 Summary — Family Selection and Ortholog Identification
+# NOTE: this phase selected families and orthologs for Phase 3 AF3/Boltz-2
+# structural predictions. Phase 3 is planned but not yet completed.
+# the prediction manifest below describes intended work, not completed runs.
 
 ## Selected Families
 

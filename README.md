@@ -1,9 +1,9 @@
 # The Evolution of Nucleic Acid Discrimination
 
-Computational analysis showing that ancient protein domains in LUCA's
-proteome exhibit widespread weak RNA/DNA discrimination in structural-contact
-analyses, consistent with ancestral generalism. Binding specificity appears
-to be a derived trait.
+Computational analysis showing that many ancient nucleic-acid-binding domain
+families in LUCA's proteome lack the specialist-like atom-type contact chemistry
+associated with strong RNA/DNA discrimination, consistent with ancestral
+generalism.
 
 ## Key findings
 

@@ -1,11 +1,10 @@
 # The Evolution of Nucleic Acid Discrimination
 
-## One-sentence claim
+## Central claim
 
-Ancient nucleic-acid-binding domains show widespread weak RNA/DNA discrimination
-in structural-contact analyses, consistent with ancestral generalism — binding
-specificity appears to be a derived trait that emerged through domain
-diversification after LUCA.
+Many ancient nucleic-acid-binding domain families lack the specialist-like
+atom-type contact chemistry associated with strong RNA/DNA discrimination,
+consistent with ancestral generalism.
 
 ## Scope and caveats
 
@@ -17,9 +16,10 @@ This claim rests on three evidence types, each with inherent limitations:
    annotations rely solely on GO-derived terms, creating an asymmetry in coverage.
 
 2. **Structural contact analysis**: the NAS-Bench paired SI comparison covers 19
-   Pfam rows (18 independent domain families) that have both RNA and DNA co-crystal
-   structures in PDB. This sample is biased toward experimentally tractable,
-   well-studied families — it is not a random draw from LUCA's proteome.
+   Pfam rows (18 independent domain families, after collapsing PF07521/PF10996
+   which share source protein 9BCU) that have both RNA and DNA co-crystal
+   structures in PDB. This is 28% of the 87 LUCA+preLUCA NA-binding domains —
+   a biased sample of experimentally tractable families, not a random draw.
 
 3. **Ancestral state reconstruction**: ASR infers root-state amino acid identities
    from extant sequences using probabilistic models (IQ-TREE, LG+G4). These are
@@ -27,35 +27,27 @@ This claim rests on three evidence types, each with inherent limitations:
    observations of extinct proteins. Conclusions concern the surviving
    representatives of ancient lineages.
 
-## The philosophical thread
+See `SCOPE_AND_LIMITATIONS.md` for the full treatment of biases and boundaries.
 
-This connects to the deeper question in origin-of-life biology: how did molecular
-specificity emerge from molecular promiscuity? Just as aminoacyl-tRNA synthetases
-(aaRS) evolved to discriminate between similar amino acids, nucleic-acid-binding
-domains evolved to discriminate between RNA and DNA. The evolution of discrimination
-is a universal theme in molecular evolution — it is how biology creates meaning
-from chemistry.
+## Novel contributions
 
-## What we claim (novel)
-
-1. The RNA-binding fraction of LUCA's proteome has never been quantified.
-   We provide that number for the first time, using the intersection of
+1. **First census of LUCA's RNA-binding proteome.** The intersection of
    Wehbi et al. 2024 LUCA Pfam classifications with RBPWorld/EuRBPDB
    RNA-binding domain lists. This is an annotation-based census, not a
    direct measurement of binding.
 
-2. Among LUCA-age domains with paired RNA and DNA co-crystal structures,
-   structural contact analysis (NAS-Bench) reveals that 7/18 (39%) show
-   near-identical contact profiles for RNA and DNA (DI < 0.10), and 13/18
-   (72%) show weak discrimination (DI < 0.25). This is consistent with
-   ancestral generalism, though the PDB-available sample is not exhaustive.
+2. **Systematic structural contact benchmark.** Among the 18 independent
+   LUCA-age domain families with paired RNA and DNA co-crystal structures,
+   7/18 (39%) show near-identical atom-type contact profiles (DI < 0.10),
+   and 13/18 (72%) show weak discrimination (DI < 0.25). DI thresholds are
+   heuristic operational cutoffs supported by sensitivity analysis (see
+   `results/nasbench_validation.tsv`), not statistically derived boundaries.
 
-3. The timing and mechanism of the RNA/DNA discrimination transition may be
-   traceable computationally using structural prediction across orthologs
-   from all three domains of life. This remains a hypothesis for future
-   structural prediction work (Phase 3, planned but not yet completed).
+3. **ASR convergence analysis.** Root-state residues at NA-contacting positions
+   differ from modern specialist equivalents in 72% of cases, with 59% radical
+   substitutions — the ancestral binding mode is largely extinct.
 
-## What supports this (existing evidence)
+## Supporting literature
 
 - Tran et al. 2024 (Nature Biotech): ancestral Cas12a bound RNA, DNA, ssDNA equally
 - Yagi & Tagami 2024 (Nature Comms): ancestral beta-barrels retained dual binding
@@ -64,27 +56,9 @@ from chemistry.
 - CSD: RNA chaperone in bacteria, DNA TF in eukaryotes
 - Alva et al. 2015: 33% of ancient peptide fragments bind nucleic acids
 
-## What doesn't exist yet (our gaps to fill)
+## Key datasets
 
-- GAP-1: LUCA RNA-binding fraction (Wehbi 969 Pfam x RBPWorld 998 Pfam intersection)
-- GAP-2: Systematic AF3 differential binding (same domain + RNA vs + DNA) across species
-- GAP-3: Ancestral generalism quantification via PNAbind scoring
-- GAP-4: Alva 40 peptides mapped onto LUCA domains
-- GAP-5: Functional composition of LUCA proteome (pie chart)
-
-## Target venue
-
-eLife, MBE, or Nature Communications — depending on strength of results.
-Current evidence (census + NAS-Bench + ASR) supports a census-focused paper.
-AF3/Boltz-2 structural predictions (Phase 3) are planned but not yet completed;
-they would strengthen the paper if successful but are not required for the
-core census + structural-contact claims.
-
-## Key datasets (all downloadable)
-
-- Wehbi et al. 2024: 969 LUCA Pfam domains (GitHub/Figshare)
+- Wehbi et al. 2024: 871 LUCA-age Pfam domains (GitHub/Figshare)
 - RBPWorld / Liao et al. 2025: 998 RNA-binding Pfam domains
 - Alva et al. 2015: 40 ancient peptide fragments (eLife supplement)
 - Kolodny et al. 2021: 525 bridging themes (MBE supplement)
-- AlphaFold Database: predicted structures
-- Our 51 GREEN families: already collected and QC'd

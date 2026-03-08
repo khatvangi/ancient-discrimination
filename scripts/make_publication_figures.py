@@ -93,10 +93,10 @@ def make_figure_2():
     master = master[master["status"] == "OK"]
     di_map = master.set_index("pfam_id")["DI"].to_dict()
     all_df["DI"] = all_df["pfam_id"].map(di_map)
-    all_df["di_cat"] = pd.cut(all_df["DI"], bins=[0, 0.10, 0.30, 1.0],
+    all_df["di_cat"] = pd.cut(all_df["DI"], bins=[0, 0.10, 0.25, 1.0],
                                labels=["Generalist\n(DI<0.10)",
-                                       "Moderate\n(0.10-0.30)",
-                                       "Specialist\n(DI>0.30)"])
+                                       "Moderate\n(0.10-0.25)",
+                                       "Specialist\n(DI>0.25)"])
 
     fig, axes = plt.subplots(1, 3, figsize=(7, 3))
 
@@ -151,7 +151,7 @@ def make_figure_2():
     # ── panel B: grouped bars by DI category ────────────────────────────────
 
     ax = axes[1]
-    cats = ["Generalist\n(DI<0.10)", "Moderate\n(0.10-0.30)", "Specialist\n(DI>0.30)"]
+    cats = ["Generalist\n(DI<0.10)", "Moderate\n(0.10-0.25)", "Specialist\n(DI>0.25)"]
     cat_colors = [GENERALIST_COLOR, MODERATE_COLOR, SPECIALIST_COLOR]
 
     all_radical = []

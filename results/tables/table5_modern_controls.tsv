@@ -1,0 +1,21 @@
+name	PDB	category	target_NA	description	SI	bb_frac	base_frac	2oh_frac	n_contacts
+U1A RRM	1URN	RNA_specialist	RNA	U1A spliceosomal protein + U1 snRNA hairpin	0.912	0.078	0.785	0.028	717
+MS2 coat	1AQ3	RNA_specialist	RNA	MS2 coat protein + RNA stem-loop	0.868	0.121	0.758	0.038	157
+PUF/Pumilio	3Q0P	RNA_specialist	RNA	human PUF domain + NRE RNA	0.991	0.008	0.863	0.028	866
+PAZ domain	1SI3	RNA_specialist	RNA	Argonaute PAZ + siRNA	0.436	0.445	0.211	0.133	128
+dsRBD (Xlrbpa)	1DI2	RNA_specialist	RNA	Xenopus dsRBD + dsRNA	0.482	0.318	0.101	0.196	179
+Pumilio repeat	3BSX	RNA_specialist	RNA	C. elegans FBF-2 + RNA	0.983	0.016	0.891	0.032	874
+Fox-1 RRM	2ERR	RNA_specialist	RNA	Fox-1 RRM + UGCAUGU RNA	0.911	0.078	0.758	0.039	281
+hnRNP A1 RRM	2UP1	RNA_specialist	RNA	hnRNP A1 RRM + telomeric RNA	0.944	0.047	0.787	0.0	235
+SRSF1 RRM	6HPJ	RNA_specialist	RNA	SRSF1 RRM + RNA ESE	0.835	0.138	0.612	0.086	232
+L1 stalk rRNA	4V4Q	RNA_specialist	RNA	ribosomal L1 + rRNA fragment	FAIL	—	—	—	—
+Lambda repressor	1LMB	DNA_specialist	DNA	Lambda cI repressor + operator DNA	0.49	0.476	0.458	0.0	225
+p53 core	1TSR	DNA_specialist	DNA	p53 core domain + response element DNA	0.337	0.575	0.292	0.0	106
+Zif268 ZnF	1ZAA	DNA_specialist	DNA	Zif268 zinc finger + DNA	0.707	0.274	0.662	0.0	201
+EcoRI	1ERI	DNA_specialist	DNA	EcoRI restriction enzyme + cognate DNA	0.365	0.526	0.302	0.0	116
+BamHI	1BHM	DNA_specialist	DNA	BamHI restriction enzyme + DNA	0.536	0.381	0.44	0.0	352
+TBP	1CDW	DNA_specialist	DNA	TATA-binding protein + TATA box DNA	0.528	0.253	0.284	0.0	229
+Lac repressor	1EFA	DNA_specialist	DNA	Lac repressor + operator DNA	0.5	0.406	0.406	0.0	286
+Engrailed HD	1HDD	DNA_specialist	DNA	Engrailed homeodomain + DNA	0.356	0.492	0.273	0.0	132
+Cro repressor	3CRO	DNA_specialist	DNA	Cro repressor + operator DNA	0.399	0.469	0.311	0.0	228
+EcoRV	1RVA	DNA_specialist	DNA	EcoRV restriction enzyme + DNA	0.419	0.473	0.341	0.0	349

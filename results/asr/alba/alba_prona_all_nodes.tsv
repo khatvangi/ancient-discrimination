@@ -1,0 +1,89 @@
+type	name	organism	accession	domain_of_life	has_pdb	seq_len	dna_prob	dna_bind	rna_prob	rna_bind	pro_prob	pro_bind	nuc_prob	DI
+tip	Saccharomyces cerevisiae strain ATCC 204	Saccharomyces cerevisiae strain ATCC 204	P53218	Eukaryota	3IAB	75	0.1653	no	0.2133	no	0.5993	YES	0.4497	0.0480
+tip	Mus musculus	Mus musculus	Q91WE3	Eukaryota	3Q5H	66	0.0800	no	0.2535	no	0.5167	YES	0.5312	0.1735
+tip	Aeropyrum pernix strain ATCC 700893 / DS	Aeropyrum pernix strain ATCC 700893 / DS	Q9YAX2	Archaea	3U6Y	65	0.2367	no	0.3685	no	0.8213	YES	0.8031	0.1318
+tip	Aeropyrum pernix strain ATCC 700893 / DS	Aeropyrum pernix strain ATCC 700893 / DS	Q9YAW1	Archaea	2BKY	65	0.1920	no	0.2773	no	0.7460	YES	0.4603	0.0853
+tip	Hyperthermus butylicus strain DSM 5456 /	Hyperthermus butylicus strain DSM 5456 /	A2BLG4	Archaea	no	64	0.2447	no	0.1966	no	0.7847	YES	0.2173	-0.0481
+tip	Ignicoccus hospitalis strain KIN4/I / DS	Ignicoccus hospitalis strain KIN4/I / DS	A8A9J8	Archaea	no	64	0.2040	no	0.2686	no	0.7653	YES	0.3053	0.0646
+tip	Saccharolobus solfataricus strain ATCC 3	Saccharolobus solfataricus strain ATCC 3	Q97ZF4	Archaea	no	65	0.2727	no	0.2495	no	0.8073	YES	0.4162	-0.0232
+tip	Metallosphaera sedula strain ATCC 51363 	Metallosphaera sedula strain ATCC 51363 	A4YHK2	Archaea	no	65	0.2287	no	0.2229	no	0.8280	YES	0.2688	-0.0058
+tip	Sulfolobus acidocaldarius strain ATCC 33	Sulfolobus acidocaldarius strain ATCC 33	Q4J974	Archaea	no	65	0.2867	no	0.2405	no	0.8407	YES	0.5836	-0.0462
+tip	Sulfurisphaera tokodaii strain DSM 16993	Sulfurisphaera tokodaii strain DSM 16993	Q971T6	Archaea	no	65	0.3100	no	0.2222	no	0.8427	YES	0.3346	-0.0878
+tip	Nanoarchaeum equitans strain Kin4-M	Nanoarchaeum equitans strain Kin4-M	P60851	Archaea	no	65	0.1547	no	0.2893	no	0.8593	YES	0.4298	0.1346
+tip	Thermofilum pendens strain DSM 2475 / Hr	Thermofilum pendens strain DSM 2475 / Hr	A1RXL1	Archaea	no	65	0.1213	no	0.2481	no	0.7333	YES	0.3211	0.1268
+tip	Thermofilum pendens strain DSM 2475 / Hr	Thermofilum pendens strain DSM 2475 / Hr	A1RWP1	Archaea	no	64	0.0580	no	0.2892	no	0.6647	YES	0.2805	0.2312
+tip	Caldivirga maquilingensis strain ATCC 70	Caldivirga maquilingensis strain ATCC 70	A8ME47	Archaea	no	65	0.0813	no	0.2624	no	0.6660	YES	0.4358	0.1811
+tip	Pyrobaculum aerophilum strain ATCC 51768	Pyrobaculum aerophilum strain ATCC 51768	Q8ZVL3	Archaea	no	65	0.1107	no	0.3347	no	0.6353	YES	0.3784	0.2240
+tip	Methanopyrus kandleri strain AV19 / DSM 	Methanopyrus kandleri strain AV19 / DSM 	Q8TWE6	Archaea	no	64	0.1727	no	0.2370	no	0.7700	YES	0.2528	0.0643
+tip	Methanopyrus kandleri strain AV19 / DSM 	Methanopyrus kandleri strain AV19 / DSM 	Q8TXF9	Archaea	no	64	0.1173	no	0.2937	no	0.7793	YES	0.4087	0.1764
+tip	Methanocella arvoryzae strain DSM 22066 	Methanocella arvoryzae strain DSM 22066 	Q0W252	Archaea	no	64	0.0860	no	0.2636	no	0.8107	YES	0.4749	0.1776
+tip	Methanothermobacter thermautotrophicus s	Methanothermobacter thermautotrophicus s	O27527	Archaea	no	64	0.1673	no	0.2126	no	0.7000	YES	0.2194	0.0453
+tip	Thermoplasma acidophilum strain ATCC 259	Thermoplasma acidophilum strain ATCC 259	Q9HJQ5	Archaea	no	64	0.2120	no	0.3053	no	0.6873	YES	0.6742	0.0933
+tip	Methanocaldococcus jannaschii strain ATC	Methanocaldococcus jannaschii strain ATC	Q57665	Archaea	no	63	0.2833	no	0.3399	no	0.7120	YES	0.6966	0.0566
+tip	Methanocorpusculum labreanum strain ATCC	Methanocorpusculum labreanum strain ATCC	A2SRC9	Archaea	no	64	0.1640	no	0.2886	no	0.5367	YES	0.2692	0.1246
+tip	Methanoregula boonei strain DSM 21154 / 	Methanoregula boonei strain DSM 21154 / 	A7I857	Archaea	no	64	0.1667	no	0.2460	no	0.6520	YES	0.3391	0.0793
+tip	Archaeoglobus fulgidus strain ATCC 49558	Archaeoglobus fulgidus strain ATCC 49558	O29195	Archaea	no	64	0.0687	no	0.2601	no	0.7173	YES	0.2768	0.1914
+tip	Ignicoccus hospitalis strain KIN4/I / DS	Ignicoccus hospitalis strain KIN4/I / DS	A8A8V6	Archaea	no	65	0.1360	no	0.3450	no	0.7293	YES	0.7070	0.2090
+tip	Staphylothermus marinus strain ATCC 4358	Staphylothermus marinus strain ATCC 4358	A3DN55	Archaea	no	65	0.2107	no	0.3213	no	0.6280	YES	0.4896	0.1106
+tip	Thermofilum pendens strain DSM 2475 / Hr	Thermofilum pendens strain DSM 2475 / Hr	A1RZM9	Archaea	no	64	0.1380	no	0.3349	no	0.7427	YES	0.3828	0.1969
+tip	Cenarchaeum symbiosum strain A	Cenarchaeum symbiosum strain A	A0RUK3	Archaea	no	64	0.0160	no	0.2461	no	0.6060	YES	0.1390	0.2301
+tip	Nitrosopumilus maritimus strain SCM1	Nitrosopumilus maritimus strain SCM1	A9A323	Archaea	no	64	0.1280	no	0.2369	no	0.6467	YES	0.3858	0.1089
+tip	Cenarchaeum symbiosum strain A	Cenarchaeum symbiosum strain A	A0RUC2	Archaea	no	64	0.1367	no	0.2115	no	0.7887	YES	0.3194	0.0748
+tip	Nitrosopumilus maritimus strain SCM1	Nitrosopumilus maritimus strain SCM1	A9A2B8	Archaea	no	64	0.1887	no	0.2073	no	0.6127	YES	0.4061	0.0186
+tip	Paramecium tetraurelia	Paramecium tetraurelia	A0D0Y5	Eukaryota	no	64	0.2600	no	0.1825	no	0.6520	YES	0.6030	-0.0775
+tip	Sclerotinia sclerotiorum strain ATCC 186	Sclerotinia sclerotiorum strain ATCC 186	A7EEF9	Eukaryota	no	75	0.0367	no	0.1101	no	0.7167	YES	0.0523	0.0734
+tip	Nematostella vectensis	Nematostella vectensis	A7S043	Eukaryota	no	66	0.1473	no	0.2536	no	0.3833	no	0.6632	0.1063
+tip	Trypanosoma cruzi strain CL Brener	Trypanosoma cruzi strain CL Brener	Q4DE55	Eukaryota	no	63	0.1727	no	0.2091	no	0.5400	YES	0.2812	0.0364
+tip	Ostreococcus lucimarinus strain CCE9901	Ostreococcus lucimarinus strain CCE9901	A4RUB1	Eukaryota	no	66	0.1333	no	0.1474	no	0.5287	YES	0.1474	0.0141
+tip	Trichomonas vaginalis strain ATCC PRA-98	Trichomonas vaginalis strain ATCC PRA-98	A2GED7	Eukaryota	no	65	0.1907	no	0.1972	no	0.6553	YES	0.3868	0.0065
+tip	Dictyostelium discoideum	Dictyostelium discoideum	Q54HY6	Eukaryota	no	65	0.1887	no	0.1635	no	0.5593	YES	0.2578	-0.0252
+tip	Plasmodium falciparum isolate 3D7	Plasmodium falciparum isolate 3D7	Q8I617	Eukaryota	no	66	0.2420	no	0.2099	no	0.6087	YES	0.5156	-0.0321
+tip	Chaetomium globosum strain ATCC 6205 / C	Chaetomium globosum strain ATCC 6205 / C	Q2GTN6	Eukaryota	no	77	0.0307	no	0.2102	no	0.6407	YES	0.1772	0.1795
+tip	Caenorhabditis elegans	Caenorhabditis elegans	Q7YWL9	Eukaryota	no	69	0.0207	no	0.1838	no	0.5327	YES	0.0520	0.1631
+tip	Leishmania braziliensis	Leishmania braziliensis	A4H734	Eukaryota	no	63	0.0220	no	0.2888	no	0.5887	YES	0.3131	0.2668
+tip	Oryza sativa subsp. japonica	Oryza sativa subsp. japonica	Q2QQM2	Eukaryota	no	64	0.2007	no	0.2392	no	0.6233	YES	0.3063	0.0385
+tip	Trichomonas vaginalis strain ATCC PRA-98	Trichomonas vaginalis strain ATCC PRA-98	A2E5Q2	Eukaryota	no	64	0.2493	no	0.2288	no	0.7700	YES	0.3745	-0.0205
+tip	Dictyostelium discoideum	Dictyostelium discoideum	Q54U04	Eukaryota	no	67	0.1520	no	0.2034	no	0.6453	YES	0.3783	0.0514
+ancestor	Node1	Node1				80	0.0447	no	0.1784	no	0.7353	YES	0.1126	0.1337
+ancestor	Node2	Node2				80	0.0987	no	0.2134	no	0.5773	YES	0.2306	0.1147
+ancestor	Node3	Node3				80	0.1147	no	0.2530	no	0.5280	YES	0.5333	0.1383
+ancestor	Node4	Node4				80	0.0973	no	0.2728	no	0.5140	YES	0.5169	0.1755
+ancestor	Node5	Node5				80	0.1047	no	0.3212	no	0.7927	YES	0.7537	0.2165
+ancestor	Node6	Node6				80	0.2353	no	0.2287	no	0.7127	YES	0.6351	-0.0066
+ancestor	Node7	Node7				80	0.2580	no	0.2049	no	0.8000	YES	0.6161	-0.0531
+ancestor	Node8	Node8				80	0.2507	no	0.1941	no	0.8400	YES	0.4648	-0.0566
+ancestor	Node9	Node9				80	0.2153	no	0.1770	no	0.6900	YES	0.1784	-0.0383
+ancestor	Node10	Node10				80	0.2067	no	0.1762	no	0.6193	YES	0.1438	-0.0305
+ancestor	Node11	Node11				80	0.0940	no	0.1992	no	0.7720	YES	0.1326	0.1052
+ancestor	Node12	Node12				80	0.1327	no	0.2992	no	0.9327	YES	0.4684	0.1665
+ancestor	Node13	Node13				80	0.1793	no	0.3168	no	0.9480	YES	0.5186	0.1375
+ancestor	Node14	Node14				80	0.2033	no	0.2925	no	0.9487	YES	0.3998	0.0892
+ancestor	Node15	Node15				80	0.1920	no	0.2912	no	0.9280	YES	0.4007	0.0992
+ancestor	Node16	Node16				80	0.1500	no	0.3111	no	0.9193	YES	0.4304	0.1611
+ancestor	Node17	Node17				80	0.1200	no	0.3153	no	0.9287	YES	0.4187	0.1953
+ancestor	Node18	Node18				80	0.2013	no	0.3116	no	0.9093	YES	0.4108	0.1103
+ancestor	Node19	Node19				80	0.2393	no	0.3179	no	0.9133	YES	0.5864	0.0786
+ancestor	Node20	Node20				80	0.2113	no	0.3133	no	0.7840	YES	0.4077	0.1020
+ancestor	Node21	Node21				80	0.1200	no	0.3153	no	0.9347	YES	0.4187	0.1953
+ancestor	Node22	Node22				80	0.1360	no	0.3399	no	0.9340	YES	0.4836	0.2039
+ancestor	Node23	Node23				80	0.2087	no	0.2685	no	0.8100	YES	0.2964	0.0598
+ancestor	Node24	Node24				80	0.2327	no	0.2379	no	0.8787	YES	0.2638	0.0052
+ancestor	Node25	Node25				80	0.2067	no	0.2118	no	0.8767	YES	0.2668	0.0051
+ancestor	Node26	Node26				80	0.2100	no	0.1830	no	0.8360	YES	0.1972	-0.0270
+ancestor	Node27	Node27				80	0.2140	no	0.2076	no	0.9100	YES	0.2838	-0.0064
+ancestor	Node28	Node28				80	0.1393	no	0.2908	no	0.8193	YES	0.3161	0.1515
+ancestor	Node29	Node29				80	0.1513	no	0.2898	no	0.8667	YES	0.4296	0.1385
+ancestor	Node30	Node30				80	0.1920	no	0.2912	no	0.9280	YES	0.4007	0.0992
+ancestor	Node31	Node31				80	0.1187	no	0.2933	no	0.9407	YES	0.3713	0.1746
+ancestor	Node32	Node32				80	0.0653	no	0.3232	no	0.9247	YES	0.3623	0.2579
+ancestor	Node33	Node33				80	0.0587	no	0.3160	no	0.8813	YES	0.2373	0.2573
+ancestor	Node34	Node34				80	0.0707	no	0.2568	no	0.6947	YES	0.2414	0.1861
+ancestor	Node35	Node35				80	0.2193	no	0.2631	no	0.9433	YES	0.3882	0.0438
+ancestor	Node36	Node36				80	0.2367	no	0.2804	no	0.8947	YES	0.4108	0.0437
+ancestor	Node37	Node37				80	0.2113	no	0.3263	no	0.8720	YES	0.4925	0.1150
+ancestor	Node38	Node38				80	0.1927	no	0.2946	no	0.7813	YES	0.5378	0.1019
+ancestor	Node39	Node39				80	0.2227	no	0.1929	no	0.7447	YES	0.3465	-0.0298
+ancestor	Node40	Node40				80	0.0560	no	0.2637	no	0.6827	YES	0.2205	0.2077
+ancestor	Node41	Node41				80	0.0687	no	0.2729	no	0.9000	YES	0.2221	0.2042
+ancestor	Node42	Node42				80	0.1620	no	0.1805	no	0.7960	YES	0.2513	0.0185
+ancestor	Node43	Node43				80	0.0313	no	0.1669	no	0.6887	YES	0.1201	0.1356

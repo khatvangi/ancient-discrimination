@@ -1,0 +1,8 @@
+Protein                    Len  DNA_prob DNA_bind  RNA_prob RNA_bind  Pro_prob Pro_bind  Nuc_prob
+-------------------------------------------------------------------------------------------------------------------
+sp|P0A9X9|CSPA_ECOLI        70    0.0373       no    0.1804       no    0.6373      YES    0.0885
+sp|P62244|RS15A_HUMAN      130    0.0693       no    0.4574       no    0.8727      YES    0.7431
+sp|P03023|LACI_ECOLI       360    0.6207      YES    0.1375       no    0.2313       no    0.7446
+sp|P04637|P53_HUMAN        393    0.9647      YES    0.2591       no    0.3827       no    0.8197
+sp|P67809|YBOX1_HUMAN      324    0.6200      YES    0.9675      YES    0.3440       no    0.9619
+sp|P69441|KAD_ECOLI        214    0.3287       no    0.7362      YES    0.7500      YES    0.9336

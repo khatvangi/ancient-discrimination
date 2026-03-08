@@ -1,0 +1,254 @@
+ipr_id	pfam_id	pfam_name	ipr_name	source
+IPR000026	PF00545	ribonuclease	Guanine-specific ribonuclease N1-like	universal_only
+IPR000037	PF01668	SmpB protein	SsrA-binding protein	universal_only
+IPR000055	PF01420	Type I restriction modification DNA specificity domain	Type I restriction modification DNA specificity domain	universal_only
+IPR000061	PF01805	Surp module	SWAP/Surp	universal_only
+IPR000119	PF00216	Bacterial DNA-binding protein	Histone-like DNA-binding protein	universal_only
+IPR000268	PF01194	RNA polymerases N / 8 kDa subunit	DNA-directed RNA polymerase subunit RPABC5/Rpb10	universal_only
+IPR000467	PF01585	G-patch domain	G-patch domain	universal_only
+IPR000504	PF28441	RRM domain	RNA recognition motif domain	universal_only
+IPR000504	PF16367	RNA recognition motif	RNA recognition motif domain	universal_only
+IPR000504	PF00076	RNA recognition motif	RNA recognition motif domain	universal_only
+IPR000551	PF13411	MerR HTH family regulatory protein	MerR-type HTH domain	universal_only
+IPR000551	PF00376	MerR family regulatory protein	MerR-type HTH domain	universal_only
+IPR000605	PF00910	RNA helicase	Helicase, superfamily 3, single-stranded DNA/RNA virus	universal_only
+IPR000692	PF01269	Fibrillarin	rRNA 2'-O-methyltransferase fibrillarin-like	universal_only
+IPR000722	PF00623	RNA polymerase Rpb1, domain 2	RNA polymerase, alpha subunit	universal_only
+IPR000783	PF01191	RNA polymerase Rpb5, C-terminal domain	RNA polymerase, subunit H/Rpb5 C-terminal	universal_only
+IPR000814	PF00352	Transcription factor TFIID (or TATA-binding protein, TBP)	TATA-box binding protein	universal_only
+IPR000843	PF00356	Bacterial regulatory proteins, lacI family	LacI-type HTH domain	green51+universal
+IPR000989	PF01446	Replication protein	Replication protein	universal_only
+IPR001037	PF00552	Integrase DNA binding domain	Integrase, C-terminal, retroviral	universal_only
+IPR001040	PF01652	Eukaryotic initiation factor 4E	Translation Initiation factor eIF- 4e	universal_only
+IPR001098	PF00476	DNA polymerase family A	DNA-directed DNA polymerase, family A, palm domain	universal_only
+IPR001205	PF00680	Viral RNA-dependent RNA polymerase	RNA-directed RNA polymerase, C-terminal domain	universal_only
+IPR001207	PF00872	Transposase, Mutator family	Transposase, mutator type	universal_only
+IPR001208	PF00493	MCM P-loop domain	MCM domain	universal_only
+IPR001222	PF01096	Transcription factor S-II (TFIIS)	Zinc finger, TFIIS-type	universal_only
+IPR001356	PF00046	Homeodomain	Homeodomain	universal_only
+IPR001374	PF01424	R3H domain	R3H domain	universal_only
+IPR001437	PF01272	Transcription elongation factor, GreA/GreB, C-term	Transcription elongation factor, GreA/GreB, C-terminal	universal_only
+IPR001510	PF00645	Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region	Zinc finger, PARP-type	universal_only
+IPR001523	PF00292	'Paired box' domain	Paired domain	universal_only
+IPR001537	PF00588	SpoU rRNA Methylase family	tRNA/rRNA methyltransferase, SpoU type	universal_only
+IPR001604	PF01223	DNA/RNA non-specific endonuclease	DNA/RNA non-specific endonuclease/pyrophosphatase/phosphodiesterase domain	universal_only
+IPR001606	PF01388	ARID/BRIGHT DNA binding domain	ARID DNA-binding domain	universal_only
+IPR001647	PF00440	Bacterial regulatory proteins, tetR family	DNA-binding HTH domain, TetR-type	green51+universal
+IPR001656	PF01142	tRNA pseudouridine synthase D (TruD)	Pseudouridine synthase, TruD	universal_only
+IPR001668	PF01076	Plasmid recombination enzyme	Plasmid recombination enzyme	universal_only
+IPR001739	PF01429	Methyl-CpG binding domain	Methyl-CpG DNA binding	universal_only
+IPR001867	PF00486	Transcriptional regulatory protein, C terminal	OmpR/PhoB-type DNA-binding domain	universal_only
+IPR001878	PF00098	Zinc knuckle	Zinc finger, CCHC-type	universal_only
+IPR001890	PF01985	CRS1 / YhbY (CRM) domain	RNA-binding, CRM domain	universal_only
+IPR001892	PF00416	Ribosomal protein S13/S18	Small ribosomal subunit protein uS13	universal_only
+IPR001900	PF00773	RNB domain	Ribonuclease II/R	universal_only
+IPR002004	PF00658	MLLE domain	Polyadenylate-binding protein/Hyperplastic disc protein, C-terminal	universal_only
+IPR002059	PF00313	'Cold-shock' DNA-binding domain	Cold-shock protein Csp, DNA-binding	universal_only
+IPR002100	PF00319	SRF-type transcription factor (DNA-binding and dimerisation domain)	Transcription factor, MADS-box	universal_only
+IPR002104	PF00589	Phage integrase family	Integrase, catalytic domain	universal_only
+IPR002121	PF00570	HRDC domain	HRDC domain	universal_only
+IPR002156	PF13456	Reverse transcriptase-like	Ribonuclease H domain	universal_only
+IPR002156	PF00075	RNase H	Ribonuclease H domain	universal_only
+IPR002186	PF00960	Neocarzinostatin family	Neocarzinostatin-like	universal_only
+IPR002205	PF00521	DNA gyrase/topoisomerase IV, subunit A	DNA topoisomerase, type IIA, domain A	universal_only
+IPR002288	PF00986	DNA gyrase B subunit, carboxyl terminus	DNA gyrase B subunit, C-terminal	universal_only
+IPR002466	PF02137	Adenosine-deaminase (editase) domain	Adenosine deaminase/editase	universal_only
+IPR002478	PF01472	PUA domain	PUA domain	universal_only
+IPR002492	PF01498	Transposase	Transposase, Tc1-like	universal_only
+IPR002514	PF01527	Transposase	Transposase IS3/IS911family	universal_only
+IPR002525	PF01548	Transposase	Transposase IS110-like, N-terminal	universal_only
+IPR002543	PF01580	FtsK/SpoIIIE family	FtsK domain	universal_only
+IPR002559	PF01609	Transposase DDE domain	Transposase IS4-like domain	universal_only
+IPR002562	PF01612	3'-5' exonuclease	3'-5' exonuclease domain	universal_only
+IPR002583	PF01649	Ribosomal protein S20	Small ribosomal subunit protein bS20	universal_only
+IPR002631	PF01719	Plasmid replication protein, origin binding domain	Plasmid replication protein, origin binding domain	universal_only
+IPR002646	PF01743	Poly A polymerase head domain	Poly A polymerase, head domain	universal_only
+IPR002686	PF01797	Transposase IS200 like	Transposase IS200-like	universal_only
+IPR002694	PF01807	CHC2 zinc finger	Zinc finger, CHC2-type	universal_only
+IPR002711	PF01844	HNH endonuclease	HNH endonuclease	universal_only
+IPR002729	PF01867	CRISPR associated protein Cas1	CRISPR-associated protein Cas1	universal_only
+IPR002730	PF01868	Ribonuclease P/MRP, subunit p29	Ribonuclease P protein subunit Rpp29/RNP1	universal_only
+IPR002775	PF01918	Alba	DNA/RNA-binding protein Alba-like	universal_only
+IPR002836	PF01984	Double-stranded DNA-binding domain	PDCD5-like	universal_only
+IPR002857	PF02008	CXXC zinc finger domain	Zinc finger, CXXC-type	universal_only
+IPR002905	PF02005	N2,N2-dimethylguanosine tRNA methyltransferase	tRNA methyltransferase, Trm1	universal_only
+IPR002941	PF01555	DNA methylase	DNA methylase N-4/N-6	universal_only
+IPR002942	PF01479	S4 domain	RNA-binding S4 domain	universal_only
+IPR003029	PF00575	S1 RNA binding domain	S1 domain	universal_only
+IPR003100	PF02170	PAZ domain	PAZ domain	universal_only
+IPR003150	PF02257	RFX DNA-binding domain	DNA-binding RFX-type winged-helix domain	universal_only
+IPR003154	PF02265	S1/P1 Nuclease	S1/P1 nuclease	green51+universal
+IPR003156	PF02272	DHHA1 domain	DHHA1 domain	universal_only
+IPR003165	PF02171	Piwi domain	Piwi domain	universal_only
+IPR003173	PF02229	Transcriptional Coactivator p15 (PC4)	Transcriptional coactivator p15 (PC4), C-terminal	universal_only
+IPR003180	PF02245	Methylpurine-DNA glycosylase (MPG)	Methylpurine-DNA glycosylase	universal_only
+IPR003314	PF02316	Mu DNA-binding domain	Mu-type HTH domain	universal_only
+IPR003340	PF02362	B3 DNA binding domain	B3 DNA binding domain	universal_only
+IPR003346	PF02371	Transposase IS116/IS110/IS902 family	Transposase IS116/IS110/IS902, C-terminal	universal_only
+IPR003350	PF02376	CUT domain	CUT domain	universal_only
+IPR003356	PF02384	N-6 DNA Methylase	DNA methylase, adenine-specific	universal_only
+IPR003477	PF02452	PemK-like, MazF-like toxin of type II toxin-antitoxin system	mRNA interferase PemK-like	universal_only
+IPR003611	PF07460	NUMOD3 motif	Nuclease associated modular domain 3	universal_only
+IPR003650	PF07527	Hairy Orange	Orange domain	universal_only
+IPR003652	PF08517	Ataxin-1 and HBP1 module (AXH)	Ataxin, AXH domain	universal_only
+IPR003656	PF26664	BED-like zinc finger	Zinc finger, BED-type	universal_only
+IPR003656	PF02892	BED zinc finger	Zinc finger, BED-type	universal_only
+IPR003690	PF02536	mTERF	Transcription termination factor, mitochondrial/chloroplastic	universal_only
+IPR003735	PF02583	Metal-sensitive transcriptional repressor	Metal-sensitive transcriptional repressor	green51+universal
+IPR003751	PF02599	Global regulator protein family	Translational regulator CsrA	universal_only
+IPR003890	PF02854	MIF4G domain	MIF4G-like, type 3	universal_only
+IPR003902	PF03615	GCM motif protein	Transcription regulator GCM domain	universal_only
+IPR004026	PF02805	Metal binding domain of Ada	Ada DNA repair, metal-binding	universal_only
+IPR004044	PF07650	KH domain	K Homology domain, type 2	universal_only
+IPR004088	PF15985	KH domain	K Homology domain, type 1	universal_only
+IPR004088	PF00013	KH domain	K Homology domain, type 1	universal_only
+IPR004107	PF14659	Phage integrase, N-terminal SAM-like domain	Integrase, SAM-like, N-terminal	universal_only
+IPR004107	PF13495	Phage integrase, N-terminal SAM-like domain	Integrase, SAM-like, N-terminal	universal_only
+IPR004107	PF02899	Phage integrase, N-terminal SAM-like domain	Integrase, SAM-like, N-terminal	universal_only
+IPR004114	PF02926	THUMP domain	THUMP domain	universal_only
+IPR004343	PF03126	Plus-3 domain	Plus-3 domain	universal_only
+IPR004365	PF01336	OB-fold nucleic acid binding domain	OB-fold nucleic acid binding domain, AA-tRNA synthetase-type	universal_only
+IPR004401	PF02575	YbaB/EbfC DNA-binding family	Nucleoid-associated protein YbaB/EbfC	universal_only
+IPR004826	PF03131	bZIP Maf transcription factor	Basic leucine zipper domain, Maf-type	universal_only
+IPR004859	PF03159	XRN 5'-3' exonuclease N-terminus	Xrn1, N-terminal	universal_only
+IPR004868	PF03175	DNA polymerase type B, organellar and viral	DNA-directed DNA polymerase, family B, mitochondria/virus	universal_only
+IPR004871	PF03178	CPSF A subunit region	RSE1/DDB1/CPSF1, C-terminal	universal_only
+IPR005001	PF17209	Hfq protein	RNA-binding protein Hfq	universal_only
+IPR005039	PF03374	Phage antirepressor protein KilAC domain	Antirepressor protein, C-terminal	universal_only
+IPR005063	PF03400	IS1 transposase	Transposase, IS1	universal_only
+IPR005104	PF03444	Winged helix-turn-helix transcription repressor, HrcA DNA-binding	Winged helix-turn-helix transcription repressor, HrcA DNA-binding domain	universal_only
+IPR005146	PF03483	B3/4 domain	B3/B4 tRNA-binding domain	universal_only
+IPR005147	PF03484	tRNA synthetase B5 domain	tRNA synthetase, B5-domain	green51+universal
+IPR005471	PF09339	IclR helix-turn-helix domain	Transcription regulator IclR, N-terminal	universal_only
+IPR005539	PF03789	ELK domain	ELK domain	universal_only
+IPR005561	PF03861	ANTAR domain	ANTAR domain	universal_only
+IPR005569	PF03869	Arc-like DNA binding domain	Arc-like DNA binding domain	universal_only
+IPR005571	PF03871	RNA polymerase Rpb5, N-terminal domain	RNA polymerase, Rpb5, N-terminal	universal_only
+IPR005650	PF03965	Penicillinase repressor	BlaI transcriptional regulatory family	green51+universal
+IPR005818	PF00538	linker histone H1 and H5 family	Linker histone H1/H5, domain H15	universal_only
+IPR006027	PF01029	NusB family	NusB/RsmB/TIM44	universal_only
+IPR006110	PF01192	RNA polymerase Rpb6	RNA polymerase, subunit omega/Rpo6/RPB6	universal_only
+IPR006119	PF00239	Resolvase, N terminal domain	Resolvase, N-terminal catalytic domain	universal_only
+IPR006120	PF02796	Helix-turn-helix domain of resolvase	Resolvase, HTH domain	universal_only
+IPR006134	PF00136	DNA polymerase family B	DNA-directed DNA polymerase, family B, multifunctional domain	universal_only
+IPR006145	PF00849	RNA pseudouridylate synthase	Pseudouridine synthase, RsuA/RluA-like	universal_only
+IPR006164	PF02735	Ku70/Ku80 beta-barrel domain	Ku70/Ku80, DNA-binding domain	universal_only
+IPR006166	PF02732	ERCC4 domain	ERCC4 domain	universal_only
+IPR006196	PF01176	Translation initiation factor 1A / IF-1	RNA-binding domain, S1, IF1 type	universal_only
+IPR006555	PF13307	Helicase C-terminal domain	ATP-dependent helicase, C-terminal	universal_only
+IPR006591	PF03604	DNA directed RNA polymerase, 7 kDa subunit	RNA polymerase archaeal subunit P/eukaryotic subunit RPABC4	universal_only
+IPR006779	PF04689	DNA binding protein S1FA	DNA binding protein S1FA	universal_only
+IPR006815	PF04726	Microvirus J protein	Microvirus J protein-like	universal_only
+IPR006935	PF04851	Type III restriction enzyme, res subunit	Helicase/UvrB, N-terminal	universal_only
+IPR007046	PF04963	Sigma-54 factor, core binding domain	RNA polymerase sigma factor 54, core-binding domain	universal_only
+IPR007066	PF04983	RNA polymerase Rpb1, domain 3	RNA polymerase Rpb1, domain 3	universal_only
+IPR007069	PF04986	Putative transposase	Transposase, IS801/IS1294	universal_only
+IPR007073	PF04990	RNA polymerase Rpb1, domain 7	RNA polymerase Rpb1, domain 7	universal_only
+IPR007075	PF04992	RNA polymerase Rpb1, domain 6	RNA polymerase Rpb1, domain 6	universal_only
+IPR007080	PF04997	RNA polymerase Rpb1, domain 1	RNA polymerase Rpb1, domain 1	universal_only
+IPR007081	PF04998	RNA polymerase Rpb1, domain 5	RNA polymerase Rpb1, domain 5	universal_only
+IPR007083	PF05000	RNA polymerase Rpb1, domain 4	RNA polymerase Rpb1, domain 4	universal_only
+IPR007120	PF00562	RNA polymerase Rpb2, domain 6	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain	universal_only
+IPR007125	PF00125	Core histone H2A/H2B/H3/H4 domain	Core Histone H2A/H2B/H3 domain	universal_only
+IPR007127	PF03979	Sigma-70 factor, region 1.1	RNA polymerase sigma factor 70, region 1.1	universal_only
+IPR007159	PF04014	Antidote-toxin recognition MazE, bacterial antitoxin	SpoVT-AbrB domain	universal_only
+IPR007185	PF04042	DNA polymerase alpha/epsilon subunit B	DNA polymerase alpha/delta/epsilon, subunit B	universal_only
+IPR007275	PF04146	YT521-B-like domain	YTH domain	universal_only
+IPR007406	PF04310	MukB N-terminal	MukB, N-terminal domain	universal_only
+IPR007409	PF04313	Type I restriction enzyme R protein N terminus (HSDR_N)	Restriction endonuclease, type I, HsdR, N-terminal	universal_only
+IPR007492	PF04397	LytTr DNA-binding domain	LytTR DNA-binding domain	universal_only
+IPR007560	PF04471	Restriction endonuclease	Restriction endonuclease type IV, Mrr	universal_only
+IPR007637	PF04556	DpnII restriction endonuclease	Restriction endonuclease, type II, DpnII-like	universal_only
+IPR007641	PF04560	RNA polymerase Rpb2, domain 7	RNA polymerase Rpb2, domain 7	universal_only
+IPR007642	PF04561	RNA polymerase Rpb2, domain 2	RNA polymerase Rpb2, domain 2	green51+universal
+IPR007644	PF04563	RNA polymerase beta subunit	RNA polymerase, beta subunit, protrusion	green51+universal
+IPR007645	PF04565	RNA polymerase Rpb2, domain 3	RNA polymerase Rpb2, domain 3	green51+universal
+IPR007646	PF04566	RNA polymerase Rpb2, domain 4	RNA polymerase Rpb2, domain 4	universal_only
+IPR007869	PF05204	Homing endonuclease	Homing endonuclease PI-Sce	universal_only
+IPR007889	PF04218	CENP-B N-terminal DNA-binding domain	DNA binding HTH domain, Psq-type	universal_only
+IPR007889	PF05225	helix-turn-helix, Psq domain	DNA binding HTH domain, Psq-type	universal_only
+IPR008336	PF02919	Eukaryotic DNA topoisomerase I, DNA binding fragment	DNA topoisomerase I, DNA binding, eukaryotic-type	universal_only
+IPR008422	PF05920	Homeobox KN domain	KN homeodomain	universal_only
+IPR008593	PF05869	DNA N-6-adenine-methyltransferase (Dam)	DNA N-6-adenine-methyltransferase	universal_only
+IPR008807	PF05443	ROS/MUCR transcriptional regulator protein	ROS/MUCR transcriptional regulator	universal_only
+IPR008823	PF05491	RuvB C-terminal winged helix domain	RuvB, winged helix, C-terminal domain	green51+universal
+IPR008858	PF05731	TROVE domain	TROVE domain	universal_only
+IPR009042	PF00140	Sigma-70 factor, region 1.2	RNA polymerase sigma-70 region 1.2	universal_only
+IPR009105	PF09000	Cytotoxic	Colicin E3-like ribonuclease domain	universal_only
+IPR009528	PF06616	BsuBI/PstI restriction endonuclease domain	BsuBI/PstI restriction endonuclease domain	universal_only
+IPR009679	PF06892	Phage regulatory protein CII (CP76)	Bacteriophage 186, CII-like	universal_only
+IPR009970	PF07382	Histone H1-like nucleoprotein HC2	Histone H1-like nucleoprotein HC2	universal_only
+IPR010372	PF06144	DNA polymerase III, delta subunit	DNA polymerase III delta, N-terminal	green51+universal
+IPR010524	PF06506	Propionate catabolism activator	Signal transduction response regulator, propionate catabolism activator, N-terminal	universal_only
+IPR010578	PF06621	Single-minded protein C-terminus	Single-minded, C-terminal	universal_only
+IPR010614	PF06733	DEAD_2	RAD3-like helicase, DEAD	universal_only
+IPR010712	PF06953	Arsenical resistance operon protein ArsD	Arsenical-resistance operon trans-acting repressor ArsD	universal_only
+IPR010744	PF07022	Bacteriophage CI repressor helix-turn-helix domain	Bacteriophage CI repressor, N-terminal	universal_only
+IPR010886	PF07432	Histone H1-like protein Hc1	Histone H1-like Hc1	universal_only
+IPR011109	PF07508	Recombinase	DNA-binding recombinase domain	universal_only
+IPR011113	PF07497	Rho termination factor, RNA-binding domain	Rho termination factor, RNA-binding domain	universal_only
+IPR011260	PF03118	Bacterial RNA polymerase, alpha chain C terminal domain	RNA polymerase, alpha subunit, C-terminal	universal_only
+IPR011337	PF02976	DNA mismatch repair enzyme MutH	DNA mismatch repair MutH/Type II restriction enzyme Sau3AI	universal_only
+IPR011488	PF07541	Eukaryotic translation initiation factor 2 alpha subunit	Translation initiation factor 2, alpha subunit	universal_only
+IPR011539	PF00554	Rel homology DNA-binding domain	Rel homology domain, DNA-binding domain	universal_only
+IPR011545	PF00270	DEAD/DEAH box helicase	DEAD/DEAH-box helicase domain	universal_only
+IPR011663	PF07702	UTRA domain	UbiC transcription regulator-associated	green51+universal
+IPR012308	PF04675	DNA ligase N terminus	DNA ligase, ATP-dependent, N-terminal	universal_only
+IPR012318	PF13545	Crp-like helix-turn-helix domain	Crp-type HTH domain	universal_only
+IPR012318	PF00325	Bacterial regulatory proteins, crp family	Crp-type HTH domain	universal_only
+IPR013049	PF04406	Type IIB DNA topoisomerase	Spo11/DNA topoisomerase VI, subunit A, N-terminal	universal_only
+IPR013249	PF08281	Sigma-70, region 4	RNA polymerase sigma factor 70, region 4 type 2	universal_only
+IPR013497	PF01131	DNA topoisomerase	DNA topoisomerase, type IA, central	universal_only
+IPR013498	PF01396	Topoisomerase DNA binding C4 zinc finger	DNA topoisomerase, type IA, zn finger	universal_only
+IPR013500	PF01028	Eukaryotic DNA topoisomerase I, catalytic core	DNA topoisomerase I, catalytic core, eukaryotic-type	universal_only
+IPR013506	PF00204	DNA gyrase B	DNA topoisomerase, type IIA, subunit B, domain 2	universal_only
+IPR013524	PF00853	Runt domain	Runt domain	universal_only
+IPR013572	PF08361	MAATS-type transcriptional repressor, C-terminal region	Transcription regulator MAATS, C-terminal	universal_only
+IPR013670	PF08463	EcoEI R protein C-terminal	EcoEI R protein C-terminal domain	universal_only
+IPR013810	PF00333	Ribosomal protein S5, N-terminal domain	Small ribosomal subunit protein uS5, N-terminal	universal_only
+IPR013970	PF08661	Replication factor A protein 3	Replication factor A protein 3	universal_only
+IPR014905	PF08797	HIRAN domain	HIRAN domain	universal_only
+IPR015109	PF09019	EcoRII C terminal	Restriction endonuclease, type II, EcoRII, C-terminal	universal_only
+IPR015190	PF09106	Elongation factor SelB, winged helix	Translation elongation factor SelB, winged helix, type 2	universal_only
+IPR015191	PF09107	Elongation factor SelB, winged helix	Elongation factor SelB, fourth winged-helix domain	universal_only
+IPR015195	PF09111	SLIDE	SLIDE domain	universal_only
+IPR015199	PF09115	DNA polymerase III, delta subunit, C terminal	DNA polymerase III, delta subunit, C-terminal	green51+universal
+IPR015240	PF09157	Pseudouridine synthase II TruB, C-terminal	tRNA pseudouridine synthase II, TruB, subfamily 1, C-terminal	universal_only
+IPR015265	PF09182	Bacterial purine repressor, N-terminal	Bacterial purine repressor, N-terminal	green51+universal
+IPR015320	PF09239	Topoisomerase VI B subunit, transducer	DNA topoisomerase VI, subunit B, transducer	universal_only
+IPR015820	PF01021	Ty transposon capsid protein	TyA domain	universal_only
+IPR015848	PF03726	Polyribonucleotide nucleotidyltransferase, RNA binding domain	Polyribonucleotide nucleotidyltransferase, RNA-binding domain	green51+universal
+IPR018327	PF10404	Rad4 beta-hairpin domain 2	Rad4 beta-hairpin domain 2	universal_only
+IPR018330	PF03837	RecT family	RecT family	green51+universal
+IPR018669	PF09907	HigB_toxin, RelE-like toxic component of a toxin-antitoxin system	Toxin-antitoxin system, mRNA interferase HigB	universal_only
+IPR018944	PF10391	Fingers domain of DNA polymerase lambda	DNA polymerase lambda, fingers domain	universal_only
+IPR019057	PF09553	Eco47II restriction endonuclease	Restriction endonuclease, type II, Eco47II	universal_only
+IPR019068	PF09568	MjaI restriction endonuclease	Restriction endonuclease, type II, MjaI-like	universal_only
+IPR019307	PF10150	Ribonuclease E/G family	RNA-binding protein AU-1/Ribonuclease E/G	universal_only
+IPR020045	PF01367	5'-3' exonuclease, C-terminal SAM fold	DNA polymerase I-like, H3TH domain	universal_only
+IPR020046	PF02739	5'-3' exonuclease, N-terminal resolvase-like domain	5'-3' exonuclease, alpha-helical arch, N-terminal	universal_only
+IPR020097	PF01416	tRNA pseudouridine synthase	Pseudouridine synthase I, TruA, alpha/beta domain	universal_only
+IPR020189	PF01287	Eukaryotic elongation factor 5A hypusine, DNA-binding OB fold	Translation initiation factor 5A, C-terminal	universal_only
+IPR021153	PF01628	HrcA protein C terminal domain	Heat-inducible transcription repressor HrcA, C-terminal	green51+universal
+IPR022634	PF00712	DNA polymerase III beta subunit, N-terminal domain	DNA polymerase III, beta sliding clamp, N-terminal	universal_only
+IPR022635	PF02768	DNA polymerase III beta subunit, C-terminal domain	DNA polymerase III, beta sliding clamp, C-terminal	green51+universal
+IPR022648	PF00705	Proliferating cell nuclear antigen, N-terminal domain	Proliferating cell nuclear antigen, PCNA, N-terminal	universal_only
+IPR022649	PF02747	Proliferating cell nuclear antigen, C-terminal domain	Proliferating cell nuclear antigen, PCNA, C-terminal	universal_only
+IPR022687	PF01325	Iron dependent repressor, N-terminal DNA binding domain	DTXR-type, HTH domain	universal_only
+IPR022691	PF03449	Transcription elongation factor, N-terminal	Transcription elongation factor, GreA/GreB, N-terminal	universal_only
+IPR022758	PF11408	Sgs1 RecQ helicase	ATP-dependent helicase Sgs1	universal_only
+IPR025249	PF13184	NusA-like first KH domain	Transcription factor NusA, first KH domain	universal_only
+IPR025824	PF13742	OB-fold nucleic acid binding domain	OB-fold nucleic acid binding domain	green51+universal
+IPR025898	PF11427	Tc3 transposase	Tc3 transposase, DNA binding domain	universal_only
+IPR026577	PF03925	SeqA protein C-terminal domain	Replication modulator SeqA, C-terminal DNA-binding domain	green51+universal
+IPR027444	PF00816	H-NS histone C-terminal domain	DNA-binding protein H-NS-like, C-terminal domain	universal_only
+IPR028088	PF14641	Helix-turn-helix DNA-binding domain of SPT6	Helix-turn-helix DNA-binding domain of Spt6	green51+universal
+IPR029344	PF15247	Histone RNA hairpin-binding protein RNA-binding domain	Histone RNA hairpin-binding protein, RNA-binding domain	universal_only
+IPR030828	PF18024	Helix-turn-helix domain	TyrR-like, helix-turn-helix domain	universal_only
+IPR032524	PF16326	ABC transporter C-terminal domain	ABC transporter Uup, C-terminal	green51+universal
+IPR041222	PF17764	3'DNA-binding domain (3'BD)	Primosomal protein N', 3' DNA-binding domain	green51+universal
+IPR041532	PF17785	PUA-like domain	RlmI-like, PUA domain	universal_only
+IPR042371	PF02295	Adenosine deaminase z-alpha domain	Z-binding domain	universal_only
+IPR046367	PF10073	GapR-like, DNA-binding domain	GapR-like, DNA-binding domain	green51+universal
+IPR046847	PF20432	Antitoxin Xre-like helix-turn-helix domain	Antitoxin Xre-like, helix-turn-helix domain	green51+universal
+IPR048761	PF21138	Helicase SMUBP-2/HCS1, 1B domain	Helicase SMUBP-2/HCS1, 1B domain	universal_only

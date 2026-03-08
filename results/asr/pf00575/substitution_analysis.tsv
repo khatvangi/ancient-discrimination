@@ -1,0 +1,9 @@
+pfam_id	aln_col	col_type	target_type	modern_aa	ancestral_aa	ancestral_pp	contact_type	substitution_class	anc_group	mod_group
+PF00575	6	DNA-only	DNA	G	D	0.9033	backbone	radical	acidic	special
+PF00575	7	DNA-only	DNA	I	V	0.8055	backbone	conservative	hydrophobic	hydrophobic
+PF00575	36	DNA-only	DNA	R	I	0.8377	backbone	radical	hydrophobic	basic
+PF00575	39	DNA-only	DNA	T	S	0.9957	backbone	conservative	polar	polar
+PF00575	41	DNA-only	DNA	P	E	0.9004	backbone	radical	acidic	special
+PF00575	42	DNA-only	DNA	S	L	0.8808	backbone	radical	hydrophobic	polar
+PF00575	76	DNA-only	DNA	Y	V	0.9634	backbone	radical	hydrophobic	aromatic
+PF00575	80	DNA-only	DNA	K	R	0.8265	backbone	conservative	basic	basic

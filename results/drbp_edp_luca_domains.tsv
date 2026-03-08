@@ -1,0 +1,88 @@
+pfam_id	name	age_class	rna_union	dna_binding	seq_length	rep_accession	entry_name	stage1_pred	stage1_prob	stage2_pred	stage2_prob
+PF00009	Selenocysteine-specific elongation factor	preLUCA	True	False	614	P14081	SELB_ECOLI	NABP	0.9974	RNA	1.0
+PF00013	Polyribonucleotide nucleotidyltransferase	LUCA	True	False	711	P05055	PNP_ECOLI	NABP	1.0	RNA	1.0
+PF00133	Isoleucine--tRNA ligase	preLUCA	True	False	938	P00956	SYI_ECOLI	NABP	0.8146	RNA	1.0
+PF00136	DNA polymerase II	LUCA	False	True	783	P21189	DPO2_ECOLI	NABP	0.8914	DNA	1.0
+PF00152	Elongation factor P--(R)-beta-lysine ligase	LUCA	True	False	325	P0A8N7	EPMA_ECOLI	non-NABP	0.5084	RNA	1.0
+PF00270	Replication restart protein PriA	LUCA	True	False	732	P17888	PRIA_ECOLI	NABP	1.0	DNA	1.0
+PF00330	Aconitate hydratase A	LUCA	True	False	891	P25516	ACNA_ECOLI	non-NABP	0.982	RNA	0.8358
+PF00347	Large ribosomal subunit protein uL6	LUCA	True	False	177	P0AG55	RL6_ECOLI	NABP	0.9998	RNA	1.0
+PF00398	Ribosomal RNA small subunit methyltransferase A	LUCA	True	False	273	P06992	RSMA_ECOLI	NABP	1.0	DNA	0.9998
+PF00448	Signal recognition particle receptor FtsY	LUCA	True	False	497	P10121	FTSY_ECOLI	non-NABP	0.8893	RNA	0.9921
+PF00466	Large ribosomal subunit protein uL10	LUCA	True	False	165	P0A7J3	RL10_ECOLI	NABP	1.0	RNA	1.0
+PF00488	DNA mismatch repair protein MutS	LUCA	False	True	853	P23909	MUTS_ECOLI	NABP	1.0	DNA	1.0
+PF00565	Uncharacterized protein MJ1439	LUCA	True	False	207	Q58834	Y1439_METJA	non-NABP	0.9998	DNA	0.9978
+PF00573	Large ribosomal subunit protein uL4	LUCA	True	False	201	P60723	RL4_ECOLI	NABP	1.0	DNA	0.881
+PF00575	Transcription termination/antitermination protein NusA	LUCA	True	False	495	P0AFF6	NUSA_ECOLI	NABP	0.9712	RNA	1.0
+PF00579	Tyrosine--tRNA ligase	LUCA	True	False	424	P0AGJ9	SYY_ECOLI	NABP	0.9834	RNA	1.0
+PF00580	ATP-dependent DNA helicase Rep	LUCA	True	False	673	P09980	REP_ECOLI	NABP	0.9999	DNA	1.0
+PF00587	Threonine--tRNA ligase	preLUCA	True	False	642	P0A8M3	SYT_ECOLI	NABP	0.9996	RNA	1.0
+PF00588	tRNA (cytidine(34)-2'-O)-methyltransferase	LUCA	True	False	157	P0AGJ7	TRML_ECOLI	NABP	0.993	RNA	1.0
+PF00589	Tyrosine recombinase XerC	LUCA	False	True	298	P0A8P6	XERC_ECOLI	NABP	1.0	DNA	1.0
+PF00633	Endonuclease III	LUCA	False	True	211	P0AB83	END3_ECOLI	NABP	0.9525	DNA	1.0
+PF00749	Glutamate--tRNA ligase	LUCA	True	False	471	P04805	SYE_ECOLI	NABP	1.0	RNA	1.0
+PF00750	Arginine--tRNA ligase	LUCA	True	False	577	P11875	SYR_ECOLI	non-NABP	0.9968	RNA	1.0
+PF00753	Hydroxyacylglutathione hydrolase GloB	LUCA	True	False	251	P0AC84	GLO2_ECOLI	non-NABP	1.0	DNA	0.9991
+PF01042	3-aminoacrylate deaminase RutC	LUCA	True	False	128	P0AFQ5	RUTC_ECOLI	non-NABP	1.0	RNA	0.9968
+PF01131	DNA topoisomerase 3	LUCA	False	True	653	P14294	TOP3_ECOLI	NABP	0.9999	DNA	1.0
+PF01142	tRNA pseudouridine synthase D	LUCA	True	False	349	Q57261	TRUD_ECOLI	NABP	1.0	RNA	1.0
+PF01170	Ribosomal RNA large subunit methyltransferase K/L	LUCA	True	False	702	P75864	RLMKL_ECOLI	NABP	1.0	RNA	1.0
+PF01189	Ribosomal RNA small subunit methyltransferase F	LUCA	True	False	479	P76273	RSMF_ECOLI	NABP	0.9994	RNA	1.0
+PF01207	tRNA-dihydrouridine(20/20a) synthase	LUCA	True	False	345	P32695	DUSA_ECOLI	non-NABP	0.8021	RNA	1.0
+PF01300	Carbamoyltransferase HypF	LUCA	True	False	750	P30131	HYPF_ECOLI	non-NABP	0.9804	RNA	0.9999
+PF01325	Transcriptional regulator MntR	LUCA	False	True	155	P0A9F1	MNTR_ECOLI	NABP	1.0	DNA	1.0
+PF01336	Asparagine--tRNA ligase	preLUCA	True	False	466	P0A8M0	SYN_ECOLI	NABP	0.7152	RNA	0.9749
+PF01411	Alanine--tRNA ligase	LUCA	True	False	876	P00957	SYA_ECOLI	NABP	0.9999	RNA	1.0
+PF01420	Type I restriction enzyme EcoKI specificity subunit	LUCA	False	True	464	P05719	T1SK_ECOLI	NABP	1.0	DNA	1.0
+PF01472	Glutamate 5-kinase	LUCA	True	False	367	P0A7B5	PROB_ECOLI	NABP	0.9995	RNA	1.0
+PF01479	Heat shock protein 15	LUCA	True	False	133	P0ACG8	HSLR_ECOLI	NABP	0.9998	RNA	1.0
+PF01509	tRNA pseudouridine synthase B	LUCA	True	False	314	P60340	TRUB_ECOLI	NABP	1.0	RNA	1.0
+PF01548	Pilin gene-inverting protein	LUCA	False	True	322	P20665	PIV_MORBO	NABP	1.0	DNA	1.0
+PF01555	DNA adenine methyltransferase YhdJ	LUCA	False	True	294	P28638	YHDJ_ECOLI	NABP	1.0	DNA	1.0
+PF01588	Methionine--tRNA ligase	LUCA	True	False	677	P00959	SYM_ECOLI	NABP	0.999	RNA	1.0
+PF01609	Transposase InsH for insertion sequence element IS5A	preLUCA	False	True	326	P0CE49	INSH1_ECOLI	NABP	1.0	DNA	1.0
+PF01850	Ribonuclease VapC2	LUCA	True	False	149	Q58384	VAPC2_METJA	non-NABP	0.9117	DNA	0.9997
+PF01878	UPF0310 protein MJECL36	LUCA	True	False	144	Q60257	Y3536_METJA	NABP	0.9499	DNA	1.0
+PF01926	GTPase Era	LUCA	True	False	301	P06616	ERA_ECOLI	NABP	0.9017	RNA	1.0
+PF01936	Uncharacterized protein MJ0482	LUCA	True	False	240	Q57905	Y482_METJA	non-NABP	0.9016	DNA	0.636
+PF02171	Protein argonaute	LUCA	True	False	713	Q58717	AGO_METJA	NABP	0.9969	DNA	0.9495
+PF02272	Alanine--tRNA ligase	LUCA	True	False	876	P00957	SYA_ECOLI	NABP	0.9999	RNA	1.0
+PF02384	Type I restriction enzyme EcoKI methylase subunit	preLUCA	False	True	529	P08957	T1MK_ECOLI	NABP	1.0	DNA	1.0
+PF02475	tRNA (guanine(37)-N(1))-methyltransferase Trm5b	LUCA	True	False	336	Q58293	TRM5B_METJA	NABP	0.6495	RNA	1.0
+PF02586	Abasic site processing protein YedK	LUCA	False	True	222	P76318	YEDK_ECOLI	NABP	0.9986	DNA	1.0
+PF02732	Putative ATP-dependent RNA helicase MJ1505	LUCA	False	True	778	Q58900	Y1505_METJA	NABP	1.0	RNA	0.9636
+PF02834	RNA 2',3'-cyclic phosphodiesterase	LUCA	True	False	173	Q58963	THPR_METJA	non-NABP	0.9848	RNA	1.0
+PF02881	Signal recognition particle receptor FtsY	LUCA	True	False	497	P10121	FTSY_ECOLI	non-NABP	0.8893	RNA	0.9921
+PF02899	Tyrosine recombinase XerC	LUCA	False	True	298	P0A8P6	XERC_ECOLI	NABP	1.0	DNA	1.0
+PF03129	Threonine--tRNA ligase	LUCA	True	False	642	P0A8M3	SYT_ECOLI	NABP	0.9996	RNA	1.0
+PF03372	Exodeoxyribonuclease III	preLUCA	True	False	268	P09030	EX3_ECOLI	NABP	1.0	DNA	1.0
+PF03483	Phenylalanine--tRNA ligase beta subunit	LUCA	True	False	795	P07395	SYFB_ECOLI	NABP	0.9993	RNA	1.0
+PF03485	Arginine--tRNA ligase	LUCA	True	False	577	P11875	SYR_ECOLI	non-NABP	0.9968	RNA	1.0
+PF03737	Regulator of ribonuclease activity A	LUCA	True	False	161	P0A8R0	RRAA_ECOLI	non-NABP	1.0	RNA	0.9949
+PF03989	DNA gyrase subunit A	LUCA	False	True	875	P0AES4	GYRA_ECOLI	NABP	1.0	DNA	1.0
+PF04014	Antitoxin MazE	LUCA	False	True	82	P0AE72	MAZE_ECOLI	NABP	1.0	DNA	1.0
+PF04266	N(4)-acetylcytidine amidohydrolase	preLUCA	True	False	103	P67603	AC4CH_ECOLI	non-NABP	1.0	DNA	1.0
+PF04313	Putative type I restriction enzyme MjaIXP endonuclease subunit	preLUCA	False	True	1042	Q60295	T1RH_METJA	NABP	0.9394	DNA	0.9997
+PF04471	Type IV methyl-directed restriction enzyme EcoKMrr	LUCA	False	True	304	P24202	MRR_ECOLI	NABP	0.9864	DNA	1.0
+PF04851	Type I restriction enzyme EcoKI endonuclease subunit	preLUCA	True	True	1170	P08956	T1RK_ECOLI	NABP	0.9808	DNA	0.9999
+PF05191	Adenylate kinase	LUCA	True	False	214	P69441	KAD_ECOLI	non-NABP	1.0	DNA	1.0
+PF06733	ATP-dependent DNA helicase DinG	LUCA	False	True	716	P27296	DING_ECOLI	NABP	1.0	DNA	1.0
+PF06827	Endonuclease 8	LUCA	True	False	263	P50465	END8_ECOLI	NABP	1.0	DNA	1.0
+PF07521	Transcription termination factor FttA	LUCA	True	False	634	Q58633	FTTA_METJA	non-NABP	0.7195	RNA	1.0
+PF07650	GTPase Era	LUCA	True	False	301	P06616	ERA_ECOLI	NABP	0.9017	RNA	1.0
+PF07973	Threonine--tRNA ligase	LUCA	True	False	642	P0A8M3	SYT_ECOLI	NABP	0.9996	RNA	1.0
+PF08264	Isoleucine--tRNA ligase	LUCA	True	False	938	P00956	SYI_ECOLI	NABP	0.8146	RNA	1.0
+PF08443	Ribosomal protein bS6--L-glutamate ligase	LUCA	True	False	300	P0C0U4	RIMK_ECOLI	non-NABP	0.9998	DNA	0.9635
+PF08463	Type I restriction enzyme EcoKI endonuclease subunit	LUCA	False	True	1170	P08956	T1RK_ECOLI	NABP	0.9808	DNA	0.9999
+PF08494	Lhr helicase/uracil glycosylase	LUCA	True	False	1538	P30015	LHR_ECOLI	NABP	0.9997	DNA	0.9957
+PF09190	Cysteine--tRNA ligase	LUCA	True	False	461	P21888	SYC_ECOLI	non-NABP	0.911	RNA	1.0
+PF09334	Methionine--tRNA ligase	LUCA	True	False	677	P00959	SYM_ECOLI	NABP	0.999	RNA	1.0
+PF09339	HTH-type transcriptional repressor AllR	LUCA	False	True	271	P0ACN4	ALLR_ECOLI	NABP	1.0	DNA	1.0
+PF09414	Uncharacterized protein MJ0414	LUCA	True	False	395	Q57857	Y414_METJA	non-NABP	0.7033	RNA	0.8073
+PF09520	Type II restriction enzyme MjaII	preLUCA	False	True	370	Q58844	T2M2_METJA	NABP	0.9035	DNA	1.0
+PF10130	Uncharacterized protein MJECL38	LUCA	True	False	259	Q60293	Y3538_METJA	non-NABP	0.5914	DNA	0.999
+PF10996	Transcription termination factor FttA	LUCA	True	False	634	Q58633	FTTA_METJA	non-NABP	0.7195	RNA	1.0
+PF11799	Protein UmuC	LUCA	False	True	422	P04152	UMUC_ECOLI	NABP	1.0	DNA	1.0
+PF13404	HTH-type transcriptional regulator Rv2324	LUCA	False	True	148	P71888	R2324_MYCTU	NABP	1.0	DNA	1.0
+PF13495	Probable integrase/recombinase protein MJ0367	LUCA	False	True	330	Q57813	Y367_METJA	NABP	1.0	DNA	1.0
+PF13847	tRNA 5-carboxymethoxyuridine methyltransferase	preLUCA	True	False	261	P36566	CMOM_ECOLI	non-NABP	1.0	DNA	0.9999

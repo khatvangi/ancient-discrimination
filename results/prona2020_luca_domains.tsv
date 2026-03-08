@@ -1,0 +1,88 @@
+pfam_id	name	age_class	rna_union	dna_binding	rep_uniprot	organism	seq_length	P_DNA	P_RNA	P_protein	predicted_class
+PF00009	Selenocysteine-specific elongation factor	preLUCA	True	False	P14081	Escherichia coli (strain K12)	614	0.6240	0.4391	0.3480	DNA-only
+PF00013	Polyribonucleotide nucleotidyltransferase	LUCA	True	False	P05055	Escherichia coli (strain K12)	711	0.4793	0.9825	0.3393	RNA-only
+PF00133	Isoleucine--tRNA ligase	preLUCA	True	False	P00956	Escherichia coli (strain K12)	938	0.4300	0.6560	0.4040	non-binder
+PF00136	DNA polymerase II	LUCA	False	True	P21189	Escherichia coli (strain K12)	783	0.4713	0.8319	0.3573	RNA-only
+PF00152	Elongation factor P--(R)-beta-lysine ligase	LUCA	True	False	P0A8N7	Escherichia coli (strain K12)	325	0.8400	0.1479	0.3307	DNA-only
+PF00270	Replication restart protein PriA	LUCA	True	False	P17888	Escherichia coli (strain K12)	732	0.6280	0.1839	0.3067	DNA-only
+PF00330	Aconitate hydratase A	LUCA	True	False	P25516	Escherichia coli (strain K12)	891	0.4147	0.9356	0.3093	RNA-only
+PF00347	Large ribosomal subunit protein uL6	LUCA	True	False	P0AG55	Escherichia coli (strain K12)	177	0.0827	0.6773	0.5920	RNA-only
+PF00398	Ribosomal RNA small subunit methyltransferase A	LUCA	True	False	P06992	Escherichia coli (strain K12)	273	0.3367	0.3799	0.6840	non-binder
+PF00448	Signal recognition particle receptor FtsY	LUCA	True	False	P10121	Escherichia coli (strain K12)	497	0.4680	0.6817	0.4353	RNA-only
+PF00466	Large ribosomal subunit protein uL10	LUCA	True	False	P0A7J3	Escherichia coli (strain K12)	165	0.2967	0.3113	0.6060	non-binder
+PF00488	DNA mismatch repair protein MutS	LUCA	False	True	P23909	Escherichia coli (strain K12)	853	0.5787	0.8211	0.3880	dual
+PF00565	Uncharacterized protein MJ1439	LUCA	True	False	Q58834	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	207	0.5067	0.3713	0.4700	non-binder
+PF00573	Large ribosomal subunit protein uL4	LUCA	True	False	P60723	Escherichia coli (strain K12)	201	0.4407	0.5380	0.6213	RNA-only
+PF00575	Transcription termination/antitermination protein NusA	LUCA	True	False	P0AFF6	Escherichia coli (strain K12)	495	0.3693	0.6604	0.3560	RNA-only
+PF00579	Tyrosine--tRNA ligase	LUCA	True	False	P0AGJ9	Escherichia coli (strain K12)	424	0.5620	0.4767	0.3160	DNA-only
+PF00580	ATP-dependent DNA helicase Rep	LUCA	True	False	P09980	Escherichia coli (strain K12)	673	0.4973	0.9025	0.3027	RNA-only
+PF00587	Threonine--tRNA ligase	preLUCA	True	False	P0A8M3	Escherichia coli (strain K12)	642	0.2753	0.8015	0.3640	RNA-only
+PF00588	tRNA (cytidine(34)-2'-O)-methyltransferase	LUCA	True	False	P0AGJ7	Escherichia coli (strain K12)	157	0.0447	0.2014	0.6080	non-binder
+PF00589	Tyrosine recombinase XerC	LUCA	False	True	P0A8P6	Escherichia coli (strain K12)	298	0.7933	0.2721	0.4833	DNA-only
+PF00633	Endonuclease III	LUCA	False	True	P0AB83	Escherichia coli (strain K12)	211	0.2067	0.4551	0.7793	non-binder
+PF00749	Glutamate--tRNA ligase	LUCA	True	False	P04805	Escherichia coli (strain K12)	471	0.6447	0.5809	0.3313	dual
+PF00750	Arginine--tRNA ligase	LUCA	True	False	P11875	Escherichia coli (strain K12)	577	0.4413	0.7305	0.4293	RNA-only
+PF00753	Hydroxyacylglutathione hydrolase GloB	LUCA	True	False	P0AC84	Escherichia coli (strain K12)	251	0.4973	0.2073	0.7073	non-binder
+PF01042	3-aminoacrylate deaminase RutC	LUCA	True	False	P0AFQ5	Escherichia coli (strain K12)	128	0.0053	0.1775	0.7013	non-binder
+PF01131	DNA topoisomerase 3	LUCA	False	True	P14294	Escherichia coli (strain K12)	653	0.7113	0.8637	0.2193	dual
+PF01142	tRNA pseudouridine synthase D	LUCA	True	False	Q57261	Escherichia coli (strain K12)	349	0.7220	0.2437	0.2780	DNA-only
+PF01170	Ribosomal RNA large subunit methyltransferase K/L	LUCA	True	False	P75864	Escherichia coli (strain K12)	702	0.5207	0.7506	0.3073	dual
+PF01189	Ribosomal RNA small subunit methyltransferase F	LUCA	True	False	P76273	Escherichia coli (strain K12)	479	0.5587	0.1293	0.0987	DNA-only
+PF01207	tRNA-dihydrouridine(20/20a) synthase	LUCA	True	False	P32695	Escherichia coli (strain K12)	345	0.4100	0.3220	0.1600	non-binder
+PF01300	Carbamoyltransferase HypF	LUCA	True	False	P30131	Escherichia coli (strain K12)	750	0.4660	0.0060	0.2567	non-binder
+PF01325	Transcriptional regulator MntR	LUCA	False	True	P0A9F1	Escherichia coli (strain K12)	155	0.2947	0.3677	0.8647	non-binder
+PF01336	Asparagine--tRNA ligase	preLUCA	True	False	P0A8M0	Escherichia coli (strain K12)	466	0.5880	0.5969	0.2160	dual
+PF01411	Alanine--tRNA ligase	LUCA	True	False	P00957	Escherichia coli (strain K12)	876	0.5160	0.9486	0.3853	dual
+PF01420	Type I restriction enzyme EcoKI specificity subunit	LUCA	False	True	P05719	Escherichia coli (strain K12)	464	0.6333	0.8005	0.2780	dual
+PF01472	Glutamate 5-kinase	LUCA	True	False	P0A7B5	Escherichia coli (strain K12)	367	0.5927	0.3633	0.2527	DNA-only
+PF01479	Heat shock protein 15	LUCA	True	False	P0ACG8	Escherichia coli (strain K12)	133	0.6173	0.5545	0.9073	dual
+PF01509	tRNA pseudouridine synthase B	LUCA	True	False	P60340	Escherichia coli (strain K12)	314	0.7433	0.7177	0.2600	dual
+PF01548	Pilin gene-inverting protein	LUCA	False	True	P20665	Moraxella bovis	322	0.6387	0.4148	0.2173	DNA-only
+PF01555	DNA adenine methyltransferase YhdJ	LUCA	False	True	P28638	Escherichia coli (strain K12)	294	0.5720	0.6009	0.4013	dual
+PF01588	Methionine--tRNA ligase	LUCA	True	False	P00959	Escherichia coli (strain K12)	677	0.3647	0.5563	0.3047	RNA-only
+PF01609	Transposase InsH for insertion sequence element IS5A	preLUCA	False	True	P0CE49	Escherichia coli (strain K12)	326	0.8293	0.4617	0.2953	DNA-only
+PF01850	Ribonuclease VapC2	LUCA	True	False	Q58384	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	149	0.4753	0.2512	0.4807	non-binder
+PF01878	UPF0310 protein MJECL36	LUCA	True	False	Q60257	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	144	0.4347	0.6376	0.4767	RNA-only
+PF01926	GTPase Era	LUCA	True	False	P06616	Escherichia coli (strain K12)	301	0.3167	0.6829	0.3947	RNA-only
+PF01936	Uncharacterized protein MJ0482	LUCA	True	False	Q57905	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	240	0.4007	0.7428	0.6633	RNA-only
+PF02171	Protein argonaute	LUCA	True	False	Q58717	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	713	0.5127	0.9915	0.5340	dual
+PF02272	Alanine--tRNA ligase	LUCA	True	False	P00957	Escherichia coli (strain K12)	876	0.5160	0.9486	0.3853	dual
+PF02384	Type I restriction enzyme EcoKI methylase subunit	preLUCA	False	True	P08957	Escherichia coli (strain K12)	529	0.7900	0.5405	0.2553	dual
+PF02475	tRNA (guanine(37)-N(1))-methyltransferase Trm5b	LUCA	True	False	Q58293	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	336	0.2187	0.9459	0.4907	RNA-only
+PF02586	Abasic site processing protein YedK	LUCA	False	True	P76318	Escherichia coli (strain K12)	222	0.2853	0.0887	0.6000	non-binder
+PF02732	Putative ATP-dependent RNA helicase MJ1505	LUCA	False	True	Q58900	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	778	0.4287	0.9998	0.4833	RNA-only
+PF02834	RNA 2',3'-cyclic phosphodiesterase	LUCA	True	False	Q58963	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	173	0.5400	0.5908	0.4413	dual
+PF02881	Signal recognition particle receptor FtsY	LUCA	True	False	P10121	Escherichia coli (strain K12)	497	0.4680	0.6817	0.4353	RNA-only
+PF02899	Tyrosine recombinase XerC	LUCA	False	True	P0A8P6	Escherichia coli (strain K12)	298	0.7933	0.2721	0.4833	DNA-only
+PF03129	Threonine--tRNA ligase	LUCA	True	False	P0A8M3	Escherichia coli (strain K12)	642	0.2753	0.8015	0.3640	RNA-only
+PF03372	Exodeoxyribonuclease III	preLUCA	True	False	P09030	Escherichia coli (strain K12)	268	0.6207	0.4075	0.4607	DNA-only
+PF03483	Phenylalanine--tRNA ligase beta subunit	LUCA	True	False	P07395	Escherichia coli (strain K12)	795	0.5193	0.9013	0.4093	dual
+PF03485	Arginine--tRNA ligase	LUCA	True	False	P11875	Escherichia coli (strain K12)	577	0.4413	0.7305	0.4293	RNA-only
+PF03737	Regulator of ribonuclease activity A	LUCA	True	False	P0A8R0	Escherichia coli (strain K12)	161	0.1347	0.1412	0.6693	non-binder
+PF03989	DNA gyrase subunit A	LUCA	False	True	P0AES4	Escherichia coli (strain K12)	875	0.4420	0.9978	0.3893	RNA-only
+PF04014	Antitoxin MazE	LUCA	False	True	P0AE72	Escherichia coli (strain K12)	82	0.1027	0.1382	0.9747	non-binder
+PF04266	N(4)-acetylcytidine amidohydrolase	preLUCA	True	False	P67603	Escherichia coli (strain K12)	103	0.0733	0.2424	0.8767	non-binder
+PF04313	Putative type I restriction enzyme MjaIXP endonuclease subunit	preLUCA	False	True	Q60295	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	1042	0.4900	0.9994	0.4893	RNA-only
+PF04471	Type IV methyl-directed restriction enzyme EcoKMrr	LUCA	False	True	P24202	Escherichia coli (strain K12)	304	0.7407	0.3695	0.2067	DNA-only
+PF04851	Type I restriction enzyme EcoKI endonuclease subunit	preLUCA	True	True	P08956	Escherichia coli (strain K12)	1170	0.3620	0.9965	0.4687	RNA-only
+PF05191	Adenylate kinase	LUCA	True	False	P69441	Escherichia coli (strain K12)	214	0.3287	0.7362	0.7500	RNA-only
+PF06733	ATP-dependent DNA helicase DinG	LUCA	False	True	P27296	Escherichia coli (strain K12)	716	0.5280	0.6821	0.3147	dual
+PF06827	Endonuclease 8	LUCA	True	False	P50465	Escherichia coli (strain K12)	263	0.5353	0.3074	0.5193	DNA-only
+PF07521	Transcription termination factor FttA	LUCA	True	False	Q58633	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	634	0.4193	0.9962	0.3727	RNA-only
+PF07650	GTPase Era	LUCA	True	False	P06616	Escherichia coli (strain K12)	301	0.3167	0.6829	0.3947	RNA-only
+PF07973	Threonine--tRNA ligase	LUCA	True	False	P0A8M3	Escherichia coli (strain K12)	642	0.2753	0.8015	0.3640	RNA-only
+PF08264	Isoleucine--tRNA ligase	LUCA	True	False	P00956	Escherichia coli (strain K12)	938	0.4300	0.6560	0.4040	non-binder
+PF08443	Ribosomal protein bS6--L-glutamate ligase	LUCA	True	False	P0C0U4	Escherichia coli (strain K12)	300	0.4827	0.4952	0.3087	non-binder
+PF08463	Type I restriction enzyme EcoKI endonuclease subunit	LUCA	False	True	P08956	Escherichia coli (strain K12)	1170	0.3620	0.9965	0.4687	RNA-only
+PF08494	Lhr helicase/uracil glycosylase	LUCA	True	False	P30015	Escherichia coli (strain K12)	1538	0.5467	0.5208	0.4360	dual
+PF09190	Cysteine--tRNA ligase	LUCA	True	False	P21888	Escherichia coli (strain K12)	461	0.4140	0.3833	0.3160	non-binder
+PF09334	Methionine--tRNA ligase	LUCA	True	False	P00959	Escherichia coli (strain K12)	677	0.3647	0.5563	0.3047	RNA-only
+PF09339	HTH-type transcriptional repressor AllR	LUCA	False	True	P0ACN4	Escherichia coli (strain K12)	271	0.4700	0.1698	0.2787	non-binder
+PF09414	Uncharacterized protein MJ0414	LUCA	True	False	Q57857	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	395	0.4313	0.9496	0.4440	RNA-only
+PF09520	Type II restriction enzyme MjaII	preLUCA	False	True	Q58844	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	370	0.4113	0.8283	0.4160	RNA-only
+PF10130	Uncharacterized protein MJECL38	LUCA	True	False	Q60293	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	259	0.6227	0.3486	0.4993	DNA-only
+PF10996	Transcription termination factor FttA	LUCA	True	False	Q58633	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	634	0.4193	0.9962	0.3727	RNA-only
+PF11799	Protein UmuC	LUCA	False	True	P04152	Escherichia coli (strain K12)	422	0.7873	0.5882	0.0900	dual
+PF13404	HTH-type transcriptional regulator Rv2324	LUCA	False	True	P71888	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	148	0.1780	0.1532	0.8967	non-binder
+PF13495	Probable integrase/recombinase protein MJ0367	LUCA	False	True	Q57813	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	330	0.2527	0.9353	0.5033	RNA-only
+PF13847	tRNA 5-carboxymethoxyuridine methyltransferase	preLUCA	True	False	P36566	Escherichia coli (strain K12)	261	0.4733	0.2742	0.5380	non-binder

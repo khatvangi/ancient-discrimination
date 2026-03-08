@@ -1,0 +1,20 @@
+pfam_id	name	age	SI_RNA	SI_DNA	DI	category	ProNA_P_RNA	ProNA_P_DNA	ProNA_class	DRBP_pred	root_RNA%	root_DNA%	root_neither%	ancestral_bias
+PF04851	Type I restriction enzyme EcoKI endonuclease subunit	preLUCA	0.252	0.255	0.007	backbone_generalist	0.997	0.362	RNA-only	DNA	10.0	3.3	86.7	RNA-biased
+PF00575	Transcription termination/antitermination protein NusA	LUCA	0.449	0.459	0.011	backbone_generalist	0.66	0.369	RNA-only	RNA	0.0	0.0	100.0	neutral
+PF07650	GTPase Era	LUCA	0.47	0.486	0.017	backbone_generalist	0.683	0.317	RNA-only	RNA	6.1	0.0	93.9	RNA-biased
+PF00753	Hydroxyacylglutathione hydrolase GloB	LUCA	0.485	0.452	0.034	backbone_generalist	0.207	0.497	non-binder	DNA	15.0	0.0	85.0	RNA-biased
+PF00013	Polyribonucleotide nucleotidyltransferase	LUCA	0.932	0.866	0.038	base_generalist	0.983	0.479	RNA-only	RNA	33.3	4.2	62.5	RNA-biased
+PF02272	Alanine--tRNA ligase	LUCA	0.811	0.736	0.049	generalist	0.949	0.516	dual	RNA	55.6	16.7	27.8	RNA-biased
+PF00136	DNA polymerase II	LUCA	0.256	0.224	0.067	backbone_generalist	0.832	0.471	RNA-only	DNA	33.3	30.0	36.7	neutral
+PF00398	Ribosomal RNA small subunit methyltransferase A	LUCA	0.571	0.46	0.107	moderate	0.38	0.337	non-binder	DNA	9.0	1.0	89.9	RNA-biased
+PF01479	Heat shock protein 15	LUCA	0.611	0.486	0.114	moderate	0.554	0.617	dual	RNA	15.4	0.0	84.6	RNA-biased
+PF02171	Protein argonaute	LUCA	0.536	0.677	0.116	moderate	0.992	0.513	dual	DNA	71.9	5.3	22.8	RNA-biased
+PF00270	Replication restart protein PriA	LUCA	0.403	0.575	0.175	moderate	0.184	0.628	DNA-only	DNA	31.6	15.8	52.6	RNA-biased
+PF01131	DNA topoisomerase 3	LUCA	0.4	0.647	0.236	moderate	0.864	0.711	dual	DNA	0.0	95.7	4.3	DNA-biased
+PF03372	Exodeoxyribonuclease III	preLUCA	0.38	0.63	0.247	moderate	0.407	0.621	DNA-only	DNA	0.0	14.3	85.7	DNA-biased
+PF01588	Methionine--tRNA ligase	LUCA	0.681	0.349	0.323	specialist	0.556	0.365	RNA-only	RNA	0.0	0.0	100.0	neutral
+PF07521	Transcription termination factor FttA	LUCA	0.778	0.291	0.456	specialist	0.996	0.419	RNA-only	RNA	50.0	0.0	50.0	RNA-biased
+PF10996	Transcription termination factor FttA	LUCA	0.778	0.291	0.456	specialist	0.996	0.419	RNA-only	RNA	34.6	0.0	65.4	RNA-biased
+PF01336	Asparagine--tRNA ligase	preLUCA	0.661	0.232	0.48	specialist	0.597	0.588	dual	RNA	8.3	0.0	91.7	RNA-biased
+PF06733	ATP-dependent DNA helicase DinG	LUCA	0.171	0.785	0.643	specialist	0.682	0.528	dual	DNA	0.0	14.3	85.7	DNA-biased
+PF03129	Threonine--tRNA ligase	LUCA	0.749	0.158	0.652	specialist	0.801	0.275	RNA-only	RNA	22.7	0.0	77.3	RNA-biased

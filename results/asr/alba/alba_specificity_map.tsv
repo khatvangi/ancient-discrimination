@@ -1,0 +1,100 @@
+alba2_resnum	alba2_aa	pop6_resnum	pop6_aa	contacts_rna	contacts_dna	rna_2oh	rna_base	rna_bb	dna_base	dna_bb	specificity
+1	M			False	False	0	0	0	0	0	non-contact
+2	A			False	False	0	0	0	0	0	non-contact
+3	C			False	False	0	0	0	0	0	non-contact
+4	E			False	False	0	0	0	0	0	non-contact
+5	G	4	G	False	False	0	0	0	0	0	non-contact
+6	A	5	V	False	False	0	0	0	0	0	non-contact
+7	P	6	Y	False	False	0	0	0	0	0	non-contact
+8	E	7	Y	False	False	0	0	0	0	0	non-contact
+9	V	8	N	False	False	0	0	0	0	0	non-contact
+10	R	9	E	False	True	0	0	0	0	2	DNA-only
+11	I	10	I	False	False	0	0	0	0	0	non-contact
+12	G	11	S	False	False	0	0	0	0	0	non-contact
+13	R	12	R	False	True	0	0	0	16	2	DNA-only
+14	K	13	D	False	False	0	0	0	0	0	non-contact
+15	P	14	L	False	False	0	0	0	0	0	non-contact
+16	V	15	D	False	False	0	0	0	0	0	non-contact
+17	M	16	I	False	False	0	0	0	0	0	non-contact
+18	N	17	S	False	False	0	0	0	0	0	non-contact
+19	Y	18	S	False	False	0	0	0	0	0	non-contact
+20	V	19	S	False	False	0	0	0	0	0	non-contact
+21	L	20	T	True	False	0	0	8	0	0	RNA-only
+22	A	21	Q	False	False	0	0	0	0	0	non-contact
+23	I	22	C	False	False	0	0	0	0	0	non-contact
+24	L	23	L	False	False	0	0	0	0	0	non-contact
+25	T	24	R	False	False	0	0	0	0	0	non-contact
+26	T	25	F	False	False	0	0	0	0	0	non-contact
+27	L	26	L	False	False	0	0	0	0	0	non-contact
+28	M	27	K	False	False	0	0	0	0	0	non-contact
+29	E	28	E	False	False	0	0	0	0	0	non-contact
+30	Q	73	L	False	False	0	0	0	0	0	non-contact
+31	G	74	G	False	False	0	0	0	0	0	non-contact
+32	T	75	L	False	False	0	0	0	0	0	non-contact
+33	N	76	Q	False	False	0	0	0	0	0	non-contact
+34	Q	77	Q	False	False	0	0	0	0	0	non-contact
+35	V	78	V	False	False	0	0	0	0	0	non-contact
+36	V	79	V	False	False	0	0	0	0	0	non-contact
+37	V	80	C	False	False	0	0	0	0	0	non-contact
+38	K	81	I	False	False	0	0	0	0	0	non-contact
+39	A	82	F	False	False	0	0	0	0	0	non-contact
+40	R	83	S	False	True	0	0	0	0	4	DNA-only
+41	G	84	Y	False	True	0	0	0	0	1	DNA-only
+42	R	85	G	False	True	0	0	0	0	0	DNA-only
+43	N	86	P	False	True	0	0	0	0	1	DNA-only
+44	I	87	H	False	False	0	0	0	0	0	non-contact
+45	N	88	I	False	True	0	0	0	0	1	DNA-only
+46	R	89	Q	True	True	0	8	0	0	5	generalist
+47	A	90	K	True	False	0	4	0	0	0	RNA-only
+48	V	92	L	False	False	0	0	0	0	0	non-contact
+49	D	93	S	True	False	0	2	3	0	0	RNA-only
+50	A	94	I	False	False	0	0	0	0	0	non-contact
+51	V	95	L	False	False	0	0	0	0	0	non-contact
+52	E	96	E	True	False	0	2	0	0	0	RNA-only
+53	I	97	I	True	False	0	12	0	0	0	RNA-only
+54	V	98	F	False	False	0	0	0	0	0	non-contact
+55	R	99	K	False	False	0	0	0	0	0	non-contact
+56	K	100	K	True	False	0	0	1	0	0	RNA-only
+57	R	101	G	False	False	0	0	0	0	0	non-contact
+58	F	102	Y	False	False	0	0	0	0	0	non-contact
+59	A	103	I	False	False	0	0	0	0	0	non-contact
+60	K	104	K	False	False	0	0	0	0	0	non-contact
+61	N	105	N	False	False	0	0	0	0	0	non-contact
+62	I	115	L	False	False	0	0	0	0	0	non-contact
+63	E	116	T	False	False	0	0	0	0	0	non-contact
+64	I	117	S	False	False	0	0	0	0	0	non-contact
+65	K	118	F	False	False	0	0	0	0	0	non-contact
+66	D	119	D	False	False	0	0	0	0	0	non-contact
+67	I	120	I	False	False	0	0	0	0	0	non-contact
+68	K	121	K	False	False	0	0	0	0	0	non-contact
+69	I			False	False	0	0	0	0	0	non-contact
+70	D			False	False	0	0	0	0	0	non-contact
+71	S			False	False	0	0	0	0	0	non-contact
+72	Q	129	Q	True	False	0	0	1	0	0	RNA-only
+73	E	130	E	False	False	0	0	0	0	0	non-contact
+74	I	131	E	True	False	1	0	0	0	0	RNA-specific-2OH
+75	E	132	R	True	False	0	2	0	0	0	RNA-only
+76	V	133	L	True	False	0	8	0	0	0	RNA-only
+77	Q	134	K	True	False	0	7	0	0	0	RNA-only
+78	T	135	V	False	False	0	0	0	0	0	non-contact
+79	P	136	P	False	False	0	0	0	0	0	non-contact
+80	E	137	I	False	False	0	0	0	0	0	non-contact
+81	G	138	L	False	False	0	0	0	0	0	non-contact
+82	Q	139	V	False	False	0	0	0	0	0	non-contact
+83	T	140	T	False	False	0	0	0	0	0	non-contact
+84	R			False	False	0	0	0	0	0	non-contact
+85	T			False	False	0	0	0	0	0	non-contact
+86	R			False	True	0	0	0	0	3	DNA-only
+87	R			False	False	0	0	0	0	0	non-contact
+88	V	142	V	False	True	0	0	0	0	3	DNA-only
+89	S	143	S	False	False	0	0	0	0	0	non-contact
+90	S	144	D	False	False	0	0	0	0	0	non-contact
+91	I	145	S	False	False	0	0	0	0	0	non-contact
+92	E	146	E	False	False	0	0	0	0	0	non-contact
+93	I	147	I	False	False	0	0	0	0	0	non-contact
+94	C	153	H	False	False	0	0	0	0	0	non-contact
+95	L	154	S	False	False	0	0	0	0	0	non-contact
+96	E	155	F	False	False	0	0	0	0	0	non-contact
+97	K	156	T	False	False	0	0	0	0	0	non-contact
+98	A	157	K	False	False	0	0	0	0	0	non-contact
+99	G	158	Q	False	False	0	0	0	0	0	non-contact

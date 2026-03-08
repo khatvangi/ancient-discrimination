@@ -1,0 +1,25 @@
+aln_col	rna_aa	dna_aa	col_type	rna_classification	dna_classification	Node1_state	Node1_pp	Node2_state	Node2_pp	Node3_state	Node3_pp	Node4_state	Node4_pp	Node5_state	Node5_pp
+16	E	G	shared	2OH-contacting	base-only	N	0.3415	N	0.6686	N	0.9908	N	0.9908	N	0.9824
+23	N	K	shared	2OH-contacting	backbone-only	Q	0.2732	Q	0.3861	N	0.4500	N	0.4501	N	0.4029
+25	V		RNA-only	base-only		C	0.4960	V	0.9873	V	0.9999	V	0.9999	V	0.9993
+26	G	G	shared	base-only	base-only	G	0.9780	G	0.9996	G	1.0000	G	1.0000	G	0.9997
+27	A	S	shared	base-only	base-only	L	0.4793	L	0.6474	L	0.8838	L	0.8838	L	0.8573
+32	L	I	shared	base-only	base-only	I	0.4972	I	0.9836	I	0.9999	I	0.9999	I	0.9993
+33	G	G	shared	2OH-contacting	base-only	G	0.9856	G	0.9999	G	1.0000	G	1.0000	G	1.0000
+34	K	K	shared	2OH-contacting	base+backbone	K	0.6622	K	0.8606	K	0.8373	K	0.8373	K	0.8150
+35	G	K	shared	2OH-contacting	backbone-only	R	0.3787	K	0.6381	K	0.9907	K	0.9907	K	0.9878
+36	G	G	shared	sugar-ring-only	sugar-ring-only	G	0.9999	G	1.0000	G	1.0000	G	1.0000	G	1.0000
+42	L	V	shared	base-only	sugar-ring-only	I	0.7497	I	0.9866	I	0.9999	I	0.9999	I	0.9997
+43	V		RNA-only	2OH-contacting		R	0.5308	K	0.9555	K	0.9960	K	0.9960	K	0.9599
+46		R	DNA-only		base-only	Q	0.3445	Q	0.9841	Q	0.9979	Q	0.9979	Q	0.9855
+56	R		RNA-only	2OH-contacting		R	0.5433	R	0.9540	R	0.9683	R	0.9683	R	0.8676
+58	I		RNA-only	base-only		I	0.7203	I	0.7603	I	0.9952	I	0.9952	I	0.9954
+59	Q	N	shared	base-only	base-only	Q	0.5713	Q	0.9680	Q	0.9938	Q	0.9938	Q	0.8416
+60	I	I	shared	base-only	base-only	L	0.7798	I	0.4950	I	0.9968	I	0.9968	I	0.9781
+61	S		RNA-only	base-only		Q	0.6461	Q	0.9611	Q	0.9719	Q	0.9719	Q	0.9406
+72	K	E	shared	base-only	base-only	Q	0.1768	Q	0.5616	Q	0.5332	Q	0.5332	Q	0.4304
+73	K		RNA-only	2OH-contacting		P	0.9470	P	0.8729	D	0.4152	D	0.4152	D	0.3156
+74	G		RNA-only	2OH-contacting		D	0.2850	D	0.4495	D	0.8090	D	0.8090	D	0.8350
+76	F		RNA-only	base-only		D	0.4290	D	0.4970	S	0.3316	S	0.3316	S	0.3099
+93	R		RNA-only	2OH-contacting		E	0.4037	N	0.3859	N	0.8197	N	0.8197	G	0.9442
+102	R	R	shared	base-only	base-only	R	0.9299	R	0.9940	R	0.9969	R	0.9969	R	0.9814

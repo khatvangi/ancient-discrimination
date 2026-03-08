@@ -1,0 +1,7 @@
+contact_type	n_total	n_identical	pct_identical	n_conservative	pct_conservative	n_radical	pct_radical
+backbone	271	72	26.6	42	15.5	157	57.9
+base	153	51	33.3	21	13.7	81	52.9
+2oh	172	35	20.3	21	12.2	116	67.4
+base+bb	67	23	34.3	5	7.5	39	58.2
+sugar	13	7	53.8	2	15.4	4	30.8
+ALL	676	188	27.8	91	13.5	397	58.7

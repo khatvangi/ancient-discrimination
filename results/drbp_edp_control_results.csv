@@ -1,0 +1,7 @@
+name,sequence,seq_length,stage1_prediction,stage1_probability,stage1_raw_sigmoid,stage2_prediction,stage2_probability,stage2_raw_sigmoid
+sp|P0A9X9|CSPA_ECOLI,MSGKMTGIVKWFNADKGFGF...,70,Nucleic acid-binding,0.9960,0.9960,RNA-binding,0.6472,0.6472
+sp|P62244|RS15A_HUMAN,MVRMNVLADALKSINNAEKR...,130,Non-nucleic acid-binding,0.8167,0.1833,RNA-binding,0.9987,0.9987
+sp|P03023|LACI_ECOLI,MKPVTLYDVAEYAGVSYQTV...,360,Nucleic acid-binding,1.0000,1.0000,DNA-binding,1.0000,0.0000
+sp|P04637|P53_HUMAN,MEEPQSDPSVEPPLSQETFS...,393,Nucleic acid-binding,1.0000,1.0000,RNA-binding,0.9941,0.9941
+sp|P67809|YBOX1_HUMAN,MSSEAETQQPPAAPPAAPAL...,324,Nucleic acid-binding,1.0000,1.0000,RNA-binding,0.9548,0.9548
+sp|P69441|KAD_ECOLI,MRIILLGAPGAGKGTQAQFI...,214,Non-nucleic acid-binding,1.0000,0.0000,DNA-binding,1.0000,0.0000

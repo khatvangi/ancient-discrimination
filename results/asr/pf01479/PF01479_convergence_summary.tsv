@@ -1,0 +1,14 @@
+aln_col	rna_aa	dna_aa	col_type	rna_classification	dna_classification	Node1_state	Node1_pp	Node2_state	Node2_pp	Node3_state	Node3_pp	Node4_state	Node4_pp	Node5_state	Node5_pp
+2	K		RNA-only	base+backbone		R	0.9992	R	1.0000	R	1.0000	R	1.0000	R	1.0000
+4	Q		RNA-only	base-only		D	0.9977	D	0.9999	D	1.0000	D	1.0000	D	1.0000
+5	K		RNA-only	backbone-only		V	0.8997	V	0.8943	A	0.9208	A	0.9372	A	0.9177
+8	A		RNA-only	backbone-only		K	0.8285	S	0.8840	S	0.8595	S	0.8889	S	0.8837
+16	S		RNA-only	backbone-only		S	0.9995	S	0.9999	S	0.9999	S	1.0000	S	1.0000
+17	R		RNA-only	base+backbone		R	0.9921	R	0.9990	R	0.9997	R	0.9999	R	1.0000
+18	R		RNA-only	base-only		T	0.5787	S	0.3820	S	0.7562	S	0.9057	S	0.9345
+21	E		RNA-only	base-only		K	0.5328	Q	0.4620	Q	0.9737	Q	0.9798	Q	0.9864
+37	K		RNA-only	base-only		D	0.9305	D	0.9142	E	0.4866	K	0.5276	K	0.8492
+39	L		RNA-only	base-only		A	0.5269	S	0.5406	P	0.9574	P	0.9631	P	0.9895
+40	G		RNA-only	base-only		D	0.9737	D	0.9664	S	0.9810	S	0.9977	S	1.0000
+41	D		RNA-only	base-only		F	0.6007	Y	0.8842	Y	0.9877	Y	0.9950	Y	0.9960
+42	R		RNA-only	base+backbone		Q	0.4327	T	0.4252	K	0.2271	K	0.3053	K	0.4917

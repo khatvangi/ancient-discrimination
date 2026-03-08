@@ -1,0 +1,140 @@
+SEQUENCE-BASED DNA vs RNA BINDING DISCRIMINATION TOOLS — ASSESSMENT
+====================================================================
+date: 2026-02-24
+purpose: find tools that classify proteins as DNA-binding vs RNA-binding from sequence alone
+
+TOOLS SURVEYED
+--------------
+
+1. DRBP-EDP (Mu et al. 2025, NAR Genomics & Bioinformatics)
+   - INSTALLED AND WORKING
+   - location: /storage/kiran-stuff/DRBP-EDP/
+   - conda env: drbp-edp
+   - method: ESM-2 (650M) + dual-path neural network (Transformer+CNN & BiLSTM+Attention)
+   - two-stage: (1) NABP vs non-NABP, (2) DBP vs RBP
+   - protein-level classification
+   - GitHub: https://github.com/MuQiang-MQ/DRBP-EDP
+
+2. ProNA2020 (Qiu et al. 2020, J Mol Biol, Rostlab)
+   - INSTALLED AND WORKING
+   - location: /storage/kiran-stuff/ProNA2020/
+   - conda env: prona2020
+   - method: word2vec (ProtVec) + gradient boosting classifiers
+   - gives separate DNA/RNA/Protein binding probabilities
+   - protein-level classification (word2vec pathway only; full version needs PredictProtein)
+   - GitHub: https://github.com/Rostlab/ProNA2020
+
+3. DRNApred (Yan & Kurgan 2017, NAR)
+   - WEB-SERVER ONLY (behind access-approval wall)
+   - residue-level predictor (DNA-binding residues vs RNA-binding residues)
+   - no standalone code available
+   - server: https://biomine.cs.vcu.edu/servers/DRNApred/
+
+4. DRBpred (Kabir et al. 2024, Computers in Biology and Medicine)
+   - CLONED but NOT PRACTICAL for our use
+   - residue-level predictor (not protein-level)
+   - requires Docker + nr database + uniclust30 database (very heavy)
+   - location: /storage/kiran-stuff/DRBpred/
+   - GitHub: https://github.com/wasicse/DRBpred
+
+5. DeepDRBP-2L (Liu lab)
+   - WEB-SERVER ONLY (http://bliulab.net/DeepDRBP-2L — server unresponsive)
+   - protein-level: classifies DBP, RBP, and DRBP (dual-binding)
+   - no standalone code available
+
+6. bindPredict / bindEmbed21 (Rostlab)
+   - Available on GitHub but predicts "nucleic acid" binding generically
+   - does NOT discriminate DNA vs RNA at the binding level
+   - GitHub: https://github.com/Rostlab/bindPredict
+
+7. SomeNA (Rostlab, 2012)
+   - Available via Docker
+   - requires PredictProtein output files as input (complex pipeline)
+   - unclear whether it discriminates DNA vs RNA separately
+   - not practical for direct sequence input
+
+8. GPSite (biomed-AI, 2024, eLife)
+   - residue-level predictor (DNA/RNA/protein/peptide/ATP/metal)
+   - would need post-processing to get protein-level scores
+   - requires ESMFold + ProtTrans (heavy install)
+   - GitHub: https://github.com/biomed-AI/GPSite
+
+
+CONTROL PROTEIN RESULTS
+-----------------------
+
+Known binding types:
+  P0A9X9 CspA     = dual RNA/DNA binder (cold shock protein, OB-fold)
+  P62244 RPS15A   = RNA binder (ribosomal protein)
+  P03023 LacI     = DNA binder (lac repressor)
+  P04637 TP53     = DNA binder (tumor suppressor)
+  P67809 YBX1     = dual RNA/DNA binder (Y-box binding protein)
+  P69441 ADK      = non-binder (adenylate kinase, ATP only)
+
+
+=== DRBP-EDP RESULTS ===
+
+Protein         Length  Stage1 (NABP?)             Stage2 (DNA vs RNA)
+----------------------------------------------------------------------
+CspA (P0A9X9)     70   Nucleic acid-binding 0.996  RNA-binding    0.647
+RPS15A (P62244)  130   Non-NABP             0.817  RNA-binding    0.999
+LacI (P03023)    360   Nucleic acid-binding 1.000  DNA-binding    1.000
+TP53 (P04637)    393   Nucleic acid-binding 1.000  RNA-binding    0.994
+YBX1 (P67809)    324   Nucleic acid-binding 1.000  RNA-binding    0.955
+ADK (P69441)     214   Non-NABP             1.000  DNA-binding    1.000
+
+Assessment:
+  CspA:   CORRECT (NABP). Stage2 calls RNA (0.65) — fair, it is dual with RNA bias
+  RPS15A: WRONG (misses NABP). Stage2 correctly says RNA if it were NABP
+  LacI:   CORRECT (NABP + DNA). Perfect score.
+  TP53:   CORRECT (NABP). Stage2 calls RNA — WRONG, TP53 is a DNA-binding TF
+  YBX1:   CORRECT (NABP). Stage2 calls RNA — partially correct (YBX1 is dual)
+  ADK:    CORRECT (non-NABP). Stage2 output irrelevant.
+
+Summary: Stage1 is 5/6 correct. Stage2 gets LacI perfect, but misclassifies TP53
+as RNA-binding (known issue: TP53 has IDRs that confuse sequence-based tools).
+
+
+=== ProNA2020 RESULTS ===
+
+Protein         Length  DNA_prob  DNA_bind  RNA_prob  RNA_bind  Nuc_prob
+------------------------------------------------------------------------
+CspA (P0A9X9)     70   0.037     no        0.180     no        0.089
+RPS15A (P62244)  130   0.069     no        0.457     no        0.743
+LacI (P03023)    360   0.621     YES       0.138     no        0.745
+TP53 (P04637)    393   0.965     YES       0.259     no        0.820
+YBX1 (P67809)    324   0.620     YES       0.968     YES       0.962
+ADK (P69441)     214   0.329     no        0.736     YES       0.934
+
+Assessment:
+  CspA:   WRONG (misses all binding — short protein confuses the model)
+  RPS15A: WRONG (misses RNA binding — nucleotide prob high but RNA prob < 0.5)
+  LacI:   CORRECT (DNA-binding only)
+  TP53:   CORRECT (DNA-binding only)
+  YBX1:   CORRECT (both DNA and RNA binding detected)
+  ADK:    WRONG (false positive: calls RNA-binding)
+
+Summary: ProNA2020 gets the clear cases right (LacI, TP53, YBX1) but fails on
+edge cases (CspA too short, RPS15A near threshold, ADK false positive).
+Importantly, it correctly identifies TP53 as DNA-binding where DRBP-EDP failed.
+
+
+RECOMMENDATION FOR THE PROJECT
+-------------------------------
+
+Use BOTH tools together. They have complementary strengths:
+
+1. DRBP-EDP: better stage1 (is it a nucleic acid binder?), ESM-2 based, modern
+2. ProNA2020: gives separate DNA and RNA probabilities (not forced choice),
+   better at TP53-like DNA-binding proteins
+
+Neither tool alone is reliable enough. For our ancient discrimination project:
+- Run both tools on each protein
+- Report the "discrimination index" as the difference between DNA and RNA scores
+- ProNA2020's separate DNA_prob and RNA_prob are more directly useful for our
+  question ("did ancient proteins discriminate?") than DRBP-EDP's forced binary
+
+Key limitation: both tools are trained on modern proteins, so applying them to
+ancestrally reconstructed sequences may be pushing beyond their training domain.
+This is fine — we acknowledge it and use structural prediction (AF3/Boltz-2) as
+the primary method, with sequence-based tools as a cross-check.

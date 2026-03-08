@@ -1,0 +1,4 @@
+name	rna_pdb	dna_pdb	category	description	rna_SI	dna_SI	delta_SI	DI	rna_contacts	dna_contacts	rna_method	dna_method
+TDP-43 RRM1	4BS2	4IUF	dual	TDP-43 RRM1: RNA (UG repeat) vs DNA (TG repeat)	0.8591549295774648	0.9587628865979382	-0.09960795702047343	0.05479233226837065	343	203	split(RNA)	split(DNA)
+CspA/CSD	3PF5	2HAX	dual	CspA cold shock domain: RNA vs DNA	0.9811320754716981	0.9866666666666667	-0.0055345911949685744	0.0028125799028381596	182	454	split(RNA)	split(DNA)
+Lin28 ZnF+CSD	4A76	4A4I	dual	Lin28 zinc knuckle+CSD: pre-let-7 RNA vs ssDNA	0.9533622559652929				1062	0	pure	FAIL

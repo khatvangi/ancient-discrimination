@@ -1,0 +1,25 @@
+pfam_id	name	DI	NASBench_class	NASBench_SI_RNA	NASBench_SI_DNA	ProNA_P_RNA	ProNA_P_DNA	ProNA_class	DRBP_stage1	DRBP_stage2	agreement
+PF04851	Type I restriction enzyme EcoKI endonuclease subunit	0.007	dual	0.252	0.255	0.997	0.362	RNA-only	NABP	DNA	disagree
+PF00575	Transcription termination/antitermination protein NusA	0.011	dual	0.449	0.459	0.66	0.369	RNA-only	NABP	RNA	disagree
+PF07650	GTPase Era	0.017	dual	0.47	0.486	0.683	0.317	RNA-only	NABP	RNA	disagree
+PF00753	Hydroxyacylglutathione hydrolase GloB	0.034	dual	0.485	0.452	0.207	0.497	non-binder	non-NABP	DNA	disagree
+PF00013	Polyribonucleotide nucleotidyltransferase	0.038	dual	0.932	0.866	0.983	0.479	RNA-only	NABP	RNA	disagree
+PF02272	Alanine--tRNA ligase	0.049	dual	0.811	0.736	0.949	0.516	dual	NABP	RNA	disagree
+PF00136	DNA polymerase II	0.067	dual	0.256	0.224	0.832	0.471	RNA-only	NABP	DNA	disagree
+PF00398	Ribosomal RNA small subunit methyltransferase A	0.107	RNA-biased	0.571	0.46	0.38	0.337	non-binder	NABP	DNA	disagree
+PF01479	Heat shock protein 15	0.114	RNA-biased	0.611	0.486	0.554	0.617	dual	NABP	RNA	disagree
+PF02171	Protein argonaute	0.116	DNA-biased	0.536	0.677	0.992	0.513	dual	NABP	DNA	disagree
+PF00270	Replication restart protein PriA	0.176	DNA-biased	0.403	0.575	0.184	0.628	DNA-only	NABP	DNA	agree
+PF01131	DNA topoisomerase 3	0.236	DNA-biased	0.4	0.647	0.864	0.711	dual	NABP	DNA	disagree
+PF03372	Exodeoxyribonuclease III	0.247	DNA-biased	0.38	0.63	0.407	0.621	DNA-only	NABP	DNA	agree
+PF01588	Methionine--tRNA ligase	0.323	RNA-biased	0.681	0.349	0.556	0.365	RNA-only	NABP	RNA	agree
+PF07521	Transcription termination factor FttA	0.456	RNA-biased	0.778	0.291	0.996	0.419	RNA-only	non-NABP	RNA	agree
+PF10996	Transcription termination factor FttA	0.456	RNA-biased	0.778	0.291	0.996	0.419	RNA-only	non-NABP	RNA	agree
+PF01336	Asparagine--tRNA ligase	0.48	RNA-biased	0.661	0.232	0.597	0.588	dual	NABP	RNA	disagree
+PF06733	ATP-dependent DNA helicase DinG	0.643	DNA-biased	0.171	0.785	0.682	0.528	dual	NABP	DNA	disagree
+PF03129	Threonine--tRNA ligase	0.652	RNA-biased	0.749	0.158	0.801	0.275	RNA-only	NABP	RNA	agree
+PF00009	Selenocysteine-specific elongation factor	—	incomplete	0.687	—	0.439	0.624	DNA-only	NABP	RNA	disagree
+PF00347	Large ribosomal subunit protein uL6	—	incomplete	—	—	0.677	0.083	RNA-only	NABP	RNA	agree
+PF00466	Large ribosomal subunit protein uL10	—	incomplete	—	—	0.311	0.297	non-binder	NABP	RNA	—
+PF00488	DNA mismatch repair protein MutS	—	incomplete	—	0.215	0.821	0.579	dual	NABP	DNA	disagree
+PF00573	Large ribosomal subunit protein uL4	—	incomplete	—	—	0.538	0.441	RNA-only	NABP	DNA	disagree

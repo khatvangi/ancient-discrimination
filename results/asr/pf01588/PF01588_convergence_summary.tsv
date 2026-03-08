@@ -1,0 +1,8 @@
+aln_col	rna_aa	dna_aa	col_type	rna_classification	dna_classification	Node1_state	Node1_pp	Node2_state	Node2_pp	Node3_state	Node3_pp	Node4_state	Node4_pp	Node5_state	Node5_pp
+7	R		RNA-only	base-only		L	0.7402	L	0.7400	L	0.8117	R	0.6711	L	0.4893
+8	A		RNA-only	base-only		E	0.8007	E	0.5283	S	0.4775	S	0.4544	K	0.7979
+11	G		RNA-only	base-only		R	0.7331	R	0.8586	R	0.9677	R	0.9743	R	0.8470
+12	K		RNA-only	base-only		V	0.9620	V	0.9525	V	0.9227	I	0.7166	V	0.8931
+15	N		RNA-only	2OH-contacting		S	1.0000	S	1.0000	S	0.9994	S	0.9774	S	0.9996
+116	F		RNA-only	base-only		P	0.9957	P	0.9981	P	0.9991	P	0.9829	P	0.9810
+122	F		RNA-only	base-only		K	0.4778	K	0.4887	K	0.5476	K	0.3356	E	0.3563

@@ -1,0 +1,149 @@
+pfam_id	pfam_name	binding_type	functional_category	tier	species_short	species_name	domain_of_life	taxon_id	uniprot_acc	entry_name	protein_name	gene_name	length	has_structure	pdb_count	pdb_ids
+PF00575	S1	RNA	rna_binding_structural	1	eco	Escherichia coli K-12	Bacteria	83333	P0AFF6	NUSA_ECOLI	Transcription termination/antitermination protein NusA	nusA	495	True	62	1U9L,1WCL,1WCN,2JZB,2KWP
+PF00575	S1	RNA	rna_binding_structural	1	bsu	Bacillus subtilis 168	Bacteria	224308	O32231	RNR_BACSU	Ribonuclease R	rnr	779	True	5	8CDU,8CDV,8CEC,8CED,8CEE
+PF00575	S1	RNA	rna_binding_structural	1	tth	Thermus thermophilus	Bacteria	274	Q5SJ75	PNP_THET8	Polyribonucleotide nucleotidyltransferase	pnp	713	False	0	
+PF00575	S1	RNA	rna_binding_structural	1	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q57840	RPO7_METJA	DNA-directed RNA polymerase subunit Rpo7	rpo7	187	True	1	1GO3
+PF00575	S1	RNA	rna_binding_structural	1	sso	Sulfolobus solfataricus P2	Archaea	273057	Q97Z79	IF2A_SACS2	Translation initiation factor 2 subunit alpha	eif2a	266	True	10	2AHO,2QMU,2QN6,3CW2,3QSY
+PF00575	S1	RNA	rna_binding_structural	1	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P20459	IF2A_YEAST	Eukaryotic translation initiation factor 2 subunit alpha	SUI2	304	True	30	1Q46,2A19,2A1A,3J81,3JAP
+PF00575	S1	RNA	rna_binding_structural	1	hsa	Homo sapiens	Eukarya	9606	Q8TCS8	PNPT1_HUMAN	Polyribonucleotide nucleotidyltransferase 1, mitochondrial	PNPT1	783	True	4	3U1K,5ZF6,9KJR,9KJT
+PF00575	S1	RNA	rna_binding_structural	1	ath	Arabidopsis thaliana	Eukarya	3702	Q9S7G6	PNP2_ARATH	Polyribonucleotide nucleotidyltransferase 2, mitochondrial	PNP2	991	False	0	
+PF00270	DEAD	RNA	rna_processing	1	eco	Escherichia coli K-12	Bacteria	83333	P17888	PRIA_ECOLI	Replication restart protein PriA	priA	732	True	8	2D7E,2D7G,2D7H,2DWL,2DWM
+PF00270	DEAD	RNA	rna_processing	1	bsu	Bacillus subtilis 168	Bacteria	224308	P42305	DBPA_BACSU	ATP-dependent RNA helicase DbpA	dbpA	479	True	3	2G0C,2HJV,3MOJ
+PF00270	DEAD	RNA	rna_processing	1	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58524	HELS_METJA	ATP-dependent DNA helicase Hel308	hel308	1195	False	0	
+PF00270	DEAD	RNA	rna_processing	1	sso	Sulfolobus solfataricus P2	Archaea	273057	Q97ZF5	RGYR2_SACS2	Reverse gyrase 2	rgy2	1166	False	0	
+PF00270	DEAD	RNA	rna_processing	1	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P20449	DBP5_YEAST	ATP-dependent RNA helicase DBP5	DBP5	482	True	10	2KBE,2KBF,3GFP,3PEU,3PEV
+PF00270	DEAD	RNA	rna_processing	1	hsa	Homo sapiens	Eukarya	9606	O43143	DHX15_HUMAN	ATP-dependent RNA helicase DHX15	DHX15	795	True	6	5XDR,6ID1,6SH6,6SH7,8EJM
+PF00270	DEAD	RNA	rna_processing	1	ath	Arabidopsis thaliana	Eukarya	3702	F4INA9	RECG_ARATH	ATP-dependent DNA helicase homolog RECG1, chloroplastic/mitochondrial	RECG1	973	False	0	
+PF02171	Piwi	RNA	other	1	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58717	AGO_METJA	Protein argonaute	ago	713	True	2	5G5S,5G5T
+PF02171	Piwi	RNA	other	1	hsa	Homo sapiens	Eukarya	9606	Q9HCK5	AGO4_HUMAN	Protein argonaute-4	AGO4	861	True	1	6OON
+PF02171	Piwi	RNA	other	1	ath	Arabidopsis thaliana	Eukarya	3702	O04379	AGO1_ARATH	Protein argonaute 1	AGO1	1048	True	7	3VNA,3VNB,4G0P,4G0Q,4G0X
+PF00013	KH_1	RNA	rna_binding_structural	1	eco	Escherichia coli K-12	Bacteria	83333	P05055	PNP_ECOLI	Polyribonucleotide nucleotidyltransferase	pnp	711	True	14	1SRO,3CDI,3CDJ,3GCM,3GLL
+PF00013	KH_1	RNA	rna_binding_structural	1	bsu	Bacillus subtilis 168	Bacteria	224308	O31774	RNY_BACSU	Ribonuclease Y	rny	520	True	1	6F7T
+PF00013	KH_1	RNA	rna_binding_structural	1	tth	Thermus thermophilus	Bacteria	274	Q5SJ75	PNP_THET8	Polyribonucleotide nucleotidyltransferase	pnp	713	False	0	
+PF00013	KH_1	RNA	rna_binding_structural	1	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58928	Y1533_METJA	Uncharacterized KH and PIN-domain containing protein MJ1533	MJ1533	642	True	1	3I8O
+PF00013	KH_1	RNA	rna_binding_structural	1	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P06105	SC160_YEAST	Protein SCP160	SCP160	1222	False	0	
+PF00013	KH_1	RNA	rna_binding_structural	1	hsa	Homo sapiens	Eukarya	9606	P51114	FXR1_HUMAN	RNA-binding protein FXR1	FXR1	621	True	3	2CPQ,3KUF,3O8V
+PF00013	KH_1	RNA	rna_binding_structural	1	ath	Arabidopsis thaliana	Eukarya	3702	F4KDN0	HEN4_ARATH	KH domain-containing protein HEN4	HEN4	857	False	0	
+PF01336	tRNA_anti-codon	RNA	translation	1	eco	Escherichia coli K-12	Bacteria	83333	P0A8N5	SYK2_ECOLI	Lysine--tRNA ligase, heat inducible	lysU	505	True	6	1E1O,1E1T,1E22,1E24,1LYL
+PF01336	tRNA_anti-codon	RNA	translation	1	bsu	Bacillus subtilis 168	Bacteria	224308	P54602	YHCR_BACSU	Endonuclease YhcR	yhcR	1217	False	0	
+PF01336	tRNA_anti-codon	RNA	translation	1	tth	Thermus thermophilus	Bacteria	274	Q5SIC2	SYDND_THET8	Aspartate--tRNA(Asp/Asn) ligase	aspS2	422	True	2	1N9W,3KFU
+PF01336	tRNA_anti-codon	RNA	translation	1	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58559	RPA_METJA	Replication factor A	rpa	645	True	1	3DM3
+PF01336	tRNA_anti-codon	RNA	translation	1	hvo	Haloferax volcanii	Archaea	2246	O24822	SYDND_HALVO	Aspartate--tRNA(Asp/Asn) ligase	aspS	433	False	0	
+PF01336	tRNA_anti-codon	RNA	translation	1	sso	Sulfolobus solfataricus P2	Archaea	273057	P95970	SYK_SACS2	Lysine--tRNA ligase	lysS	494	False	0	
+PF01336	tRNA_anti-codon	RNA	translation	1	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P04802	SYDC_YEAST	Aspartate--tRNA ligase, cytoplasmic	DPS1	557	True	3	1ASY,1ASZ,1EOV
+PF01336	tRNA_anti-codon	RNA	translation	1	hsa	Homo sapiens	Eukarya	9606	P27694	RFA1_HUMAN	Replication protein A 70 kDa DNA-binding subunit	RPA1	616	True	40	1EWI,1FGU,1JMC,1L1O,2B29
+PF01336	tRNA_anti-codon	RNA	translation	1	ath	Arabidopsis thaliana	Eukarya	3702	Q9LJE2	SYKM_ARATH	Lysine--tRNA ligase, chloroplastic/mitochondrial	OVA5	602	False	0	
+PF00398	RrnaAD	RNA	rna_modification	1	eco	Escherichia coli K-12	Bacteria	83333	P06992	RSMA_ECOLI	Ribosomal RNA small subunit methyltransferase A	rsmA	273	True	6	1QYR,3TPZ,4ADV,7AFO,7O5H
+PF00398	RrnaAD	RNA	rna_modification	1	bsu	Bacillus subtilis 168	Bacteria	224308	P37468	RSMA_BACSU	Ribosomal RNA small subunit methyltransferase A	rsmA	292	True	11	6IFS,6IFT,6IFV,6IFW,6IFX
+PF00398	RrnaAD	RNA	rna_modification	1	tth	Thermus thermophilus	Bacteria	274	Q5SM60	RSMA_THET8	Ribosomal RNA small subunit methyltransferase A	rsmA	271	True	5	3FUT,3FUU,3FUV,3FUW,3FUX
+PF00398	RrnaAD	RNA	rna_modification	1	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58435	RSMA_METJA	Probable ribosomal RNA small subunit methyltransferase A	rsmA	275	True	6	3FYC,3FYD,3GRR,3GRU,3GRV
+PF00398	RrnaAD	RNA	rna_modification	1	sso	Sulfolobus solfataricus P2	Archaea	273057	Q7LXK6	RSMA_SACS2	Probable ribosomal RNA small subunit methyltransferase A	rsmA	194	False	0	
+PF00398	RrnaAD	RNA	rna_modification	1	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P14908	MTF1_YEAST	Mitochondrial transcription factor 1	MTF1	341	True	10	1I4W,6YMV,6YMW,8AP1,8ATT
+PF00398	RrnaAD	RNA	rna_modification	1	hsa	Homo sapiens	Eukarya	9606	Q8WVM0	TFB1M_HUMAN	Dimethyladenosine transferase 1, mitochondrial	TFB1M	346	True	7	6AAX,6AJK,8CSP,8CSQ,8CSR
+PF00398	RrnaAD	RNA	rna_modification	1	ath	Arabidopsis thaliana	Eukarya	3702	O22268	DIM1A_ARATH	Ribosomal RNA small subunit methyltransferase	DIM1A	353	False	0	
+PF01479	S4	RNA	rna_binding_structural	1	eco	Escherichia coli K-12	Bacteria	83333	P0ACG8	HSLR_ECOLI	Heat shock protein 15	hslR	133	True	3	1DM9,3BBU,8AP4
+PF01479	S4	RNA	rna_binding_structural	1	bsu	Bacillus subtilis 168	Bacteria	224308	P37557	RQCP_BACSU	RQC P-site tRNA stabilizing factor	rqcP	86	True	4	7AQC,7AS8,7ASA,7OPE
+PF01479	S4	RNA	rna_binding_structural	1	tth	Thermus thermophilus	Bacteria	274	P80373	RS4_THET8	Small ribosomal subunit protein uS4	rpsD	209	True	412	1FJG,1FKA,1HNW,1HNX,1HNZ
+PF01479	S4	RNA	rna_binding_structural	1	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	P54020	RS4_METJA	Small ribosomal subunit protein uS4	rps4	187	False	0	
+PF01479	S4	RNA	rna_binding_structural	1	sso	Sulfolobus solfataricus P2	Archaea	273057	Q9UX94	RS4E_SACS2	Small ribosomal subunit protein eS4	rps4e	239	True	8	9FHL,9FRA,9FRK,9FRL,9FS6
+PF01479	S4	RNA	rna_binding_structural	1	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P0CX36	RS4B_YEAST	Small ribosomal subunit protein eS4B	RPS4B	261	True	4	7ZW0,8CAH,8CAS,8CBJ
+PF01479	S4	RNA	rna_binding_structural	1	hsa	Homo sapiens	Eukarya	9606	Q9NV31	IMP3_HUMAN	U3 small nucleolar ribonucleoprotein protein IMP3	IMP3	184	True	4	2CQJ,7MQ8,7MQ9,7MQA
+PF01479	S4	RNA	rna_binding_structural	1	ath	Arabidopsis thaliana	Eukarya	3702	Q8L960	SVR1_ARATH	Putative ribosomal large subunit pseudouridine synthase SVR1, chloroplastic	SVR1	410	False	0	
+PF01131	Topoisom_bac	DNA	dna_topology	1	eco	Escherichia coli K-12	Bacteria	83333	P14294	TOP3_ECOLI	DNA topoisomerase 3	topB	653	True	7	1D6M,1I7D,2O19,2O54,2O59
+PF01131	Topoisom_bac	DNA	dna_topology	1	bsu	Bacillus subtilis 168	Bacteria	224308	P39814	TOP1_BACSU	DNA topoisomerase 1	topA	691	False	0	
+PF01131	Topoisom_bac	DNA	dna_topology	1	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q59046	TOP1_METJA	DNA topoisomerase 1	topA	761	False	0	
+PF01131	Topoisom_bac	DNA	dna_topology	1	sso	Sulfolobus solfataricus P2	Archaea	273057	Q97ZJ8	TOP3_SACS2	DNA topoisomerase 3	topA	668	True	2	6K8N,6K8O
+PF01131	Topoisom_bac	DNA	dna_topology	1	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P13099	TOP3_YEAST	DNA topoisomerase 3	TOP3	656	False	0	
+PF01131	Topoisom_bac	DNA	dna_topology	1	hsa	Homo sapiens	Eukarya	9606	Q13472	TOP3A_HUMAN	DNA topoisomerase 3-alpha	TOP3A	1001	True	2	4CGY,4CHT
+PF01131	Topoisom_bac	DNA	dna_topology	1	ath	Arabidopsis thaliana	Eukarya	3702	Q9LVP1	TOP3A_ARATH	DNA topoisomerase 3-alpha	TOP3A	926	False	0	
+PF01472	PUA	RNA	rna_binding_structural	2	eco	Escherichia coli K-12	Bacteria	83333	P0A7B5	PROB_ECOLI	Glutamate 5-kinase	proB	367	True	6	2J5T,2J5V,2W21,8ZPJ,8ZPR
+PF01472	PUA	RNA	rna_binding_structural	2	bsu	Bacillus subtilis 168	Bacteria	224308	O07509	PROJ_BACSU	Glutamate 5-kinase 2	proJ	371	False	0	
+PF01472	PUA	RNA	rna_binding_structural	2	tth	Thermus thermophilus	Bacteria	274	Q5SH03	PROB_THET8	Glutamate 5-kinase	proB	370	False	0	
+PF01472	PUA	RNA	rna_binding_structural	2	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q57612	TRUB_METJA	Probable tRNA pseudouridine synthase B	truB	336	True	1	2APO
+PF01472	PUA	RNA	rna_binding_structural	2	hvo	Haloferax volcanii	Archaea	2246	D4GTN6	ARCS_HALVD	Archaeosine synthase	arcS	585	False	0	
+PF01472	PUA	RNA	rna_binding_structural	2	sso	Sulfolobus solfataricus P2	Archaea	273057	Q980C3	TRUB_SACS2	Probable tRNA pseudouridine synthase B	truB	251	False	0	
+PF01472	PUA	RNA	rna_binding_structural	2	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P33322	CBF5_YEAST	H/ACA ribonucleoprotein complex subunit CBF5	CBF5	483	True	5	3U28,3UAI,3ZV0,9G25,9G28
+PF01472	PUA	RNA	rna_binding_structural	2	hsa	Homo sapiens	Eukarya	9606	Q9ULC4	MCTS1_HUMAN	Malignant T-cell-amplified sequence 1	MCTS1	181	True	4	3R90,5ONS,5VYC,6MS4
+PF01472	PUA	RNA	rna_binding_structural	2	ath	Arabidopsis thaliana	Eukarya	3702	Q9LD90	CBF5_ARATH	H/ACA ribonucleoprotein complex subunit 4	CBF5	565	False	0	
+PF01509	TruB_N	RNA	rna_modification	2	eco	Escherichia coli K-12	Bacteria	83333	P60340	TRUB_ECOLI	tRNA pseudouridine synthase B	truB	314	True	3	1K8W,1R3F,1ZL3
+PF01509	TruB_N	RNA	rna_modification	2	bsu	Bacillus subtilis 168	Bacteria	224308	P32732	TRUB_BACSU	tRNA pseudouridine synthase B	truB	309	False	0	
+PF01509	TruB_N	RNA	rna_modification	2	tth	Thermus thermophilus	Bacteria	274	Q5SLS6	TRUB_THET8	tRNA pseudouridine synthase B	truB	312	False	0	
+PF01509	TruB_N	RNA	rna_modification	2	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q57612	TRUB_METJA	Probable tRNA pseudouridine synthase B	truB	336	True	1	2APO
+PF01509	TruB_N	RNA	rna_modification	2	sso	Sulfolobus solfataricus P2	Archaea	273057	Q980C3	TRUB_SACS2	Probable tRNA pseudouridine synthase B	truB	251	False	0	
+PF01509	TruB_N	RNA	rna_modification	2	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P33322	CBF5_YEAST	H/ACA ribonucleoprotein complex subunit CBF5	CBF5	483	True	5	3U28,3UAI,3ZV0,9G25,9G28
+PF01509	TruB_N	RNA	rna_modification	2	hsa	Homo sapiens	Eukarya	9606	O60832	DKC1_HUMAN	H/ACA ribonucleoprotein complex subunit DKC1	DKC1	514	True	7	7BGB,7TRC,7V9A,8OUE,8OUF
+PF01509	TruB_N	RNA	rna_modification	2	ath	Arabidopsis thaliana	Eukarya	3702	Q9LD90	CBF5_ARATH	H/ACA ribonucleoprotein complex subunit 4	CBF5	565	False	0	
+PF00448	SRP54	RNA	translation	2	eco	Escherichia coli K-12	Bacteria	83333	P10121	FTSY_ECOLI	Signal recognition particle receptor FtsY	ftsY	497	True	23	1FTS,2QY9,2XXA,2YHS,3ZN8
+PF00448	SRP54	RNA	translation	2	bsu	Bacillus subtilis 168	Bacteria	224308	P37105	SRP54_BACSU	Signal recognition particle protein	ffh	446	True	3	4UE4,7O5B,7O9F
+PF00448	SRP54	RNA	translation	2	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q57565	SRP54_METJA	Signal recognition particle 54 kDa protein	srp54	451	True	3	2V3C,3NDB,4XCO
+PF00448	SRP54	RNA	translation	2	hvo	Haloferax volcanii	Archaea	2246	Q977V2	SRP54_HALVD	Signal recognition particle 54 kDa protein	srp54	465	False	0	
+PF00448	SRP54	RNA	translation	2	sso	Sulfolobus solfataricus P2	Archaea	273057	Q97ZE7	SRP54_SACS2	Signal recognition particle 54 kDa protein	srp54	447	True	7	1QZW,1QZX,2IY3,3KL4,3ZN8
+PF00448	SRP54	RNA	translation	2	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P32916	SRPR_YEAST	Signal recognition particle receptor subunit alpha homolog	SRP101	621	True	1	1NRJ
+PF00448	SRP54	RNA	translation	2	hsa	Homo sapiens	Eukarya	9606	P61011	SRP54_HUMAN	Signal recognition particle subunit SRP54	SRP54	504	True	9	1MFQ,1QB2,5L3Q,6Y2Z,6Y30
+PF00448	SRP54	RNA	translation	2	ath	Arabidopsis thaliana	Eukarya	3702	O80842	CFTSY_ARATH	Cell division protein FtsY homolog, chloroplastic	CPFTSY	366	True	4	2OG2,3B9Q,5L3R,8RIX
+PF00588	SpoU_methylase	RNA	rna_modification	2	eco	Escherichia coli K-12	Bacteria	83333	P0AGJ7	TRML_ECOLI	tRNA (cytidine(34)-2'-O)-methyltransferase	trmL	157	True	2	4JAK,4JAL
+PF00588	SpoU_methylase	RNA	rna_modification	2	bsu	Bacillus subtilis 168	Bacteria	224308	P94538	RLMP_BACSU	23S rRNA (guanosine(2553)-2'-O)-methyltransferase RlmP	rlmP	248	True	1	7QIU
+PF00588	SpoU_methylase	RNA	rna_modification	2	tth	Thermus thermophilus	Bacteria	274	Q5SM16	TRMH_THET8	tRNA (guanosine(18)-2'-O)-methyltransferase	trmH	194	True	1	1V2X
+PF00588	SpoU_methylase	RNA	rna_modification	2	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58871	TRMJ_METJA	tRNA (cytidine-2'-O-)-methyltransferase TrmJ	trmJ	230	False	0	
+PF00588	SpoU_methylase	RNA	rna_modification	2	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	Q07527	TRM3_YEAST	tRNA (guanosine(18)-2'-O)-methyltransferase	TRM3	1436	False	0	
+PF00588	SpoU_methylase	RNA	rna_modification	2	hsa	Homo sapiens	Eukarya	9606	Q13395	TARB1_HUMAN	tRNA (guanosine(18)-2'-O)-methyltransferase TARBP1	TARBP1	1621	True	1	2HA8
+PF00580	UvrD-helicase	RNA	rna_processing	2	eco	Escherichia coli K-12	Bacteria	83333	P09980	REP_ECOLI	ATP-dependent DNA helicase Rep	rep	673	True	1	1UAA
+PF00580	UvrD-helicase	RNA	rna_processing	2	bsu	Bacillus subtilis 168	Bacteria	224308	P23478	ADDA_BACSU	ATP-dependent helicase/nuclease subunit A	addA	1232	True	5	3U44,3U4Q,4CEH,4CEI,4CEJ
+PF00580	UvrD-helicase	RNA	rna_processing	2	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P12954	SRS2_YEAST	ATP-dependent DNA helicase SRS2	SRS2	1174	True	1	3V62
+PF00580	UvrD-helicase	RNA	rna_processing	2	hsa	Homo sapiens	Eukarya	9606	Q8NFZ0	FBH1_HUMAN	F-box DNA helicase 1	FBH1	1043	True	1	8F5Q
+PF00580	UvrD-helicase	RNA	rna_processing	2	ath	Arabidopsis thaliana	Eukarya	3702	D1KF50	SRS2L_ARATH	ATP-dependent DNA helicase SRS2-like protein At4g25120	SRS2	1147	False	0	
+PF00589	Phage_integrase	DNA	dna_repair	2	eco	Escherichia coli K-12	Bacteria	83333	P0A8P6	XERC_ECOLI	Tyrosine recombinase XerC	xerC	298	True	1	5DCF
+PF00589	Phage_integrase	DNA	dna_repair	2	bsu	Bacillus subtilis 168	Bacteria	224308	P46352	XERD_BACSU	Tyrosine recombinase XerD	xerD	296	False	0	
+PF00589	Phage_integrase	DNA	dna_repair	2	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q57813	Y367_METJA	Probable integrase/recombinase protein MJ0367	MJ0367	330	False	0	
+PF00589	Phage_integrase	DNA	dna_repair	2	sso	Sulfolobus solfataricus P2	Archaea	273057	Q980D9	XERA_SACS2	Tyrosine recombinase XerA	xerA	291	False	0	
+PF00136	DNA_pol_B	DNA	dna_replication	2	eco	Escherichia coli K-12	Bacteria	83333	P21189	DPO2_ECOLI	DNA polymerase II	polB	783	True	9	1Q8I,3K57,3K58,3K59,3K5L
+PF00136	DNA_pol_B	DNA	dna_replication	2	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58295	DPOL_METJA	DNA polymerase	pol	1634	False	0	
+PF00136	DNA_pol_B	DNA	dna_replication	2	sso	Sulfolobus solfataricus P2	Archaea	273057	P26811	DPOL1_SACS2	DNA polymerase 1	dpo1	882	True	1	1S5J
+PF00136	DNA_pol_B	DNA	dna_replication	2	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P15436	DPOD_YEAST	DNA polymerase delta catalytic subunit	POL3	1097	True	3	3IAY,6P1H,7KC0
+PF00136	DNA_pol_B	DNA	dna_replication	2	hsa	Homo sapiens	Eukarya	9606	P09884	DPOLA_HUMAN	DNA polymerase alpha catalytic subunit	POLA1	1462	True	21	1K0P,1K18,1N5G,4Q5V,4QCL
+PF00136	DNA_pol_B	DNA	dna_replication	2	ath	Arabidopsis thaliana	Eukarya	3702	Q766Z3	REV3_ARATH	DNA polymerase zeta catalytic subunit	REV3	1890	False	0	
+PF00633	HHH	DNA	dna_repair	3	eco	Escherichia coli K-12	Bacteria	83333	P0AB83	END3_ECOLI	Endonuclease III	nth	211	True	1	2ABK
+PF00633	HHH	DNA	dna_repair	3	bsu	Bacillus subtilis 168	Bacteria	224308	P39788	END3_BACSU	Endonuclease III	nth	219	False	0	
+PF00633	HHH	DNA	dna_repair	3	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58030	END3_METJA	Endonuclease III	nth	344	False	0	
+PF00633	HHH	DNA	dna_repair	3	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P31378	NTH1_YEAST	Endonuclease III homolog 1	NTG1	399	False	0	
+PF00633	HHH	DNA	dna_repair	3	hsa	Homo sapiens	Eukarya	9606	Q9UIF7	MUTYH_HUMAN	Adenine DNA glycosylase	MUTYH	546	True	3	1X51,3N5N,8FAY
+PF00633	HHH	DNA	dna_repair	3	ath	Arabidopsis thaliana	Eukarya	3702	B9DFZ0	NTH2_ARATH	Endonuclease III homolog 2, chloroplastic	NTH2	386	False	0	
+PF00009	GTP_EFTU	RNA	translation	3	eco	Escherichia coli K-12	Bacteria	83333	P14081	SELB_ECOLI	Selenocysteine-specific elongation factor	selB	614	True	4	2PJP,5LZB,5LZC,5LZD
+PF00009	GTP_EFTU	RNA	translation	3	bsu	Bacillus subtilis 168	Bacteria	224308	P80868	EFG_BACSU	Elongation factor G	fusA	692	True	1	5VH6
+PF00009	GTP_EFTU	RNA	translation	3	tth	Thermus thermophilus	Bacteria	274	Q5SHN6	EFTU1_THET8	Elongation factor Tu-A	tufA	406	True	9	1HA3,1ZC8,2C78,4V5G,4V5P
+PF00009	GTP_EFTU	RNA	translation	3	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58657	IF2G_METJA	Translation initiation factor 2 subunit gamma	eif2g	411	True	1	1S0U
+PF00009	GTP_EFTU	RNA	translation	3	sso	Sulfolobus solfataricus P2	Archaea	273057	Q980A5	IF2G_SACS2	Translation initiation factor 2 subunit gamma	eif2g	415	True	36	2AHO,2PLF,2PMD,2QMU,2QN6
+PF00009	GTP_EFTU	RNA	translation	3	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P32769	HBS1_YEAST	Elongation factor 1 alpha-like protein	HBS1	611	True	4	3IZQ,3P26,3P27,5M1J
+PF00009	GTP_EFTU	RNA	translation	3	hsa	Homo sapiens	Eukarya	9606	P15170	ERF3A_HUMAN	Eukaryotic peptide chain release factor GTP-binding subunit ERF3A	GSPT1	499	True	7	3E1Y,3J5Y,3KUI,4D61,5HXB
+PF00009	GTP_EFTU	RNA	translation	3	ath	Arabidopsis thaliana	Eukarya	3702	Q0WL56	EF1A3_ARATH	Elongation factor 1-alpha 3	A3	449	False	0	
+PF00488	MutS_V	DNA	dna_repair	3	eco	Escherichia coli K-12	Bacteria	83333	P23909	MUTS_ECOLI	DNA mismatch repair protein MutS	mutS	853	True	27	1E3M,1NG9,1OH5,1OH6,1OH7
+PF00488	MutS_V	DNA	dna_repair	3	bsu	Bacillus subtilis 168	Bacteria	224308	P94545	MUTS2_BACSU	Putative endonuclease MutS2	mutSB	785	True	3	7QV3,8QPP,8R55
+PF00488	MutS_V	DNA	dna_repair	3	tth	Thermus thermophilus	Bacteria	274	Q5SHT5	MUTS2_THET8	Endonuclease MutS2	mutS2	744	True	3	2ZQE,7VUF,7VUK
+PF00488	MutS_V	DNA	dna_repair	3	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P25847	MSH2_YEAST	DNA mismatch repair protein MSH2	MSH2	964	False	0	
+PF00488	MutS_V	DNA	dna_repair	3	hsa	Homo sapiens	Eukarya	9606	P43246	MSH2_HUMAN	DNA mismatch repair protein Msh2	MSH2	934	True	30	2O8B,2O8C,2O8D,2O8E,2O8F
+PF00488	MutS_V	DNA	dna_repair	3	ath	Arabidopsis thaliana	Eukarya	3702	F4JP48	MSH4_ARATH	DNA mismatch repair protein MSH4	MSH4	792	False	0	
+PF00133	tRNA-synt_1	RNA	translation	3	eco	Escherichia coli K-12	Bacteria	83333	P07813	SYL_ECOLI	Leucine--tRNA ligase	leuS	860	True	17	2AJG,2AJH,2AJI,3ZGZ,3ZJT
+PF00133	tRNA-synt_1	RNA	translation	3	bsu	Bacillus subtilis 168	Bacteria	224308	Q05873	SYV_BACSU	Valine--tRNA ligase	valS	880	False	0	
+PF00133	tRNA-synt_1	RNA	translation	3	tth	Thermus thermophilus	Bacteria	274	P96142	SYV_THETH	Valine--tRNA ligase	valS	862	True	5	1GAX,1IVS,1IYW,1WK9,1WKA
+PF00133	tRNA-synt_1	RNA	translation	3	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58357	SYI_METJA	Isoleucine--tRNA ligase	ileS	1039	False	0	
+PF00133	tRNA-synt_1	RNA	translation	3	sso	Sulfolobus solfataricus P2	Archaea	273057	Q97ZK9	SYV_SACS2	Valine--tRNA ligase	valS	842	False	0	
+PF00133	tRNA-synt_1	RNA	translation	3	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P09436	SYIC_YEAST	Isoleucine--tRNA ligase, cytoplasmic	ILS1	1072	True	3	7D5C,8WND,8Z1P
+PF00133	tRNA-synt_1	RNA	translation	3	hsa	Homo sapiens	Eukarya	9606	Q9P2J5	SYLC_HUMAN	Leucine--tRNA ligase, cytoplasmic	LARS1	1176	True	7	2WFD,6KID,6KIE,6KQY,6KR7
+PF00133	tRNA-synt_1	RNA	translation	3	ath	Arabidopsis thaliana	Eukarya	3702	P93736	SYVM1_ARATH	Valine--tRNA ligase, mitochondrial 1	TWN2	1108	False	0	
+PF00152	tRNA-synt_2	RNA	translation	3	eco	Escherichia coli K-12	Bacteria	83333	P0A8N7	EPMA_ECOLI	Elongation factor P--(R)-beta-lysine ligase	epmA	325	True	2	3A5Y,3A5Z
+PF00152	tRNA-synt_2	RNA	translation	3	bsu	Bacillus subtilis 168	Bacteria	224308	P39772	SYN_BACSU	Asparagine--tRNA ligase	asnS	430	False	0	
+PF00152	tRNA-synt_2	RNA	translation	3	tth	Thermus thermophilus	Bacteria	274	Q5SIC2	SYDND_THET8	Aspartate--tRNA(Asp/Asn) ligase	aspS2	422	True	2	1N9W,3KFU
+PF00152	tRNA-synt_2	RNA	translation	3	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	Q58950	SYDND_METJA	Aspartate--tRNA(Asp/Asn) ligase	aspS	438	False	0	
+PF00152	tRNA-synt_2	RNA	translation	3	hvo	Haloferax volcanii	Archaea	2246	O24822	SYDND_HALVO	Aspartate--tRNA(Asp/Asn) ligase	aspS	433	False	0	
+PF00152	tRNA-synt_2	RNA	translation	3	sso	Sulfolobus solfataricus P2	Archaea	273057	P95970	SYK_SACS2	Lysine--tRNA ligase	lysS	494	False	0	
+PF00152	tRNA-synt_2	RNA	translation	3	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P04802	SYDC_YEAST	Aspartate--tRNA ligase, cytoplasmic	DPS1	557	True	3	1ASY,1ASZ,1EOV
+PF00152	tRNA-synt_2	RNA	translation	3	hsa	Homo sapiens	Eukarya	9606	Q6PI48	SYDM_HUMAN	Aspartate--tRNA ligase, mitochondrial	DARS2	645	True	1	4AH6
+PF00152	tRNA-synt_2	RNA	translation	3	ath	Arabidopsis thaliana	Eukarya	3702	Q9LJE2	SYKM_ARATH	Lysine--tRNA ligase, chloroplastic/mitochondrial	OVA5	602	False	0	
+PF00347	Ribosomal_L6	RNA	translation	3	eco	Escherichia coli K-12	Bacteria	83333	P0AG55	RL6_ECOLI	Large ribosomal subunit protein uL6	rplF	177	True	508	1EG0,1ML5,2J28,2RDO,3BBX
+PF00347	Ribosomal_L6	RNA	translation	3	bsu	Bacillus subtilis 168	Bacteria	224308	P46898	RL6_BACSU	Large ribosomal subunit protein uL6	rplF	179	True	30	3J3V,3J3W,3J9W,5NJT,6HA1
+PF00347	Ribosomal_L6	RNA	translation	3	tth	Thermus thermophilus	Bacteria	274	P0DOY8	RL6_THET8	Large ribosomal subunit protein uL6	rplF	180	True	268	1VVJ,1VY4,1VY5,1VY6,1VY7
+PF00347	Ribosomal_L6	RNA	translation	3	mja	Methanocaldococcus jannaschii DSM 2661	Archaea	243232	P54042	RL6_METJA	Large ribosomal subunit protein uL6	rpl6	182	False	0	
+PF00347	Ribosomal_L6	RNA	translation	3	sso	Sulfolobus solfataricus P2	Archaea	273057	Q9UX91	RL6_SACS2	Large ribosomal subunit protein uL6	rpl6	181	False	0	
+PF00347	Ribosomal_L6	RNA	translation	3	sce	Saccharomyces cerevisiae S288C	Eukarya	559292	P05738	RL9A_YEAST	Large ribosomal subunit protein uL6A	RPL9A	191	True	214	3J16,3J6X,3J6Y,3J77,3J78
+PF00347	Ribosomal_L6	RNA	translation	3	hsa	Homo sapiens	Eukarya	9606	P32969	RL9_HUMAN	Large ribosomal subunit protein uL6	RPL9	192	True	132	2CQL,4UG0,4V6X,5AJ0,5LKS
+PF00347	Ribosomal_L6	RNA	translation	3	ath	Arabidopsis thaliana	Eukarya	3702	O23049	RK6_ARATH	Large ribosomal subunit protein uL6c	RPL6	223	False	0	

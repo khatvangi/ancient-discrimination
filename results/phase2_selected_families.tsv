@@ -1,0 +1,22 @@
+pfam_id	pfam_name	age_class	binding_type	functional_category	tier	pdb_rna_count	pdb_dna_count	has_alva_fragment	selection_rationale
+PF00575	S1	LUCA	RNA	rna_binding_structural	1	308	257	False	S1/OB-fold: 308 RNA + 257 DNA structures; universal ancient fold; strongest dual-binding evidence
+PF00270	DEAD	LUCA	RNA	rna_processing	1	284	56	True	DEAD-box helicase: 284 RNA + 56 DNA; universal RNA processing; Alva fragment 3 (P-loop)
+PF02171	Piwi	LUCA	RNA	other	1	75	11	True	Piwi/Argonaute: 75 RNA + 11 DNA; RNA-guided DNA cleavage; direct test of dual mechanism
+PF00013	KH_1	LUCA	RNA	rna_binding_structural	1	23	10	False	KH_1: 23 RNA + 10 DNA; classic RNA-binding domain with unexpected DNA structures
+PF01336	tRNA_anti-codon	preLUCA	RNA	translation	1	14	11	False	tRNA_bind/OB-fold: 14 RNA + 11 DNA; nearly equal binding; pre-LUCA age; in aaRS
+PF00398	RrnaAD	LUCA	RNA	rna_modification	1	27	15	True	RrnaAD/KsgA: 27 RNA + 15 DNA; rRNA methylase with DNA structures; Alva fragment 2 (HhH)
+PF01479	S4	LUCA	RNA	rna_binding_structural	1	1689	68	True	S4: 1689 RNA + 68 DNA; ribosomal protein S4; Alva fragment 10; ancient vocabulary
+PF01131	Topoisom_bac	LUCA	DNA	dna_topology	1	8	27	False	Topoisom_bac: 8 RNA + 27 DNA; topology enzyme; primarily DNA but RNA structures exist
+PF01472	PUA	LUCA	RNA	rna_binding_structural	2	29	0	False	PUA: 29 RNA + 0 DNA; RNA modification scaffold; clean RNA-only control
+PF01509	TruB_N	LUCA	RNA	rna_modification	2	30	0	False	TruB_N: 30 RNA + 0 DNA; pseudouridine synthase; clean RNA-only control
+PF00448	SRP54	LUCA	RNA	translation	2	17	0	True	SRP54: 17 RNA + 0 DNA; signal recognition particle; translation targeting
+PF00588	SpoU_methylase	LUCA	RNA	rna_modification	2	7	0	False	SpoU_methylase: 7 RNA + 0 DNA; rRNA 2-O-ribose methyltransferase; RNA-only
+PF00580	UvrD-helicase	LUCA	RNA	rna_processing	2	0	32	True	UvrD-helicase: 0 RNA + 32 DNA; DNA repair helicase; clean DNA-only control
+PF00589	Phage_integrase	LUCA	DNA	dna_repair	2	0	33	False	Phage_integrase: 0 RNA + 33 DNA; site-specific recombination; DNA-only control
+PF00136	DNA_pol_B	LUCA	DNA	dna_replication	2	9	196	False	DNA_pol_B: 9 RNA + 196 DNA; DNA polymerase B; primarily DNA; RNA from primers
+PF00633	HHH	LUCA	DNA	dna_repair	3	0	8	False	"HHH/helix-hairpin-helix: 0 RNA + 8 DNA; Weil-Ktorza 2025 ""ambidextrous"" motif; Alva fragment 2; DNA-only in PDB but predicted generalist — key thesis test"
+PF00009	GTP_EFTU	preLUCA	RNA	translation	3	390	14	True	GTP_EFTU: 390 RNA + 14 DNA; pre-LUCA EF-Tu; core translation; Alva fragment 3 (P-loop)
+PF00488	MutS_V	LUCA	DNA	dna_repair	3	1	43	True	MutS_V: 1 RNA + 43 DNA; mismatch repair with 1 RNA structure; interesting anomaly
+PF00133	tRNA-synt_1	preLUCA	RNA	translation	3	16	0	True	tRNA-synt_1: 16 RNA + 0 DNA; pre-LUCA class I aaRS; Rossmann fold (Alva fragment 7)
+PF00152	tRNA-synt_2	LUCA	RNA	translation	3	12	0	False	tRNA-synt_2: 12 RNA + 0 DNA; class II aaRS core; translation control
+PF00347	Ribosomal_L6	LUCA	RNA	translation	3	1663	53	False	Ribosomal_L6: 1663 RNA + 53 DNA; ribosomal protein; mostly ribosome co-crystals

@@ -1,0 +1,21 @@
+aln_col	rna_aa	dna_aa	col_type	rna_classification	dna_classification	Node1_state	Node1_pp	Node2_state	Node2_pp	Node3_state	Node3_pp	Node4_state	Node4_pp	Node5_state	Node5_pp
+4	I		RNA-only	2OH-contacting		C	0.2606	C	0.1824	L	0.1708	L	0.1519	Q	0.3988
+61	L		RNA-only	base-only		K	0.3487	K	0.1317	A	0.1026	F	0.1875	F	0.4346
+94	H		RNA-only	backbone-only		H	0.9997	H	0.9999	H	1.0000	H	1.0000	H	1.0000
+95	E		RNA-only	2OH-contacting		F	0.8513	F	0.7931	F	0.7601	F	0.8027	F	0.9834
+96	D		RNA-only	2OH-contacting		D	1.0000	D	1.0000	D	1.0000	D	1.0000	D	1.0000
+240	E		RNA-only	base-only		K	0.5011	K	0.6198	K	0.6666	K	0.6203	K	0.6567
+364	H		RNA-only	backbone-only		G	1.0000	G	1.0000	G	1.0000	G	1.0000	G	1.0000
+447	D		RNA-only	backbone-only		D	1.0000	D	1.0000	D	1.0000	D	1.0000	D	1.0000
+453		R	DNA-only		backbone-only	E	0.3610	E	0.2797	E	0.2639	K	0.4454	K	0.5659
+502		S	DNA-only		backbone-only	D	0.9982	D	0.9979	D	0.9849	D	0.9947	D	0.9991
+503		S	DNA-only		backbone-only	P	0.4437	P	0.2161	P	0.1431	T	0.1989	T	0.2792
+534		I	DNA-only		backbone-only	K	0.6553	K	0.5649	K	0.4266	K	0.3666	T	0.4866
+535		S	DNA-only		backbone-only	L	0.9898	L	0.9963	L	0.9886	L	0.9570	L	0.9963
+555		S	DNA-only		base+backbone	R	0.4382	A	0.2514	A	0.3046	A	0.3096	A	0.4463
+556		T	DNA-only		backbone-only	K	0.2655	K	0.2606	K	0.2079	N	0.1937	N	0.3022
+558		N	DNA-only		base-only	D	0.5002	D	0.5461	E	0.4670	E	0.6166	E	0.7837
+559		F	DNA-only		base-only	P	0.7145	P	0.7513	P	0.9550	P	0.9953	P	0.9999
+562		K	DNA-only		base-only	I	0.4682	L	0.3870	L	0.4457	L	0.4163	L	0.4747
+564	T		RNA-only	backbone-only		P	0.9997	P	0.9914	P	0.5103	T	0.5679	T	0.9029
+567	Q		RNA-only	base-only		H	0.5279	H	0.5055	H	0.4894	H	0.4566	H	0.4305

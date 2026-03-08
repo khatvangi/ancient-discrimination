@@ -1,0 +1,27 @@
+aln_col	rna_aa	dna_aa	col_type	rna_classification	dna_classification	Node1_state	Node1_pp	Node2_state	Node2_pp	Node3_state	Node3_pp	Node4_state	Node4_pp	Node5_state	Node5_pp
+19		L	DNA-only		backbone-only	Q	0.6987	Q	0.7057	Q	0.7065	Q	0.4912	E	0.5447
+20		S	DNA-only		backbone-only	Q	0.4235	R	0.2751	R	0.3633	G	0.6612	G	0.9251
+62		Q	DNA-only		base-only	P	0.9748	P	0.9893	P	0.9829	K	0.3994	K	0.4413
+70	G		RNA-only	backbone-only		S	0.9999	S	1.0000	S	1.0000	S	1.0000	S	1.0000
+72	M		RNA-only	backbone-only		M	0.9999	M	0.9994	M	1.0000	M	1.0000	M	0.9999
+75	D		RNA-only	backbone-only		K	0.2740	K	0.4949	K	0.5286	K	0.8109	K	0.8943
+77	D		RNA-only	backbone-only		T	0.9992	T	0.9997	T	0.9999	T	1.0000	T	1.0000
+78	G		RNA-only	2OH-contacting		E	0.9065	E	0.8604	E	0.7917	E	0.7852	E	0.7991
+79	D		RNA-only	2OH-contacting		V	0.8343	V	0.7704	V	0.7576	V	0.8711	V	0.8878
+85	E		RNA-only	base-only		D	0.5942	E	0.5318	E	0.8817	E	0.9760	E	0.9907
+86	P		RNA-only	backbone-only		C	0.9663	C	0.9732	C	0.9809	C	0.7245	C	0.6502
+97	N		RNA-only	backbone-only		E	0.8497	E	0.8997	E	0.9753	E	0.9942	E	0.9975
+103	V		RNA-only	backbone-only		F	0.7014	F	0.7207	F	0.7292	F	0.8366	F	0.8248
+105	F		RNA-only	2OH-contacting		Q	0.6288	Q	0.6087	Q	0.6134	Q	0.6603	Q	0.6859
+185	R		RNA-only	base+backbone		S	0.9999	S	1.0000	S	1.0000	S	1.0000	S	1.0000
+230	T		RNA-only	backbone-only		G	0.9941	G	0.9999	G	1.0000	G	1.0000	G	1.0000
+231	S		RNA-only	backbone-only		S	0.9999	S	1.0000	S	1.0000	S	1.0000	S	1.0000
+233	M		RNA-only	backbone-only		M	1.0000	M	1.0000	M	1.0000	M	1.0000	M	1.0000
+235	V		RNA-only	base-only		T	0.5542	T	0.7709	T	0.9753	T	0.9982	T	0.9998
+236	G		RNA-only	base-only		G	0.9288	G	0.9414	G	0.9969	G	1.0000	G	1.0000
+237	G		RNA-only	base+backbone		G	1.0000	G	1.0000	G	1.0000	G	1.0000	G	1.0000
+239	P		RNA-only	base+backbone		R	0.9998	R	0.9999	R	1.0000	R	1.0000	R	1.0000
+272	Y		RNA-only	backbone-only		Y	0.9776	Y	0.9957	Y	0.9925	Y	0.9998	Y	1.0000
+274	A		RNA-only	sugar-ring-only		A	0.9494	A	0.9917	A	0.9987	A	0.9999	A	0.9999
+275	E		RNA-only	base-only		E	0.9039	E	0.8538	E	0.7560	E	0.7004	E	0.6929
+277	T		RNA-only	base-only		T	0.9999	T	1.0000	T	1.0000	T	1.0000	T	1.0000

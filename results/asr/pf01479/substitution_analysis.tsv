@@ -1,0 +1,14 @@
+pfam_id	aln_col	col_type	target_type	modern_aa	ancestral_aa	ancestral_pp	contact_type	substitution_class	anc_group	mod_group
+PF01479	2	RNA-only	RNA	K	R	0.9992	base+bb	conservative	basic	basic
+PF01479	4	RNA-only	RNA	Q	D	0.9977	base	radical	acidic	polar
+PF01479	5	RNA-only	RNA	K	V	0.8997	backbone	radical	hydrophobic	basic
+PF01479	8	RNA-only	RNA	A	K	0.8285	backbone	radical	basic	hydrophobic
+PF01479	16	RNA-only	RNA	S	S	0.9995	backbone	identical	polar	polar
+PF01479	17	RNA-only	RNA	R	R	0.9921	base+bb	identical	basic	basic
+PF01479	18	RNA-only	RNA	R	T	0.5787	base	radical	polar	basic
+PF01479	21	RNA-only	RNA	E	K	0.5328	base	radical	basic	acidic
+PF01479	37	RNA-only	RNA	K	D	0.9305	base	radical	acidic	basic
+PF01479	39	RNA-only	RNA	L	A	0.5269	base	conservative	hydrophobic	hydrophobic
+PF01479	40	RNA-only	RNA	G	D	0.9737	base	radical	acidic	special
+PF01479	41	RNA-only	RNA	D	F	0.6007	base	radical	aromatic	acidic
+PF01479	42	RNA-only	RNA	R	Q	0.4327	base+bb	radical	polar	basic

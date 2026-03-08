@@ -1,0 +1,11 @@
+{
+  "total_fragments": 40,
+  "fragments_mapped_to_luca": 9,
+  "fragments_mapped_to_rna": 8,
+  "fragments_mapped_to_dna": 4,
+  "fragments_na_annotated": 13,
+  "unique_luca_pfams_reached": 25,
+  "total_luca_na_pfams": 83,
+  "coverage_fraction": 0.301,
+  "key_finding": "25 of 83 LUCA NA-binding Pfam domains (30%) contain structural elements from Alva's ancient peptide vocabulary"
+}

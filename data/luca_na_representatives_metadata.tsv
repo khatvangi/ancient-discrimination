@@ -1,0 +1,88 @@
+pfam_id	age_class	rna_union	dna_binding	rep_accession	entry_name	organism	seq_length	protein_name
+PF00009	preLUCA	True	False	P14081	SELB_ECOLI	Escherichia coli (strain K12)	614	Selenocysteine-specific elongation factor
+PF00013	LUCA	True	False	P05055	PNP_ECOLI	Escherichia coli (strain K12)	711	Polyribonucleotide nucleotidyltransferase
+PF00133	preLUCA	True	False	P00956	SYI_ECOLI	Escherichia coli (strain K12)	938	Isoleucine--tRNA ligase
+PF00136	LUCA	False	True	P21189	DPO2_ECOLI	Escherichia coli (strain K12)	783	DNA polymerase II
+PF00152	LUCA	True	False	P0A8N7	EPMA_ECOLI	Escherichia coli (strain K12)	325	Elongation factor P--(R)-beta-lysine ligase
+PF00270	LUCA	True	False	P17888	PRIA_ECOLI	Escherichia coli (strain K12)	732	Replication restart protein PriA
+PF00330	LUCA	True	False	P25516	ACNA_ECOLI	Escherichia coli (strain K12)	891	Aconitate hydratase A
+PF00347	LUCA	True	False	P0AG55	RL6_ECOLI	Escherichia coli (strain K12)	177	Large ribosomal subunit protein uL6
+PF00398	LUCA	True	False	P06992	RSMA_ECOLI	Escherichia coli (strain K12)	273	Ribosomal RNA small subunit methyltransferase A
+PF00448	LUCA	True	False	P10121	FTSY_ECOLI	Escherichia coli (strain K12)	497	Signal recognition particle receptor FtsY
+PF00466	LUCA	True	False	P0A7J3	RL10_ECOLI	Escherichia coli (strain K12)	165	Large ribosomal subunit protein uL10
+PF00488	LUCA	False	True	P23909	MUTS_ECOLI	Escherichia coli (strain K12)	853	DNA mismatch repair protein MutS
+PF00565	LUCA	True	False	Q58834	Y1439_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	207	Uncharacterized protein MJ1439
+PF00573	LUCA	True	False	P60723	RL4_ECOLI	Escherichia coli (strain K12)	201	Large ribosomal subunit protein uL4
+PF00575	LUCA	True	False	P0AFF6	NUSA_ECOLI	Escherichia coli (strain K12)	495	Transcription termination/antitermination protein NusA
+PF00579	LUCA	True	False	P0AGJ9	SYY_ECOLI	Escherichia coli (strain K12)	424	Tyrosine--tRNA ligase
+PF00580	LUCA	True	False	P09980	REP_ECOLI	Escherichia coli (strain K12)	673	ATP-dependent DNA helicase Rep
+PF00587	preLUCA	True	False	P0A8M3	SYT_ECOLI	Escherichia coli (strain K12)	642	Threonine--tRNA ligase
+PF00588	LUCA	True	False	P0AGJ7	TRML_ECOLI	Escherichia coli (strain K12)	157	tRNA (cytidine(34)-2'-O)-methyltransferase
+PF00589	LUCA	False	True	P0A8P6	XERC_ECOLI	Escherichia coli (strain K12)	298	Tyrosine recombinase XerC
+PF00633	LUCA	False	True	P0AB83	END3_ECOLI	Escherichia coli (strain K12)	211	Endonuclease III
+PF00749	LUCA	True	False	P04805	SYE_ECOLI	Escherichia coli (strain K12)	471	Glutamate--tRNA ligase
+PF00750	LUCA	True	False	P11875	SYR_ECOLI	Escherichia coli (strain K12)	577	Arginine--tRNA ligase
+PF00753	LUCA	True	False	P0AC84	GLO2_ECOLI	Escherichia coli (strain K12)	251	Hydroxyacylglutathione hydrolase GloB
+PF01042	LUCA	True	False	P0AFQ5	RUTC_ECOLI	Escherichia coli (strain K12)	128	3-aminoacrylate deaminase RutC
+PF01131	LUCA	False	True	P14294	TOP3_ECOLI	Escherichia coli (strain K12)	653	DNA topoisomerase 3
+PF01142	LUCA	True	False	Q57261	TRUD_ECOLI	Escherichia coli (strain K12)	349	tRNA pseudouridine synthase D
+PF01170	LUCA	True	False	P75864	RLMKL_ECOLI	Escherichia coli (strain K12)	702	Ribosomal RNA large subunit methyltransferase K/L
+PF01189	LUCA	True	False	P76273	RSMF_ECOLI	Escherichia coli (strain K12)	479	Ribosomal RNA small subunit methyltransferase F
+PF01207	LUCA	True	False	P32695	DUSA_ECOLI	Escherichia coli (strain K12)	345	tRNA-dihydrouridine(20/20a) synthase
+PF01300	LUCA	True	False	P30131	HYPF_ECOLI	Escherichia coli (strain K12)	750	Carbamoyltransferase HypF
+PF01325	LUCA	False	True	P0A9F1	MNTR_ECOLI	Escherichia coli (strain K12)	155	Transcriptional regulator MntR
+PF01336	preLUCA	True	False	P0A8M0	SYN_ECOLI	Escherichia coli (strain K12)	466	Asparagine--tRNA ligase
+PF01411	LUCA	True	False	P00957	SYA_ECOLI	Escherichia coli (strain K12)	876	Alanine--tRNA ligase
+PF01420	LUCA	False	True	P05719	T1SK_ECOLI	Escherichia coli (strain K12)	464	Type I restriction enzyme EcoKI specificity subunit
+PF01472	LUCA	True	False	P0A7B5	PROB_ECOLI	Escherichia coli (strain K12)	367	Glutamate 5-kinase
+PF01479	LUCA	True	False	P0ACG8	HSLR_ECOLI	Escherichia coli (strain K12)	133	Heat shock protein 15
+PF01509	LUCA	True	False	P60340	TRUB_ECOLI	Escherichia coli (strain K12)	314	tRNA pseudouridine synthase B
+PF01548	LUCA	False	True	P20665	PIV_MORBO	Moraxella bovis	322	Pilin gene-inverting protein
+PF01555	LUCA	False	True	P28638	YHDJ_ECOLI	Escherichia coli (strain K12)	294	DNA adenine methyltransferase YhdJ
+PF01588	LUCA	True	False	P00959	SYM_ECOLI	Escherichia coli (strain K12)	677	Methionine--tRNA ligase
+PF01609	preLUCA	False	True	P0CE49	INSH1_ECOLI	Escherichia coli (strain K12)	326	Transposase InsH for insertion sequence element IS5A
+PF01850	LUCA	True	False	Q58384	VAPC2_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	149	Ribonuclease VapC2
+PF01878	LUCA	True	False	Q60257	Y3536_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	144	UPF0310 protein MJECL36
+PF01926	LUCA	True	False	P06616	ERA_ECOLI	Escherichia coli (strain K12)	301	GTPase Era
+PF01936	LUCA	True	False	Q57905	Y482_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	240	Uncharacterized protein MJ0482
+PF02171	LUCA	True	False	Q58717	AGO_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	713	Protein argonaute
+PF02272	LUCA	True	False	P00957	SYA_ECOLI	Escherichia coli (strain K12)	876	Alanine--tRNA ligase
+PF02384	preLUCA	False	True	P08957	T1MK_ECOLI	Escherichia coli (strain K12)	529	Type I restriction enzyme EcoKI methylase subunit
+PF02475	LUCA	True	False	Q58293	TRM5B_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	336	tRNA (guanine(37)-N(1))-methyltransferase Trm5b
+PF02586	LUCA	False	True	P76318	YEDK_ECOLI	Escherichia coli (strain K12)	222	Abasic site processing protein YedK
+PF02732	LUCA	False	True	Q58900	Y1505_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	778	Putative ATP-dependent RNA helicase MJ1505
+PF02834	LUCA	True	False	Q58963	THPR_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	173	RNA 2',3'-cyclic phosphodiesterase
+PF02881	LUCA	True	False	P10121	FTSY_ECOLI	Escherichia coli (strain K12)	497	Signal recognition particle receptor FtsY
+PF02899	LUCA	False	True	P0A8P6	XERC_ECOLI	Escherichia coli (strain K12)	298	Tyrosine recombinase XerC
+PF03129	LUCA	True	False	P0A8M3	SYT_ECOLI	Escherichia coli (strain K12)	642	Threonine--tRNA ligase
+PF03372	preLUCA	True	False	P09030	EX3_ECOLI	Escherichia coli (strain K12)	268	Exodeoxyribonuclease III
+PF03483	LUCA	True	False	P07395	SYFB_ECOLI	Escherichia coli (strain K12)	795	Phenylalanine--tRNA ligase beta subunit
+PF03485	LUCA	True	False	P11875	SYR_ECOLI	Escherichia coli (strain K12)	577	Arginine--tRNA ligase
+PF03737	LUCA	True	False	P0A8R0	RRAA_ECOLI	Escherichia coli (strain K12)	161	Regulator of ribonuclease activity A
+PF03989	LUCA	False	True	P0AES4	GYRA_ECOLI	Escherichia coli (strain K12)	875	DNA gyrase subunit A
+PF04014	LUCA	False	True	P0AE72	MAZE_ECOLI	Escherichia coli (strain K12)	82	Antitoxin MazE
+PF04266	preLUCA	True	False	P67603	AC4CH_ECOLI	Escherichia coli (strain K12)	103	N(4)-acetylcytidine amidohydrolase
+PF04313	preLUCA	False	True	Q60295	T1RH_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	1042	Putative type I restriction enzyme MjaIXP endonuclease subunit
+PF04471	LUCA	False	True	P24202	MRR_ECOLI	Escherichia coli (strain K12)	304	Type IV methyl-directed restriction enzyme EcoKMrr
+PF04851	preLUCA	True	True	P08956	T1RK_ECOLI	Escherichia coli (strain K12)	1170	Type I restriction enzyme EcoKI endonuclease subunit
+PF05191	LUCA	True	False	P69441	KAD_ECOLI	Escherichia coli (strain K12)	214	Adenylate kinase
+PF06733	LUCA	False	True	P27296	DING_ECOLI	Escherichia coli (strain K12)	716	ATP-dependent DNA helicase DinG
+PF06827	LUCA	True	False	P50465	END8_ECOLI	Escherichia coli (strain K12)	263	Endonuclease 8
+PF07521	LUCA	True	False	Q58633	FTTA_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	634	Transcription termination factor FttA
+PF07650	LUCA	True	False	P06616	ERA_ECOLI	Escherichia coli (strain K12)	301	GTPase Era
+PF07973	LUCA	True	False	P0A8M3	SYT_ECOLI	Escherichia coli (strain K12)	642	Threonine--tRNA ligase
+PF08264	LUCA	True	False	P00956	SYI_ECOLI	Escherichia coli (strain K12)	938	Isoleucine--tRNA ligase
+PF08443	LUCA	True	False	P0C0U4	RIMK_ECOLI	Escherichia coli (strain K12)	300	Ribosomal protein bS6--L-glutamate ligase
+PF08463	LUCA	False	True	P08956	T1RK_ECOLI	Escherichia coli (strain K12)	1170	Type I restriction enzyme EcoKI endonuclease subunit
+PF08494	LUCA	True	False	P30015	LHR_ECOLI	Escherichia coli (strain K12)	1538	Lhr helicase/uracil glycosylase
+PF09190	LUCA	True	False	P21888	SYC_ECOLI	Escherichia coli (strain K12)	461	Cysteine--tRNA ligase
+PF09334	LUCA	True	False	P00959	SYM_ECOLI	Escherichia coli (strain K12)	677	Methionine--tRNA ligase
+PF09339	LUCA	False	True	P0ACN4	ALLR_ECOLI	Escherichia coli (strain K12)	271	HTH-type transcriptional repressor AllR
+PF09414	LUCA	True	False	Q57857	Y414_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	395	Uncharacterized protein MJ0414
+PF09520	preLUCA	False	True	Q58844	T2M2_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	370	Type II restriction enzyme MjaII
+PF10130	LUCA	True	False	Q60293	Y3538_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	259	Uncharacterized protein MJECL38
+PF10996	LUCA	True	False	Q58633	FTTA_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	634	Transcription termination factor FttA
+PF11799	LUCA	False	True	P04152	UMUC_ECOLI	Escherichia coli (strain K12)	422	Protein UmuC
+PF13404	LUCA	False	True	P71888	R2324_MYCTU	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	148	HTH-type transcriptional regulator Rv2324
+PF13495	LUCA	False	True	Q57813	Y367_METJA	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	330	Probable integrase/recombinase protein MJ0367
+PF13847	preLUCA	True	False	P36566	CMOM_ECOLI	Escherichia coli (strain K12)	261	tRNA 5-carboxymethoxyuridine methyltransferase

@@ -1,0 +1,81 @@
+aln_col	rna_resnum	rna_resname	rna_contact_profile	dna_resnum	dna_resname	dna_contact_profile	classification
+1	213	GLY	no_contact	286	GLN	no_contact	non_contact
+2	214	HIS	no_contact	287	THR	no_contact	non_contact
+3	215	HIS	no_contact	288	THR	no_contact	non_contact
+4	216	HIS	no_contact	289	SER	no_contact	non_contact
+5	217	HIS	no_contact	290	HIS	no_contact	non_contact
+6	218	HIS	no_contact	291	GLU	no_contact	non_contact
+7	219	HIS	no_contact	292	LEU	no_contact	non_contact
+8	220	MET	no_contact	293	THR	no_contact	non_contact
+9	221	GLN	no_contact	294	ILE	no_contact	non_contact
+10	222	ALA	no_contact	295	PRO	no_contact	non_contact
+11	223	ALA	no_contact	296	ASN	no_contact	non_contact
+12	224	LEU	no_contact	297	ASP	bb=0,base=10,2oh=0,sr=1	dna_specific
+13	225	LEU	no_contact	298	LEU	bb=0,base=1,2oh=0,sr=0	dna_specific
+14	226	ARG	no_contact	299	ILE	bb=0,base=1,2oh=0,sr=0	dna_specific
+15	227	ARG	no_contact	300	GLY	bb=1,base=13,2oh=0,sr=3	dna_specific
+16	228	LYS	no_contact	301	CYS	bb=0,base=8,2oh=0,sr=0	dna_specific
+17	229	SER	no_contact	302	ILE	no_contact	non_contact
+18	230	VAL	no_contact	303	ILE	bb=0,base=4,2oh=0,sr=5	dna_specific
+19	231	ASN	no_contact	304	GLY	bb=2,base=2,2oh=0,sr=3	dna_specific
+20	232	THR	no_contact	305	ARG	bb=4,base=1,2oh=0,sr=0	dna_specific
+21	233	THR	no_contact			no_contact	non_contact
+22	234	GLU	no_contact			no_contact	non_contact
+23	235	CYS	no_contact			no_contact	non_contact
+24	236	VAL	no_contact			no_contact	non_contact
+25	237	PRO	no_contact			no_contact	non_contact
+26	238	VAL	no_contact			no_contact	non_contact
+27	239	PRO	no_contact			no_contact	non_contact
+28	240	SER	no_contact			no_contact	non_contact
+29	241	SER	bb=0,base=6,2oh=0,sr=0			no_contact	rna_only
+30	242	GLU	bb=0,base=11,2oh=0,sr=0			no_contact	rna_only
+31	243	HIS	no_contact			no_contact	non_contact
+32	244	VAL	bb=0,base=8,2oh=0,sr=0			no_contact	rna_only
+33	245	ALA	bb=2,base=6,2oh=0,sr=5			no_contact	rna_only
+34	246	GLU	bb=0,base=15,2oh=4,sr=5			no_contact	rna_specific
+35	247	ILE	no_contact			no_contact	non_contact
+36	248	VAL	bb=0,base=1,2oh=0,sr=2			no_contact	rna_only
+37	249	GLY	bb=0,base=0,2oh=0,sr=3			no_contact	rna_only
+38	250	ARG	bb=11,base=0,2oh=0,sr=0			no_contact	rna_only
+39	251	GLN	bb=9,base=0,2oh=0,sr=7	306	GLN	bb=3,base=0,2oh=0,sr=5	generalist
+40	252	GLY	bb=1,base=1,2oh=0,sr=3	307	GLY	bb=0,base=0,2oh=0,sr=6	generalist
+41	253	CYS	no_contact	308	ALA	no_contact	non_contact
+42	254	LYS	bb=0,base=3,2oh=0,sr=1	309	LYS	bb=0,base=4,2oh=0,sr=0	generalist
+43	255	ILE	bb=0,base=4,2oh=0,sr=0	310	ILE	bb=0,base=1,2oh=0,sr=1	generalist
+44	256	LYS	bb=0,base=3,2oh=0,sr=0	311	ASN	bb=1,base=0,2oh=0,sr=2	generalist
+45	257	ALA	no_contact	312	GLU	no_contact	non_contact
+46	258	LEU	no_contact	313	ILE	no_contact	non_contact
+47	259	ARG	bb=0,base=9,2oh=0,sr=0	314	ARG	bb=0,base=4,2oh=0,sr=10	generalist
+48	260	ALA	no_contact	315	GLN	no_contact	non_contact
+49	261	LYS	no_contact	317	SER	no_contact	non_contact
+50	262	THR	no_contact	318	GLY	no_contact	non_contact
+51	263	ASN	no_contact	319	ALA	no_contact	non_contact
+52	264	THR	no_contact	320	GLN	no_contact	non_contact
+53	265	TYR	bb=0,base=3,2oh=0,sr=0	321	ILE	no_contact	rna_only
+54	266	ILE	bb=0,base=8,2oh=0,sr=0	322	LYS	bb=0,base=11,2oh=0,sr=1	generalist
+55	267	LYS	bb=0,base=4,2oh=0,sr=0	323	ILE	bb=0,base=3,2oh=0,sr=0	generalist
+56	268	THR	bb=0,base=14,2oh=0,sr=0	324	ALA	no_contact	rna_only
+57	269	PRO	bb=0,base=6,2oh=0,sr=0	325	ASN	bb=0,base=6,2oh=0,sr=0	generalist
+58	270	VAL	bb=0,base=1,2oh=0,sr=0	326	PRO	no_contact	rna_only
+59	271	ARG	bb=3,base=12,2oh=0,sr=0	327	VAL	no_contact	rna_only
+60	272	GLY	no_contact	328	GLU	no_contact	non_contact
+61	273	GLU	no_contact	329	GLY	no_contact	non_contact
+62	274	GLU	no_contact	330	SER	no_contact	non_contact
+63	275	PRO	no_contact	331	THR	no_contact	non_contact
+64	276	ILE	no_contact	332	ASP	no_contact	non_contact
+65	277	PHE	no_contact	333	ARG	bb=0,base=11,2oh=0,sr=0	dna_specific
+66	278	VAL	no_contact	334	GLN	no_contact	non_contact
+67	279	VAL	no_contact	335	VAL	no_contact	non_contact
+68			no_contact	336	THR	no_contact	non_contact
+69	280	THR	no_contact	337	ILE	no_contact	non_contact
+70	281	GLY	no_contact	338	THR	no_contact	non_contact
+71	282	ARG	no_contact	339	GLY	no_contact	non_contact
+72	283	LYS	no_contact	340	SER	no_contact	non_contact
+73	284	GLU	no_contact	341	ALA	no_contact	non_contact
+74	285	ASP	no_contact	342	ALA	no_contact	non_contact
+75	286	VAL	no_contact	343	SER	no_contact	non_contact
+76	287	ALA	no_contact	344	ILE	no_contact	non_contact
+77	288	MET	no_contact	345	SER	no_contact	non_contact
+78	289	ALA	no_contact	346	LEU	no_contact	non_contact
+79	290	LYS	no_contact	347	ALA	no_contact	non_contact
+80	291	ARG	no_contact	348	GLN	no_contact	non_contact

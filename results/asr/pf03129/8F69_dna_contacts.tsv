@@ -1,0 +1,11 @@
+chain	resnum	resname	aa1	n_bb	n_base	n_2oh	n_sr	n_total	dominant	classification
+A	299	ARG	R	5	0	0	0	5	bb	backbone-only
+A	302	ARG	R	5	9	0	10	24	sr	base+backbone
+A	303	LYS	K	5	0	0	0	5	bb	backbone-only
+B	366	THR	T	6	0	0	0	6	bb	backbone-only
+B	370	ARG	R	2	0	0	0	2	bb	backbone-only
+B	394	THR	T	6	0	0	0	6	bb	backbone-only
+B	398	SER	S	5	0	0	0	5	bb	backbone-only
+B	399	LEU	L	16	0	0	0	16	bb	backbone-only
+B	400	GLU	E	1	0	0	0	1	bb	backbone-only
+B	428	GLN	Q	5	0	0	0	5	bb	backbone-only

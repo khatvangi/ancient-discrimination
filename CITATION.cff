@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "The Evolution of Nucleic Acid Discrimination: Data and Code"
+type: dataset
+authors:
+  - family-names: Kalidas
+    given-names: Kiran
+date-released: "2026-02-26"
+license: MIT
+repository-code: "https://github.com/kirankalidas/ancient-discrimination"
+abstract: >-
+  Computational analysis demonstrating that ancient protein domains
+  in LUCA's proteome were generalist nucleic acid binders. Census of
+  871 LUCA-age Pfam domains identifies 54 RNA-binding and 21 DNA-binding
+  families. NAS-Bench structural analysis of 19 paired families reveals
+  72% of ancestral NA-contacting residues differ from modern specialists,
+  with 59% radical substitutions, supporting the hypothesis that binding
+  specificity is a derived trait.
+keywords:
+  - LUCA
+  - nucleic acid binding
+  - ancestral state reconstruction
+  - protein evolution
+  - RNA-DNA discrimination

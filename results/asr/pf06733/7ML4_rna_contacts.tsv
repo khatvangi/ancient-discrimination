@@ -1,0 +1,10 @@
+chain	resnum	resname	aa1	n_bb	n_base	n_2oh	n_sr	n_total	dominant	classification
+A	483	ASP	D	6	0	0	2	8	bb	backbone-only
+A	485	ASP	D	2	0	1	1	4	bb	2OH-contacting
+B	481	GLN	Q	0	0	1	0	1	2oh	2OH-contacting
+B	482	VAL	V	0	1	0	0	1	base	base-only
+B	776	GLN	Q	9	0	0	0	9	bb	backbone-only
+B	979	LYS	K	12	0	2	2	16	bb	2OH-contacting
+B	987	LYS	K	11	0	0	0	11	bb	backbone-only
+B	1096	ARG	R	0	0	1	0	1	2oh	2OH-contacting
+B	1097	HIS	H	4	0	1	4	9	bb	2OH-contacting

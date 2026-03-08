@@ -1,0 +1,25 @@
+contact_type	DI_category	n_positions	n_identical	pct_identical	n_conservative	pct_conservative	n_radical	pct_radical
+Backbone	all	281	75	26.7	42	14.9	164	58.4
+  Backbone	generalist	98	25	25.5	18	18.4	55	56.1
+  Backbone	moderate	150	43	28.7	18	12.0	89	59.3
+  Backbone	specialist	33	7	21.2	6	18.2	20	60.6
+Base	all	155	51	32.9	22	14.2	82	52.9
+  Base	generalist	48	18	37.5	10	20.8	20	41.7
+  Base	moderate	76	24	31.6	6	7.9	46	60.5
+  Base	specialist	31	9	29.0	6	19.4	16	51.6
+2'OH	all	175	37	21.1	21	12.0	117	66.9
+  2'OH	generalist	62	13	21.0	4	6.5	45	72.6
+  2'OH	moderate	100	22	22.0	13	13.0	65	65.0
+  2'OH	specialist	13	2	15.4	4	30.8	7	53.8
+Base+BB	all	67	23	34.3	5	7.5	39	58.2
+  Base+BB	generalist	17	8	47.1	0	0.0	9	52.9
+  Base+BB	moderate	43	14	32.6	5	11.6	24	55.8
+  Base+BB	specialist	7	1	14.3	0	0.0	6	85.7
+Sugar	all	13	7	53.8	2	15.4	4	30.8
+  Sugar	generalist	5	3	60.0	1	20.0	1	20.0
+  Sugar	moderate	6	3	50.0	0	0.0	3	50.0
+  Sugar	specialist	2	1	50.0	1	50.0	0	0.0
+ALL	all	691	193	27.9	92	13.3	406	58.8
+  ALL	generalist	230	67	29.1	33	14.3	130	56.5
+  ALL	moderate	375	106	28.3	42	11.2	227	60.5
+  ALL	specialist	86	20	23.3	17	19.8	49	57.0

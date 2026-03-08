@@ -1,0 +1,9 @@
+pfam_id	aln_col	col_type	target_type	modern_aa	ancestral_aa	ancestral_pp	contact_type	substitution_class	anc_group	mod_group
+PF07521	19	RNA-only	RNA	H	E	0.7794	backbone	radical	acidic	aromatic
+PF07521	22	RNA-only	RNA	S	S	1.0	backbone	identical	polar	polar
+PF07521	23	RNA-only	RNA	G	A	0.9994	backbone	radical	hydrophobic	special
+PF07521	24	RNA-only	RNA	H	H	1.0	2oh	identical	aromatic	aromatic
+PF07521	50	RNA-only	RNA	H	H	1.0	2oh	identical	aromatic	aromatic
+PF07521	52	RNA-only	RNA	H	E	1.0	backbone	radical	acidic	aromatic
+PF07521	53	RNA-only	RNA	E	P	0.4463	2oh	radical	special	acidic
+PF07521	54	RNA-only	RNA	D	D	0.4971	backbone	identical	acidic	acidic

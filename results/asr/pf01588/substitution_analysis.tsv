@@ -1,0 +1,8 @@
+pfam_id	aln_col	col_type	target_type	modern_aa	ancestral_aa	ancestral_pp	contact_type	substitution_class	anc_group	mod_group
+PF01588	7	RNA-only	RNA	R	L	0.7402	base	radical	hydrophobic	basic
+PF01588	8	RNA-only	RNA	A	E	0.8007	base	radical	acidic	hydrophobic
+PF01588	11	RNA-only	RNA	G	R	0.7331	base	radical	basic	special
+PF01588	12	RNA-only	RNA	K	V	0.962	base	radical	hydrophobic	basic
+PF01588	15	RNA-only	RNA	N	S	1.0	2oh	conservative	polar	polar
+PF01588	116	RNA-only	RNA	F	P	0.9957	base	radical	special	aromatic
+PF01588	122	RNA-only	RNA	F	K	0.4778	base	radical	basic	aromatic

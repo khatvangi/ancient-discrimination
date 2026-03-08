@@ -1,0 +1,46 @@
+seq_id	accession	organism	domain_of_life	phylum	seq_length	has_pdb	na_type	note
+Saccharomyces_cerevisiae_strain_ATCC_204|P53218|Eukaryota|3IAB	P53218	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Eukaryota	Fungi	75	3IAB	RNA	RNase P/MRP subunit
+Mus_musculus|Q91WE3|Eukaryota|3Q5H	Q91WE3	Mus musculus	Eukaryota	Metazoa	66	3Q5H	RNA	RNase P subunit
+Aeropyrum_pernix_strain_ATCC_700893_/_DS|Q9YAX2|Archaea|3U6Y	Q9YAX2	Aeropyrum pernix (strain ATCC 700893 / DSM 11879 / JCM 9820 / NBRC 100138 / K1)	Archaea	Thermoproteota	65	3U6Y	DNA	crenarchaeal DNA-binding
+Aeropyrum_pernix_strain_ATCC_700893_/_DS|Q9YAW1|Archaea|2BKY	Q9YAW1	Aeropyrum pernix (strain ATCC 700893 / DSM 11879 / JCM 9820 / NBRC 100138 / K1)	Archaea	Thermoproteota	65	2BKY	DNA+RNA	dual-binding Alba
+Hyperthermus_butylicus_strain_DSM_5456_/|A2BLG4|Archaea|no	A2BLG4	Hyperthermus butylicus (strain DSM 5456 / JCM 9403 / PLM1-5)	Archaea	Thermoproteota	64	no		
+Ignicoccus_hospitalis_strain_KIN4/I_/_DS|A8A9J8|Archaea|no	A8A9J8	Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125)	Archaea	Thermoproteota	64	no		
+Saccharolobus_solfataricus_strain_ATCC_3|Q97ZF4|Archaea|no	Q97ZF4	Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)	Archaea	Thermoproteota	65	no		
+Metallosphaera_sedula_strain_ATCC_51363_|A4YHK2|Archaea|no	A4YHK2	Metallosphaera sedula (strain ATCC 51363 / DSM 5348 / JCM 9185 / NBRC 15509 / TH2)	Archaea	Thermoproteota	65	no		
+Sulfolobus_acidocaldarius_strain_ATCC_33|Q4J974|Archaea|no	Q4J974	Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)	Archaea	Thermoproteota	65	no		
+Sulfurisphaera_tokodaii_strain_DSM_16993|Q971T6|Archaea|no	Q971T6	Sulfurisphaera tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7)	Archaea	Thermoproteota	65	no		
+Nanoarchaeum_equitans_strain_Kin4-M|P60851|Archaea|no	P60851	Nanoarchaeum equitans (strain Kin4-M)	Archaea	Nanobdellota	65	no		
+Thermofilum_pendens_strain_DSM_2475_/_Hr|A1RXL1|Archaea|no	A1RXL1	Thermofilum pendens (strain DSM 2475 / Hrk 5)	Archaea	Thermoproteota	65	no		
+Thermofilum_pendens_strain_DSM_2475_/_Hr|A1RWP1|Archaea|no	A1RWP1	Thermofilum pendens (strain DSM 2475 / Hrk 5)	Archaea	Thermoproteota	64	no		
+Caldivirga_maquilingensis_strain_ATCC_70|A8ME47|Archaea|no	A8ME47	Caldivirga maquilingensis (strain ATCC 700844 / DSM 13496 / JCM 10307 / IC-167)	Archaea	Thermoproteota	65	no		
+Pyrobaculum_aerophilum_strain_ATCC_51768|Q8ZVL3|Archaea|no	Q8ZVL3	Pyrobaculum aerophilum (strain ATCC 51768 / DSM 7523 / JCM 9630 / CIP 104966 / NBRC 100827 / IM2)	Archaea	Thermoproteota	65	no		
+Methanopyrus_kandleri_strain_AV19_/_DSM_|Q8TWE6|Archaea|no	Q8TWE6	Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938)	Archaea	Methanobacteriati	64	no		
+Methanopyrus_kandleri_strain_AV19_/_DSM_|Q8TXF9|Archaea|no	Q8TXF9	Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938)	Archaea	Methanobacteriati	64	no		
+Methanocella_arvoryzae_strain_DSM_22066_|Q0W252|Archaea|no	Q0W252	Methanocella arvoryzae (strain DSM 22066 / NBRC 105507 / MRE50)	Archaea	Methanobacteriati	64	no		
+Methanothermobacter_thermautotrophicus_s|O27527|Archaea|no	O27527	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	Archaea	Methanobacteriati	64	no		
+Thermoplasma_acidophilum_strain_ATCC_259|Q9HJQ5|Archaea|no	Q9HJQ5	Thermoplasma acidophilum (strain ATCC 25905 / DSM 1728 / JCM 9062 / NBRC 15155 / AMRC-C165)	Archaea	Methanobacteriati	64	no		
+Methanocaldococcus_jannaschii_strain_ATC|Q57665|Archaea|no	Q57665	Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)	Archaea	Methanobacteriati	63	no		
+Methanocorpusculum_labreanum_strain_ATCC|A2SRC9|Archaea|no	A2SRC9	Methanocorpusculum labreanum (strain ATCC 43576 / DSM 4855 / Z)	Archaea	Methanobacteriati	64	no		
+Methanoregula_boonei_strain_DSM_21154_/_|A7I857|Archaea|no	A7I857	Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8)	Archaea	Methanobacteriati	64	no		
+Archaeoglobus_fulgidus_strain_ATCC_49558|O29195|Archaea|no	O29195	Archaeoglobus fulgidus (strain ATCC 49558 / DSM 4304 / JCM 9628 / NBRC 100126 / VC-16)	Archaea	Methanobacteriati	64	no		
+Ignicoccus_hospitalis_strain_KIN4/I_/_DS|A8A8V6|Archaea|no	A8A8V6	Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125)	Archaea	Thermoproteota	65	no		
+Staphylothermus_marinus_strain_ATCC_4358|A3DN55|Archaea|no	A3DN55	Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1)	Archaea	Thermoproteota	65	no		
+Thermofilum_pendens_strain_DSM_2475_/_Hr|A1RZM9|Archaea|no	A1RZM9	Thermofilum pendens (strain DSM 2475 / Hrk 5)	Archaea	Thermoproteota	64	no		
+Cenarchaeum_symbiosum_strain_A|A0RUK3|Archaea|no	A0RUK3	Cenarchaeum symbiosum (strain A)	Archaea	Nitrososphaerota	64	no		
+Nitrosopumilus_maritimus_strain_SCM1|A9A323|Archaea|no	A9A323	Nitrosopumilus maritimus (strain SCM1)	Archaea	Nitrososphaerota	64	no		
+Cenarchaeum_symbiosum_strain_A|A0RUC2|Archaea|no	A0RUC2	Cenarchaeum symbiosum (strain A)	Archaea	Nitrososphaerota	64	no		
+Nitrosopumilus_maritimus_strain_SCM1|A9A2B8|Archaea|no	A9A2B8	Nitrosopumilus maritimus (strain SCM1)	Archaea	Nitrososphaerota	64	no		
+Paramecium_tetraurelia|A0D0Y5|Eukaryota|no	A0D0Y5	Paramecium tetraurelia	Eukaryota	Sar	64	no		
+Sclerotinia_sclerotiorum_strain_ATCC_186|A7EEF9|Eukaryota|no	A7EEF9	Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1)	Eukaryota	Fungi	75	no		
+Nematostella_vectensis|A7S043|Eukaryota|no	A7S043	Nematostella vectensis	Eukaryota	Metazoa	66	no		
+Trypanosoma_cruzi_strain_CL_Brener|Q4DE55|Eukaryota|no	Q4DE55	Trypanosoma cruzi (strain CL Brener)	Eukaryota	Discoba	63	no		
+Ostreococcus_lucimarinus_strain_CCE9901|A4RUB1|Eukaryota|no	A4RUB1	Ostreococcus lucimarinus (strain CCE9901)	Eukaryota	Viridiplantae	66	no		
+Trichomonas_vaginalis_strain_ATCC_PRA-98|A2GED7|Eukaryota|no	A2GED7	Trichomonas vaginalis (strain ATCC PRA-98 / G3)	Eukaryota	Metamonada	65	no		
+Dictyostelium_discoideum|Q54HY6|Eukaryota|no	Q54HY6	Dictyostelium discoideum	Eukaryota	Amoebozoa	65	no		
+Plasmodium_falciparum_isolate_3D7|Q8I617|Eukaryota|no	Q8I617	Plasmodium falciparum (isolate 3D7)	Eukaryota	Sar	66	no		
+Chaetomium_globosum_strain_ATCC_6205_/_C|Q2GTN6|Eukaryota|no	Q2GTN6	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	Eukaryota	Fungi	77	no		
+Caenorhabditis_elegans|Q7YWL9|Eukaryota|no	Q7YWL9	Caenorhabditis elegans	Eukaryota	Metazoa	69	no		
+Leishmania_braziliensis|A4H734|Eukaryota|no	A4H734	Leishmania braziliensis	Eukaryota	Discoba	63	no		
+Oryza_sativa_subsp._japonica|Q2QQM2|Eukaryota|no	Q2QQM2	Oryza sativa subsp. japonica	Eukaryota	Viridiplantae	64	no		
+Trichomonas_vaginalis_strain_ATCC_PRA-98|A2E5Q2|Eukaryota|no	A2E5Q2	Trichomonas vaginalis (strain ATCC PRA-98 / G3)	Eukaryota	Metamonada	64	no		
+Dictyostelium_discoideum|Q54U04|Eukaryota|no	Q54U04	Dictyostelium discoideum	Eukaryota	Amoebozoa	67	no		

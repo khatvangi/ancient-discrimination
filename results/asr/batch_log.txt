@@ -1,0 +1,47 @@
+==============================================
+BATCH ASR PIPELINE: 18 families
+parallel: 4, threads per job: 4
+started: Wed Feb 25 09:20:00 AM CST 2026
+==============================================
+[START] PF00013 (RNA=1EC6 DNA=1ZTG)
+[START] PF00136 (RNA=4Q5V DNA=3QEX)
+[START] PF00270 (RNA=3PEY DNA=6CRM)
+[START] PF00398 (RNA=8CSQ DNA=9MN5)
+[START] PF00575 (RNA=7DID DNA=9HVQ)
+[START] PF00753 (RNA=5A0T DNA=8DQ1)
+[START] PF01131 (RNA=9GDA DNA=1MW8)
+[START] PF01336 (RNA=1C0A DNA=3F2B)
+[START] PF01479 (RNA=4LGT DNA=9GUW)
+[START] PF01588 (RNA=7K98 DNA=7D8T)
+[START] PF02171 (RNA=4Z4D DNA=6T5T)
+[START] PF03129 (RNA=4YYE DNA=8F69)
+[START] PF03372 (RNA=9HDR DNA=5HT2)
+[SKIP] PF04851 — already completed
+[SKIP] PF06733 — already completed
+[SKIP] PF07521 — already completed
+[SKIP] PF07650 — already completed
+[SKIP] PF10996 — already completed
+[WAITING] for remaining jobs...
+==============================================
+BATCH COMPLETE: Wed Feb 25 10:20:12 AM CST 2026
+==============================================
+
+RESULTS:
+  [FAIL] PF00013 — subprocess.TimeoutExpired: Command 'conda run -n phylo_asr iqtree -s /storage/kiran-stuff/Vocabulary-Proteins/ancient-discrimination/results/asr/pf00013/PF00013_aligned.fasta -m TEST -bb 1000 --ancestral -nt 4 -pre /storage/kiran-stuff/Vocabulary-Proteins/ancient-discrimination/results/asr/pf00013/PF00013_asr' timed out after 1800 seconds
+  [OK] PF00136 — 30 critical columns
+  [FAIL] PF00270 — [asr_pipeline] running IQ-TREE (threads=4)
+  [OK] PF00398 — 0 critical columns
+  [OK] PF00575 — 0 critical columns
+  [FAIL] PF00753 — [asr_pipeline] running IQ-TREE (threads=4)
+  [OK] PF01131 — 23 critical columns
+  [OK] PF01336 — 12 critical columns
+  [OK] PF01479 — 13 critical columns
+  [OK] PF01588 — 7 critical columns
+  [OK] PF02171 — 57 critical columns
+  [OK] PF03129 — 22 critical columns
+  [FAIL] PF03372 — iscrimination/results/asr/pf03372/PF03372_asr' timed out after 1800 seconds
+  [OK] PF04851 — 30 critical columns
+  [OK] PF06733 — 0 critical columns
+  [OK] PF07521 — 0 critical columns
+  [OK] PF07650 — 66 critical columns
+  [OK] PF10996 — 0 critical columns

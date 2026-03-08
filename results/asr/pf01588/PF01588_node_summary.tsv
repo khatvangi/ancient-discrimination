@@ -1,0 +1,6 @@
+node	rna_match	dna_match	neither	total	high_pp	pct_rna	pct_dna
+Node1	0	0	7	7	6	0.0	0.0
+Node2	0	0	7	7	5	0.0	0.0
+Node3	0	0	7	7	5	0.0	0.0
+Node4	1	0	6	7	4	14.285714285714286	0.0
+Node5	0	0	7	7	5	0.0	0.0

@@ -1,0 +1,21 @@
+aln_col	rna_uniprot	rna_aa	dna_uniprot	dna_aa	col_type	rna_classification	dna_classification	Node1_state	Node1_pp	Node12_state	Node12_pp	Node23_state	Node23_pp	Node18_state	Node18_pp	Node19_state	Node19_pp
+4			10	R	DNA-only		backbone-only	S	0.2807	Y	0.9871	V	0.7316	L	0.7660	L	0.7496
+8	51	K			RNA-only	base-only		S	0.2792	K	0.2537	K	0.4889	K	0.2779	K	0.2527
+9	52	N	13	R	shared	base+backbone	base+backbone	S	0.3602	N	0.7670	K	0.9449	K	0.9723	R	0.7311
+11	54	N			RNA-only	backbone-only		Q	0.3613	P	1.0000	P	0.9999	P	1.0000	P	1.0000
+12	55	I			RNA-only	backbone-only		I	0.7395	V	0.9996	V	0.9830	V	0.9989	V	0.9742
+13	56	K			RNA-only	2OH-contacting		R	0.8499	M	0.9999	T	0.9698	M	1.0000	M	0.9923
+16	59	V			RNA-only	base-only		V	0.9125	V	1.0000	V	0.9997	V	1.0000	V	0.9997
+17	60	N			RNA-only	base-only		D	0.2955	L	0.9998	L	0.9864	L	0.9443	L	0.9134
+18	61	K			RNA-only	backbone-only		R	0.6766	A	0.9999	A	0.9219	A	0.9999	A	0.9984
+21	64	K			RNA-only	backbone-only		N	0.2763	T	0.9999	L	0.5271	T	0.9995	T	0.9847
+44			40	R	DNA-only		backbone-only	K	0.2378	R	0.9998	R	0.5187	R	0.9997	R	0.9954
+45			41	G	DNA-only		backbone-only	G	0.9498	G	1.0000	G	1.0000	G	1.0000	G	1.0000
+47			42	R	DNA-only		sugar-ring-only	P	0.8670	R	0.9997	R	0.7964	R	0.9994	R	0.9922
+48			43	N	DNA-only		backbone-only	A	0.7210	A	1.0000	N	0.9297	A	0.9935	N	0.9055
+50	89	Q	45	N	shared	base-only	backbone-only	S	0.3714	S	0.9998	S	0.9906	S	0.9968	S	0.8205
+51	90	K	46	R	shared	base-only	backbone-only	K	0.9618	R	0.9999	K	0.9553	R	0.7846	R	0.8163
+54	93	S			RNA-only	base+backbone		S	0.5308	D	0.9999	D	0.9967	D	1.0000	D	0.9992
+57	96	E			RNA-only	base-only		E	0.9968	E	1.0000	N	0.9951	E	1.0000	E	0.9999
+58	97	I			RNA-only	base-only		I	0.6738	I	0.9984	A	0.5509	I	0.9823	I	0.9310
+61	100	K			RNA-only	backbone-only		R	0.8714	N	1.0000	N	0.8622	N	0.9992	N	0.9569

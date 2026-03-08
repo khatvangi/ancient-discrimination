@@ -1,0 +1,31 @@
+aln_col	rna_aa	dna_aa	col_type	rna_classification	dna_classification	Node1_state	Node1_pp	Node2_state	Node2_pp	Node3_state	Node3_pp	Node4_state	Node4_pp	Node5_state	Node5_pp
+161	N	H	shared	2OH-contacting	backbone-only	H	0.9988	H	0.9998	H	0.9995	H	0.9996	H	0.9972
+162	K	N	shared	backbone-only	backbone-only	R	0.9905	R	0.9930	R	0.9983	R	0.9992	R	0.9866
+163	V	K	shared	backbone-only	backbone-only	I	0.2447	K	0.4641	K	0.4869	K	0.5517	K	0.4718
+172	R		RNA-only	2OH-contacting		K	0.7679	K	0.7650	K	0.7020	K	0.5686	K	0.4697
+182	R		RNA-only	backbone-only		F	0.9226	F	0.9595	F	0.9756	F	0.9995	F	0.9993
+244	S		RNA-only	backbone-only		K	0.3317	G	0.4927	G	0.4936	G	0.3983	G	0.3735
+246	G		RNA-only	backbone-only		G	0.9916	G	0.9834	G	0.9952	G	0.9961	G	0.9896
+251	K		RNA-only	backbone-only		E	0.3288	E	0.4272	D	0.4139	D	0.4817	D	0.4670
+268	I		RNA-only	backbone-only		L	0.2934	L	0.2789	L	0.2714	L	0.2525	L	0.1739
+269	G		RNA-only	backbone-only		P	0.3077	P	0.1566	S	0.1417	D	0.1359	E	0.1462
+270	A		RNA-only	backbone-only		E	0.4759	D	0.5019	D	0.5906	D	0.6373	D	0.5675
+271	G		RNA-only	backbone-only		G	0.2179	G	0.3414	G	0.3078	G	0.2251	A	0.1839
+272	N		RNA-only	backbone-only		R	0.5087	K	0.5004	K	0.5121	K	0.5303	K	0.5111
+274	S		RNA-only	backbone-only		V	0.2752	V	0.3558	V	0.3451	V	0.3342	V	0.3111
+275	Q		RNA-only	backbone-only		V	0.6140	I	0.5148	I	0.6014	I	0.6481	I	0.7044
+277	T		RNA-only	2OH-contacting		S	0.7960	S	0.6807	T	0.9876	T	0.9988	T	0.9969
+278	R		RNA-only	backbone-only		I	0.6322	V	0.5689	V	0.6188	V	0.6215	V	0.7021
+279	Q		RNA-only	2OH-contacting		Q	0.9999	Q	1.0000	Q	1.0000	Q	1.0000	Q	1.0000
+280	I		RNA-only	backbone-only		T	0.8181	T	0.7709	T	0.7859	T	0.8498	T	0.9097
+281	Q		RNA-only	backbone-only		L	0.9675	L	0.9593	L	0.9857	L	0.9910	L	0.9562
+282	R		RNA-only	backbone-only		S	0.3662	S	0.5261	S	0.6442	S	0.6613	S	0.6293
+283	N		RNA-only	2OH-contacting		R	0.5501	R	0.5591	R	0.5312	R	0.5075	R	0.4864
+284	Q		RNA-only	backbone-only		R	0.3862	K	0.2812	K	0.2992	K	0.2740	K	0.2580
+354	T		RNA-only	backbone-only		G	0.5808	G	0.5120	G	0.4799	D	0.5707	D	0.4500
+355	S		RNA-only	2OH-contacting		L	0.9403	L	0.9574	L	0.9380	L	0.8270	L	0.6057
+356	V		RNA-only	backbone-only		I	0.5362	I	0.5795	I	0.8182	I	0.9949	I	0.9968
+386	K		RNA-only	backbone-only		A	0.9826	A	0.9819	A	0.9926	A	0.9912	A	0.9682
+387	E		RNA-only	backbone-only		S	0.6639	S	0.6768	S	0.6433	S	0.6221	S	0.4695
+388	A		RNA-only	2OH-contacting		S	0.7243	S	0.7065	S	0.7143	S	0.6546	S	0.4593
+450	R		RNA-only	2OH-contacting		T	0.9919	T	0.9994	T	1.0000	T	1.0000	T	0.9999

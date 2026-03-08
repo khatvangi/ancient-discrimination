@@ -1,0 +1,8 @@
+pfam_id	aln_col	col_type	target_type	modern_aa	ancestral_aa	ancestral_pp	contact_type	substitution_class	anc_group	mod_group
+PF03372	665	DNA-only	DNA	T	G	0.9307	backbone	radical	special	polar
+PF03372	683	DNA-only	DNA	R	T	0.2463	backbone	radical	polar	basic
+PF03372	684	DNA-only	DNA	E	S	0.3581	backbone	radical	polar	acidic
+PF03372	839	DNA-only	DNA	R	Q	0.6575	backbone	radical	polar	basic
+PF03372	1098	DNA-only	DNA	W	W	0.999	backbone	identical	aromatic	aromatic
+PF03372	1172	DNA-only	DNA	I	G	0.2811	base	radical	special	hydrophobic
+PF03372	1238	DNA-only	DNA	F	L	0.9412	backbone	radical	hydrophobic	aromatic

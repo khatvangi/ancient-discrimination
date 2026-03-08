@@ -1,0 +1,13 @@
+pdb_id	chain	resnum	resname	aa1	n_bb	n_base	n_2oh	n_sr	n_total	dominant	na_type
+3U6Y	A	10	ARG	R	2	0	0	0	2	bb	DNA
+3U6Y	A	13	ARG	R	2	16	0	1	19	base	DNA
+3U6Y	A	40	ARG	R	4	0	0	2	6	bb	DNA
+3U6Y	A	41	GLY	G	1	0	0	0	1	bb	DNA
+3U6Y	A	42	ARG	R	0	0	0	12	12	sr	DNA
+3U6Y	A	43	ASN	N	1	0	0	1	2	bb	DNA
+3U6Y	A	45	ASN	N	1	0	0	0	1	bb	DNA
+3U6Y	A	46	ARG	R	5	0	0	1	6	bb	DNA
+3U6Y	A	86	ARG	R	3	0	0	4	7	sr	DNA
+3U6Y	A	88	VAL	V	3	0	0	0	3	bb	DNA
+3U6Y	C	42	ARG	R	3	1	0	0	4	bb	DNA
+3U6Y	C	46	ARG	R	4	0	0	0	4	bb	DNA

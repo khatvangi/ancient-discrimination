@@ -1,0 +1,10 @@
+pfam_id	pfam_name	rna_pdb	rna_SI	rna_bb%	rna_base%	rna_2oh%	rna_contacts	dna_pdb	dna_SI	dna_bb%	dna_base%	dna_2oh%	dna_contacts	delta_SI	interpretation	validity
+PF00013	KH_1	1EC6	0.9318	0.0582	0.6962	0.0987	395	1ZTG	0.8658	0.1076	0.6944	0.0000	288	0.0659	GENERALIST	VALID: separate RNA-only and DNA-only structures, n_both=0
+PF02171	Piwi	1YTU	0.5439	0.3762	0.3902	0.0584	428	2W42	0.5974	0.3501	0.5195	0.0000	437	-0.0535	GENERALIST	VALID: separate structures, n_both=2
+PF01336	tRNA_anti-codon	1ASZ	0.7873	0.1756	0.5897	0.0603	780	3F2C	0.2487	0.5338	0.1767	0.0000	266	0.5386	RNA-specific	VALID: separate structures, n_both=0; but note different proteins within Pfam
+PF00270	DEAD	2DB3	0.2742	0.5926	0.0589	0.1650	594	2P6R	0.5589	0.3368	0.4268	0.0000	478	-0.2847	DIVERGED	VALID: separate structures; Vasa (RNA helicase) vs Hel308 (DNA helicase) — shows evolutionary divergence within family
+PF00136	DNA_pol_B	4Q5V	0.3129	0.5150	0.1869	0.0476	567	1Q9X	0.1561	0.5701	0.1055	0.0000	891	0.1568	RNA-specific	PARTIAL: RNA side (4Q5V) has RNA primer + DNA template (mixed); DNA side clean
+PF00398	RrnaAD	4ADV	0.5238	0.3579	0.3093	0.0845	8032	6YMW	0.5943	0.3050	0.4350	0.0118	423	-0.0705	slight-DNA	INVALID: DNA side (6YMW) is mixed RNA+DNA transcription complex
+PF01479	S4	1FJG	0.4817	0.4038	0.2674	0.1078	6613	5TZS	0.5888	0.2922	0.2990	0.1193	1458	-0.1071	slight-DNA	INVALID: DNA side (5TZS) is ribosome processome with both RNA+DNA
+PF01131	Topoisom_bac	9GDA	0.3628	0.5009	0.2567	0.0285	561	2O19	0.5705	0.3367	0.4472	0.0000	398	-0.2077	DNA-specific	INVALID: RNA side (9GDA) is RNAP-TopoI complex with DNA template + RNA transcript
+PF00575	S1	1Y77	0.3233	0.3719	0.1198	0.0579	242	1Y77	0.3233	0.3719	0.1198	0.0579	242	0.0000	ARTIFACT	INVALID: same mixed RNA+DNA structure (RNAP elongation complex) used for both sides

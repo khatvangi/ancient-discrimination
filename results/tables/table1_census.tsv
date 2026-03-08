@@ -1,0 +1,9 @@
+Category	Count	% of LUCA
+Total LUCA-age Pfam domains	871	89.5
+Total pre-LUCA Pfam domains	102	10.5
+RNA-binding (LUCA)	54	6.2
+DNA-binding (LUCA)	21	2.4
+RNA:DNA ratio	2.6:1	—
+Both RNA + DNA co-crystals available	24	2.8
+Paired SI computed (NAS-Bench)	19	2.2
+Ancestral state reconstruction completed	19	2.2

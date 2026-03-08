@@ -1,0 +1,73 @@
+node_id	node_type	organism	domain_of_life	has_pdb	seq_len	P_DNA	P_RNA	P_protein	P_nuc	DNA_bind	RNA_bind
+Node1	ancestor				83	0.0753	0.3829	0.9627	0.6278	no	no
+Node10	ancestor				83	0.0053	0.2219	0.8320	0.2540	no	no
+Node11	ancestor				83	0.2080	0.2753	0.8227	0.6452	no	no
+Node12	ancestor				83	0.1733	0.2632	0.9473	0.6245	no	no
+Node13	ancestor				83	0.0607	0.1515	0.8880	0.4307	no	no
+Node14	ancestor				83	0.1647	0.3347	0.9207	0.6678	no	no
+Node15	ancestor				83	0.1340	0.4213	0.8527	0.8504	no	no
+Node16	ancestor				83	0.1267	0.3227	0.9187	0.7084	no	no
+Node17	ancestor				83	0.1227	0.3316	0.9313	0.7912	no	no
+Node18	ancestor				83	0.1700	0.2482	0.8960	0.4073	no	no
+Node19	ancestor				83	0.1813	0.2325	0.8560	0.4840	no	no
+Node2	ancestor				83	0.1387	0.3270	0.8387	0.7752	no	no
+Node20	ancestor				82	0.2100	0.2145	0.8513	0.5721	no	no
+Node21	ancestor				82	0.1387	0.3671	0.8527	0.8278	no	no
+Node22	ancestor				82	0.1467	0.3290	0.8340	0.8475	no	no
+Node23	ancestor				82	0.1847	0.3163	0.8287	0.8125	no	no
+Node24	ancestor				82	0.1827	0.3227	0.7860	0.7877	no	no
+Node25	ancestor				82	0.1533	0.3400	0.8247	0.8068	no	no
+Node26	ancestor				82	0.1520	0.3279	0.8400	0.8128	no	no
+Node27	ancestor				82	0.2187	0.3553	0.8713	0.9028	no	no
+Node28	ancestor				82	0.1980	0.3380	0.7860	0.8082	no	no
+Node29	ancestor				82	0.1920	0.3250	0.8100	0.7788	no	no
+Node3	ancestor				83	0.1387	0.3270	0.8387	0.7752	no	no
+Node30	ancestor				82	0.1247	0.3100	0.8813	0.7134	no	no
+Node31	ancestor				82	0.1533	0.2641	0.8720	0.6641	no	no
+Node32	ancestor				82	0.1333	0.3007	0.8513	0.7389	no	no
+Node33	ancestor				82	0.1700	0.2901	0.8327	0.7969	no	no
+Node34	ancestor				82	0.1573	0.2550	0.9160	0.7546	no	no
+Node35	ancestor				82	0.1460	0.3445	0.8027	0.7841	no	no
+Node4	ancestor				83	0.1953	0.2629	0.9207	0.6551	no	no
+Node5	ancestor				83	0.1847	0.2917	0.9553	0.7056	no	no
+Node6	ancestor				83	0.1727	0.3728	0.9387	0.7821	no	no
+Node7	ancestor				83	0.1407	0.3115	0.8927	0.6427	no	no
+Node8	ancestor				83	0.1487	0.2875	0.8800	0.6851	no	no
+Node9	ancestor				83	0.1120	0.3599	0.6493	0.5565	no	no
+Acidothermus_cellulolyticus_strain_ATCC_43068_/_DSM_8971_/_11B|A0LV20_KH1	tip	Acidothermus_cellulolyticus_strain_ATCC_43068_/_DSM_8971_/_11B	Bacteria		60	0.2520	0.2192	0.6647	0.6339	no	no
+Amoebophilus_asiaticus_strain_5a2|B3EU51_KH1	tip	Amoebophilus_asiaticus_strain_5a2	Bacteria		63	0.1500	0.2563	0.6093	0.3907	no	no
+Arabidopsis_thaliana|F4KDN0_KH1	tip	Arabidopsis_thaliana	Eukaryota		65	0.0293	0.2014	0.3473	0.3941	no	no
+Azoarcus_sp._strain_BH72|A1K7B5_KH1	tip	Azoarcus_sp._strain_BH72	Bacteria		60	0.1840	0.2520	0.6267	0.6827	no	no
+Bacillus_subtilis_strain_168|P50849_KH1	tip	Bacillus_subtilis_strain_168	Bacteria		60	0.2193	0.2508	0.5047	0.6746	no	no
+Borrelia_turicatae_strain_91E135|A1R0N0_KH1	tip	Borrelia_turicatae_strain_91E135	Bacteria		60	0.2073	0.2570	0.6027	0.5861	no	no
+Deinococcus_deserti_strain_DSM_17065_/_CIP_109153_/_LMG_22923_/_VCD115|C1CXB5_KH1	tip	Deinococcus_deserti_strain_DSM_17065_/_CIP_109153_/_LMG_22923_/_VCD115	Bacteria		67	0.2287	0.2725	0.6713	0.7650	no	no
+Drosophila_melanogaster|Q9VCA8_KH1	tip	Drosophila_melanogaster	Eukaryota		65	0.1067	0.2870	0.4507	0.6936	no	no
+Escherichia_coli_strain_K12|P05055_KH1	tip	Escherichia_coli_strain_K12	Bacteria		60	0.2860	0.3552	0.6560	0.8847	no	no
+Homo_sapiens|Q15365_KH1	tip	Homo_sapiens	Eukaryota	1ZTG	63	0.1500	0.2886	0.4667	0.6271	no	no
+Homo_sapiens|Q15365_KH2	tip	Homo_sapiens	Eukaryota	1ZTG	66	0.0127	0.2090	0.3487	0.1892	no	no
+Homo_sapiens|Q15365_KH3	tip	Homo_sapiens	Eukaryota	1ZTG	65	0.0687	0.1580	0.4600	0.3494	no	no
+Homo_sapiens|Q15366_KH1	tip	Homo_sapiens	Eukaryota	2P2R	63	0.1480	0.2750	0.4840	0.5793	no	no
+Homo_sapiens|Q15366_KH2	tip	Homo_sapiens	Eukaryota	2P2R	66	0.0100	0.1929	0.3047	0.2054	no	no
+Homo_sapiens|Q15366_KH3	tip	Homo_sapiens	Eukaryota	2P2R	65	0.0667	0.1664	0.5667	0.3370	no	no
+Homo_sapiens|Q5U5Q3_KH1	tip	Homo_sapiens	Eukaryota	5WWW	62	0.0760	0.3203	0.6087	0.5212	no	no
+Homo_sapiens|Q5U5Q3_KH2	tip	Homo_sapiens	Eukaryota	5WWW	62	0.0727	0.3347	0.7967	0.4934	no	no
+Homo_sapiens|Q9UNW9_KH1	tip	Homo_sapiens	Eukaryota	1EC6	68	0.0467	0.2146	0.6340	0.1681	no	no
+Homo_sapiens|Q9UNW9_KH2	tip	Homo_sapiens	Eukaryota	1EC6	67	0.1087	0.1914	0.7513	0.3280	no	no
+Homo_sapiens|Q9UNW9_KH3	tip	Homo_sapiens	Eukaryota	1EC6	68	0.1953	0.2980	0.6853	0.6346	no	no
+Hydrogenobaculum_sp._strain_Y04AAS1|B4U6R7_KH1	tip	Hydrogenobaculum_sp._strain_Y04AAS1	Bacteria		59	0.1260	0.1998	0.5787	0.2865	no	no
+Karelsulcia_muelleri_strain_GWSS|A8Z660_KH1	tip	Karelsulcia_muelleri_strain_GWSS	Bacteria		63	0.3000	0.3699	0.5213	0.7791	no	no
+Lachancea_thermotolerans_strain_ATCC_56472_/_CBS_6340_/_NRRL_Y-8284|C5DIR2_KH1	tip	Lachancea_thermotolerans_strain_ATCC_56472_/_CBS_6340_/_NRRL_Y-8284	Eukaryota		65	0.0473	0.2002	0.5327	0.4019	no	no
+Mycolicibacterium_smegmatis_strain_ATCC_700084_/_mc2155|A0QVQ5_KH1	tip	Mycolicibacterium_smegmatis_strain_ATCC_700084_/_mc2155	Bacteria		60	0.1640	0.2253	0.6333	0.3966	no	no
+Nitrosopumilus_maritimus_strain_SCM1|A9A5C8_KH1	tip	Nitrosopumilus_maritimus_strain_SCM1	Archaea		60	0.1340	0.1677	0.6747	0.0997	no	no
+Nostoc_sp._strain_PCC_7120_/_SAG_25.82_/_UTEX_2576|Q8YP11_KH1	tip	Nostoc_sp._strain_PCC_7120_/_SAG_25.82_/_UTEX_2576	Bacteria		60	0.2067	0.3089	0.6200	0.6998	no	no
+Persephonella_marina_strain_DSM_14350_/_EX-H1|C0QTM3_KH1	tip	Persephonella_marina_strain_DSM_14350_/_EX-H1	Bacteria		60	0.2440	0.2896	0.6293	0.5841	no	no
+Picrophilus_torridus_strain_ATCC_700027_/_DSM_9790_/_JCM_10055_/_NBRC_100828_/_KAW_2/3|Q6L222_KH1	tip	Picrophilus_torridus_strain_ATCC_700027_/_DSM_9790_/_JCM_10055_/_NBRC_100828_/_KAW_2/3	Archaea		59	0.1353	0.1964	0.5380	0.4048	no	no
+Psychromonas_ingrahamii_strain_DSM_17664_/_CCUG_51855_/_37|A1ST53_KH1	tip	Psychromonas_ingrahamii_strain_DSM_17664_/_CCUG_51855_/_37	Bacteria		60	0.1767	0.2552	0.6333	0.7224	no	no
+Saccharomyces_cerevisiae_strain_ATCC_204508_/_S288c|P06105_KH1	tip	Saccharomyces_cerevisiae_strain_ATCC_204508_/_S288c	Eukaryota		73	0.1373	0.1592	0.7920	0.2213	no	no
+Schizosaccharomyces_pombe_strain_972_/_ATCC_24843|O74919_KH1	tip	Schizosaccharomyces_pombe_strain_972_/_ATCC_24843	Eukaryota		65	0.0587	0.2942	0.6787	0.5621	no	no
+Staphylococcus_aureus_strain_NCTC_8325_/_PS_47|Q2FZ08_KH1	tip	Staphylococcus_aureus_strain_NCTC_8325_/_PS_47	Bacteria		61	0.1947	0.2476	0.7100	0.5580	no	no
+Streptococcus_pyogenes_serotype_M6_strain_ATCC_BAA-946_/_MGAS10394|Q5X9W0_KH1	tip	Streptococcus_pyogenes_serotype_M6_strain_ATCC_BAA-946_/_MGAS10394	Bacteria		60	0.3000	0.2510	0.4740	0.6675	no	no
+Synechocystis_sp._strain_ATCC_27184_/_PCC_6803_/_Kazusa|P72659_KH1	tip	Synechocystis_sp._strain_ATCC_27184_/_PCC_6803_/_Kazusa	Bacteria		60	0.1333	0.2501	0.6140	0.5631	no	no
+Thermofilum_pendens_strain_DSM_2475_/_Hrk_5|A1RXQ7_KH1	tip	Thermofilum_pendens_strain_DSM_2475_/_Hrk_5	Archaea		60	0.1913	0.2564	0.6353	0.2703	no	no
+Thermoplasma_volcanium_strain_ATCC_51530_/_DSM_4299_/_JCM_9571_/_NBRC_15438_/_GSS1|Q97BZ6_KH1	tip	Thermoplasma_volcanium_strain_ATCC_51530_/_DSM_4299_/_JCM_9571_/_NBRC_15438_/_GSS1	Archaea		59	0.0893	0.1819	0.5413	0.1791	no	no
+Thermus_thermophilus_strain_ATCC_27634_/_DSM_579_/_HB8|Q5SJ75_KH1	tip	Thermus_thermophilus_strain_ATCC_27634_/_DSM_579_/_HB8	Bacteria		67	0.2600	0.2791	0.6000	0.6278	no	no

@@ -1,0 +1,1278 @@
+{
+ "P53218": {
+  "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+  "organism_id": 559292,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Saccharomycotina",
+   "Saccharomycetes",
+   "Saccharomycetales",
+   "Saccharomycetaceae",
+   "Saccharomyces"
+  ]
+ },
+ "Q8IJX8": {
+  "organism": "Plasmodium falciparum (isolate 3D7)",
+  "organism_id": 36329,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Apicomplexa",
+   "Aconoidasida",
+   "Haemosporida",
+   "Plasmodiidae",
+   "Plasmodium",
+   "Plasmodium (Laverania)"
+  ]
+ },
+ "Q2MGL3": {
+  "organism": "Drosophila melanogaster",
+  "organism_id": 7227,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Ecdysozoa",
+   "Arthropoda",
+   "Hexapoda",
+   "Insecta",
+   "Pterygota",
+   "Neoptera",
+   "Endopterygota",
+   "Diptera",
+   "Brachycera",
+   "Muscomorpha",
+   "Ephydroidea",
+   "Drosophilidae",
+   "Drosophila",
+   "Sophophora"
+  ]
+ },
+ "Q97ZF4": {
+  "organism": "Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)",
+  "organism_id": 273057,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Sulfolobales",
+   "Sulfolobaceae",
+   "Saccharolobus"
+  ]
+ },
+ "Q9YAX2": {
+  "organism": "Aeropyrum pernix (strain ATCC 700893 / DSM 11879 / JCM 9820 / NBRC 100138 / K1)",
+  "organism_id": 272557,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Desulfurococcales",
+   "Desulfurococcaceae",
+   "Aeropyrum"
+  ]
+ },
+ "Q91WE3": {
+  "organism": "Mus musculus",
+  "organism_id": 10090,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Chordata",
+   "Craniata",
+   "Vertebrata",
+   "Euteleostomi",
+   "Mammalia",
+   "Eutheria",
+   "Euarchontoglires",
+   "Glires",
+   "Rodentia",
+   "Myomorpha",
+   "Muroidea",
+   "Muridae",
+   "Murinae",
+   "Mus",
+   "Mus"
+  ]
+ },
+ "Q2KIR4": {
+  "organism": "Bos taurus",
+  "organism_id": 9913,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Chordata",
+   "Craniata",
+   "Vertebrata",
+   "Euteleostomi",
+   "Mammalia",
+   "Eutheria",
+   "Laurasiatheria",
+   "Artiodactyla",
+   "Ruminantia",
+   "Pecora",
+   "Bovidae",
+   "Bovinae",
+   "Bos"
+  ]
+ },
+ "A9A323": {
+  "organism": "Nitrosopumilus maritimus (strain SCM1)",
+  "organism_id": 436308,
+  "domain_of_life": "Archaea",
+  "phylum": "Nitrososphaerota",
+  "lineage": [
+   "Archaea",
+   "Nitrososphaerota",
+   "Nitrososphaeria",
+   "Nitrosopumilales",
+   "Nitrosopumilaceae",
+   "Nitrosopumilus"
+  ]
+ },
+ "O27527": {
+  "organism": "Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)",
+  "organism_id": 187420,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Methanobacteriota",
+   "Methanomada group",
+   "Methanobacteria",
+   "Methanobacteriales",
+   "Methanobacteriaceae",
+   "Methanothermobacter"
+  ]
+ },
+ "Q0W252": {
+  "organism": "Methanocella arvoryzae (strain DSM 22066 / NBRC 105507 / MRE50)",
+  "organism_id": 351160,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Methanobacteriota",
+   "Stenosarchaea group",
+   "Methanomicrobia",
+   "Methanocellales",
+   "Methanocellaceae",
+   "Methanocella"
+  ]
+ },
+ "Q57665": {
+  "organism": "Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)",
+  "organism_id": 243232,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Methanobacteriota",
+   "Methanomada group",
+   "Methanococci",
+   "Methanococcales",
+   "Methanocaldococcaceae",
+   "Methanocaldococcus"
+  ]
+ },
+ "Q8ZVL3": {
+  "organism": "Pyrobaculum aerophilum (strain ATCC 51768 / DSM 7523 / JCM 9630 / CIP 104966 / NBRC 100827 / IM2)",
+  "organism_id": 178306,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Thermoproteales",
+   "Thermoproteaceae",
+   "Pyrobaculum"
+  ]
+ },
+ "Q9HJQ5": {
+  "organism": "Thermoplasma acidophilum (strain ATCC 25905 / DSM 1728 / JCM 9062 / NBRC 15155 / AMRC-C165)",
+  "organism_id": 273075,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Thermoplasmatota",
+   "Thermoplasmata",
+   "Thermoplasmatales",
+   "Thermoplasmataceae",
+   "Thermoplasma"
+  ]
+ },
+ "Q971T6": {
+  "organism": "Sulfurisphaera tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7)",
+  "organism_id": 273063,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Sulfolobales",
+   "Sulfolobaceae",
+   "Sulfurisphaera"
+  ]
+ },
+ "Q8TWE6": {
+  "organism": "Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938)",
+  "organism_id": 190192,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Methanobacteriota",
+   "Methanomada group",
+   "Methanopyri",
+   "Methanopyrales",
+   "Methanopyraceae",
+   "Methanopyrus"
+  ]
+ },
+ "Q8TXF9": {
+  "organism": "Methanopyrus kandleri (strain AV19 / DSM 6324 / JCM 9639 / NBRC 100938)",
+  "organism_id": 190192,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Methanobacteriota",
+   "Methanomada group",
+   "Methanopyri",
+   "Methanopyrales",
+   "Methanopyraceae",
+   "Methanopyrus"
+  ]
+ },
+ "A8A8V6": {
+  "organism": "Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125)",
+  "organism_id": 453591,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Desulfurococcales",
+   "Desulfurococcaceae",
+   "Ignicoccus"
+  ]
+ },
+ "O29195": {
+  "organism": "Archaeoglobus fulgidus (strain ATCC 49558 / DSM 4304 / JCM 9628 / NBRC 100126 / VC-16)",
+  "organism_id": 224325,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Methanobacteriota",
+   "Archaeoglobi",
+   "Archaeoglobales",
+   "Archaeoglobaceae",
+   "Archaeoglobus"
+  ]
+ },
+ "Q9YAW1": {
+  "organism": "Aeropyrum pernix (strain ATCC 700893 / DSM 11879 / JCM 9820 / NBRC 100138 / K1)",
+  "organism_id": 272557,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Desulfurococcales",
+   "Desulfurococcaceae",
+   "Aeropyrum"
+  ]
+ },
+ "P60851": {
+  "organism": "Nanoarchaeum equitans (strain Kin4-M)",
+  "organism_id": 228908,
+  "domain_of_life": "Archaea",
+  "phylum": "Nanobdellota",
+  "lineage": [
+   "Archaea",
+   "Nanobdellota",
+   "Candidatus Nanoarchaeia",
+   "Nanoarchaeales",
+   "Nanoarchaeaceae",
+   "Nanoarchaeum"
+  ]
+ },
+ "Q944A2": {
+  "organism": "Arabidopsis thaliana",
+  "organism_id": 3702,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Viridiplantae",
+  "lineage": [
+   "Eukaryota",
+   "Viridiplantae",
+   "Streptophyta",
+   "Embryophyta",
+   "Tracheophyta",
+   "Spermatophyta",
+   "Magnoliopsida",
+   "eudicotyledons",
+   "Gunneridae",
+   "Pentapetalae",
+   "rosids",
+   "malvids",
+   "Brassicales",
+   "Brassicaceae",
+   "Camelineae",
+   "Arabidopsis"
+  ]
+ },
+ "Q583J0": {
+  "organism": "Trypanosoma brucei brucei (strain 927/4 GUTat10.1)",
+  "organism_id": 185431,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Discoba",
+  "lineage": [
+   "Eukaryota",
+   "Discoba",
+   "Euglenozoa",
+   "Kinetoplastea",
+   "Metakinetoplastina",
+   "Trypanosomatida",
+   "Trypanosomatidae",
+   "Trypanosoma"
+  ]
+ },
+ "Q54U04": {
+  "organism": "Dictyostelium discoideum",
+  "organism_id": 44689,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Amoebozoa",
+  "lineage": [
+   "Eukaryota",
+   "Amoebozoa",
+   "Evosea",
+   "Eumycetozoa",
+   "Dictyostelia",
+   "Dictyosteliales",
+   "Dictyosteliaceae",
+   "Dictyostelium"
+  ]
+ },
+ "Q54HY6": {
+  "organism": "Dictyostelium discoideum",
+  "organism_id": 44689,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Amoebozoa",
+  "lineage": [
+   "Eukaryota",
+   "Amoebozoa",
+   "Evosea",
+   "Eumycetozoa",
+   "Dictyostelia",
+   "Dictyosteliales",
+   "Dictyosteliaceae",
+   "Dictyostelium"
+  ]
+ },
+ "Q0E9N4": {
+  "organism": "Drosophila melanogaster",
+  "organism_id": 7227,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Ecdysozoa",
+   "Arthropoda",
+   "Hexapoda",
+   "Insecta",
+   "Pterygota",
+   "Neoptera",
+   "Endopterygota",
+   "Diptera",
+   "Brachycera",
+   "Muscomorpha",
+   "Ephydroidea",
+   "Drosophilidae",
+   "Drosophila",
+   "Sophophora"
+  ]
+ },
+ "A2BLG4": {
+  "organism": "Hyperthermus butylicus (strain DSM 5456 / JCM 9403 / PLM1-5)",
+  "organism_id": 415426,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Desulfurococcales",
+   "Pyrodictiaceae",
+   "Hyperthermus"
+  ]
+ },
+ "A7S043": {
+  "organism": "Nematostella vectensis",
+  "organism_id": 45351,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Cnidaria",
+   "Anthozoa",
+   "Hexacorallia",
+   "Actiniaria",
+   "Edwardsiidae",
+   "Nematostella"
+  ]
+ },
+ "Q385X2": {
+  "organism": "Trypanosoma brucei brucei (strain 927/4 GUTat10.1)",
+  "organism_id": 185431,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Discoba",
+  "lineage": [
+   "Eukaryota",
+   "Discoba",
+   "Euglenozoa",
+   "Kinetoplastea",
+   "Metakinetoplastina",
+   "Trypanosomatida",
+   "Trypanosomatidae",
+   "Trypanosoma"
+  ]
+ },
+ "Q4WIB8": {
+  "organism": "Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)",
+  "organism_id": 330879,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Pezizomycotina",
+   "Eurotiomycetes",
+   "Eurotiomycetidae",
+   "Eurotiales",
+   "Aspergillaceae",
+   "Aspergillus",
+   "Aspergillus subgen. Fumigati"
+  ]
+ },
+ "A0RUK3": {
+  "organism": "Cenarchaeum symbiosum (strain A)",
+  "organism_id": 414004,
+  "domain_of_life": "Archaea",
+  "phylum": "Nitrososphaerota",
+  "lineage": [
+   "Archaea",
+   "Nitrososphaerota",
+   "Candidatus Cenarchaeales",
+   "Candidatus Cenarchaeaceae",
+   "Candidatus Cenarchaeum"
+  ]
+ },
+ "Q4J974": {
+  "organism": "Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)",
+  "organism_id": 330779,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Sulfolobales",
+   "Sulfolobaceae",
+   "Sulfolobus"
+  ]
+ },
+ "A7TP16": {
+  "organism": "Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17)",
+  "organism_id": 436907,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Saccharomycotina",
+   "Saccharomycetes",
+   "Saccharomycetales",
+   "Saccharomycetaceae",
+   "Vanderwaltozyma"
+  ]
+ },
+ "A8ME47": {
+  "organism": "Caldivirga maquilingensis (strain ATCC 700844 / DSM 13496 / JCM 10307 / IC-167)",
+  "organism_id": 397948,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Thermoproteales",
+   "Thermoproteaceae",
+   "Caldivirga"
+  ]
+ },
+ "Q5TTP9": {
+  "organism": "Anopheles gambiae",
+  "organism_id": 7165,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Ecdysozoa",
+   "Arthropoda",
+   "Hexapoda",
+   "Insecta",
+   "Pterygota",
+   "Neoptera",
+   "Endopterygota",
+   "Diptera",
+   "Nematocera",
+   "Culicoidea",
+   "Culicidae",
+   "Anophelinae",
+   "Anopheles"
+  ]
+ },
+ "A1RXL1": {
+  "organism": "Thermofilum pendens (strain DSM 2475 / Hrk 5)",
+  "organism_id": 368408,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Thermofilales",
+   "Thermofilaceae",
+   "Thermofilum"
+  ]
+ },
+ "A2SRC9": {
+  "organism": "Methanocorpusculum labreanum (strain ATCC 43576 / DSM 4855 / Z)",
+  "organism_id": 410358,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Methanobacteriota",
+   "Stenosarchaea group",
+   "Methanomicrobia",
+   "Methanomicrobiales",
+   "Methanocorpusculaceae",
+   "Methanocorpusculum"
+  ]
+ },
+ "Q6FMZ5": {
+  "organism": "Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)",
+  "organism_id": 284593,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Saccharomycotina",
+   "Saccharomycetes",
+   "Saccharomycetales",
+   "Saccharomycetaceae",
+   "Nakaseomyces"
+  ]
+ },
+ "A1RWP1": {
+  "organism": "Thermofilum pendens (strain DSM 2475 / Hrk 5)",
+  "organism_id": 368408,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Thermofilales",
+   "Thermofilaceae",
+   "Thermofilum"
+  ]
+ },
+ "A3DN55": {
+  "organism": "Staphylothermus marinus (strain ATCC 43588 / DSM 3639 / JCM 9404 / F1)",
+  "organism_id": 399550,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Desulfurococcales",
+   "Desulfurococcaceae",
+   "Staphylothermus"
+  ]
+ },
+ "A7I857": {
+  "organism": "Methanoregula boonei (strain DSM 21154 / JCM 14090 / 6A8)",
+  "organism_id": 456442,
+  "domain_of_life": "Archaea",
+  "phylum": "Methanobacteriati",
+  "lineage": [
+   "Archaea",
+   "Methanobacteriati",
+   "Methanobacteriota",
+   "Stenosarchaea group",
+   "Methanomicrobia",
+   "Methanomicrobiales",
+   "Methanoregulaceae",
+   "Methanoregula"
+  ]
+ },
+ "Q2U097": {
+  "organism": "Aspergillus oryzae (strain ATCC 42149 / RIB 40)",
+  "organism_id": 510516,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Pezizomycotina",
+   "Eurotiomycetes",
+   "Eurotiomycetidae",
+   "Eurotiales",
+   "Aspergillaceae",
+   "Aspergillus",
+   "Aspergillus subgen. Circumdati"
+  ]
+ },
+ "Q7PTH5": {
+  "organism": "Anopheles gambiae",
+  "organism_id": 7165,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Ecdysozoa",
+   "Arthropoda",
+   "Hexapoda",
+   "Insecta",
+   "Pterygota",
+   "Neoptera",
+   "Endopterygota",
+   "Diptera",
+   "Nematocera",
+   "Culicoidea",
+   "Culicidae",
+   "Anophelinae",
+   "Anopheles"
+  ]
+ },
+ "Q2QQM2": {
+  "organism": "Oryza sativa subsp. japonica",
+  "organism_id": 39947,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Viridiplantae",
+  "lineage": [
+   "Eukaryota",
+   "Viridiplantae",
+   "Streptophyta",
+   "Embryophyta",
+   "Tracheophyta",
+   "Spermatophyta",
+   "Magnoliopsida",
+   "Liliopsida",
+   "Poales",
+   "Poaceae",
+   "BOP clade",
+   "Oryzoideae",
+   "Oryzeae",
+   "Oryzinae",
+   "Oryza",
+   "Oryza sativa"
+  ]
+ },
+ "Q7YWL9": {
+  "organism": "Caenorhabditis elegans",
+  "organism_id": 6239,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Ecdysozoa",
+   "Nematoda",
+   "Chromadorea",
+   "Rhabditida",
+   "Rhabditina",
+   "Rhabditomorpha",
+   "Rhabditoidea",
+   "Rhabditidae",
+   "Peloderinae",
+   "Caenorhabditis"
+  ]
+ },
+ "A0A509AU86": {
+  "organism": "Plasmodium berghei (strain Anka)",
+  "organism_id": 5823,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Apicomplexa",
+   "Aconoidasida",
+   "Haemosporida",
+   "Plasmodiidae",
+   "Plasmodium",
+   "Plasmodium (Vinckeia)"
+  ]
+ },
+ "A2E5Q2": {
+  "organism": "Trichomonas vaginalis (strain ATCC PRA-98 / G3)",
+  "organism_id": 412133,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metamonada",
+  "lineage": [
+   "Eukaryota",
+   "Metamonada",
+   "Parabasalia",
+   "Trichomonadida",
+   "Trichomonadidae",
+   "Trichomonas"
+  ]
+ },
+ "A3LRK8": {
+  "organism": "Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)",
+  "organism_id": 322104,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Saccharomycotina",
+   "Pichiomycetes",
+   "Debaryomycetaceae",
+   "Scheffersomyces"
+  ]
+ },
+ "A8A9J8": {
+  "organism": "Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125)",
+  "organism_id": 453591,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Desulfurococcales",
+   "Desulfurococcaceae",
+   "Ignicoccus"
+  ]
+ },
+ "Q4DPV6": {
+  "organism": "Trypanosoma cruzi (strain CL Brener)",
+  "organism_id": 353153,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Discoba",
+  "lineage": [
+   "Eukaryota",
+   "Discoba",
+   "Euglenozoa",
+   "Kinetoplastea",
+   "Metakinetoplastina",
+   "Trypanosomatida",
+   "Trypanosomatidae",
+   "Trypanosoma",
+   "Schizotrypanum"
+  ]
+ },
+ "Q6CW86": {
+  "organism": "Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)",
+  "organism_id": 284590,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Saccharomycotina",
+   "Saccharomycetes",
+   "Saccharomycetales",
+   "Saccharomycetaceae",
+   "Kluyveromyces"
+  ]
+ },
+ "Q7RXG6": {
+  "organism": "Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)",
+  "organism_id": 367110,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Pezizomycotina",
+   "Sordariomycetes",
+   "Sordariomycetidae",
+   "Sordariales",
+   "Sordariaceae",
+   "Neurospora"
+  ]
+ },
+ "Q8I617": {
+  "organism": "Plasmodium falciparum (isolate 3D7)",
+  "organism_id": 36329,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Apicomplexa",
+   "Aconoidasida",
+   "Haemosporida",
+   "Plasmodiidae",
+   "Plasmodium",
+   "Plasmodium (Laverania)"
+  ]
+ },
+ "A0CAN3": {
+  "organism": "Paramecium tetraurelia",
+  "organism_id": 5888,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Ciliophora",
+   "Intramacronucleata",
+   "Oligohymenophorea",
+   "Peniculida",
+   "Parameciidae",
+   "Paramecium"
+  ]
+ },
+ "A0CRB6": {
+  "organism": "Paramecium tetraurelia",
+  "organism_id": 5888,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Ciliophora",
+   "Intramacronucleata",
+   "Oligohymenophorea",
+   "Peniculida",
+   "Parameciidae",
+   "Paramecium"
+  ]
+ },
+ "A0D0Y5": {
+  "organism": "Paramecium tetraurelia",
+  "organism_id": 5888,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Ciliophora",
+   "Intramacronucleata",
+   "Oligohymenophorea",
+   "Peniculida",
+   "Parameciidae",
+   "Paramecium"
+  ]
+ },
+ "A7EEF9": {
+  "organism": "Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1)",
+  "organism_id": 665079,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Pezizomycotina",
+   "Leotiomycetes",
+   "Helotiales",
+   "Sclerotiniaceae",
+   "Sclerotinia"
+  ]
+ },
+ "Q2GTN6": {
+  "organism": "Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)",
+  "organism_id": 306901,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Pezizomycotina",
+   "Sordariomycetes",
+   "Sordariomycetidae",
+   "Sordariales",
+   "Chaetomiaceae",
+   "Chaetomium"
+  ]
+ },
+ "Q4CW22": {
+  "organism": "Trypanosoma cruzi (strain CL Brener)",
+  "organism_id": 353153,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Discoba",
+  "lineage": [
+   "Eukaryota",
+   "Discoba",
+   "Euglenozoa",
+   "Kinetoplastea",
+   "Metakinetoplastina",
+   "Trypanosomatida",
+   "Trypanosomatidae",
+   "Trypanosoma",
+   "Schizotrypanum"
+  ]
+ },
+ "Q5CXW7": {
+  "organism": "Cryptosporidium parvum (strain Iowa II)",
+  "organism_id": 353152,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Apicomplexa",
+   "Conoidasida",
+   "Coccidia",
+   "Eucoccidiorida",
+   "Eimeriorina",
+   "Cryptosporidiidae",
+   "Cryptosporidium"
+  ]
+ },
+ "A2GED7": {
+  "organism": "Trichomonas vaginalis (strain ATCC PRA-98 / G3)",
+  "organism_id": 412133,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metamonada",
+  "lineage": [
+   "Eukaryota",
+   "Metamonada",
+   "Parabasalia",
+   "Trichomonadida",
+   "Trichomonadidae",
+   "Trichomonas"
+  ]
+ },
+ "A4RUB1": {
+  "organism": "Ostreococcus lucimarinus (strain CCE9901)",
+  "organism_id": 436017,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Viridiplantae",
+  "lineage": [
+   "Eukaryota",
+   "Viridiplantae",
+   "Chlorophyta",
+   "Mamiellophyceae",
+   "Mamiellales",
+   "Bathycoccaceae",
+   "Ostreococcus"
+  ]
+ },
+ "A4YHK2": {
+  "organism": "Metallosphaera sedula (strain ATCC 51363 / DSM 5348 / JCM 9185 / NBRC 15509 / TH2)",
+  "organism_id": 399549,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Sulfolobales",
+   "Sulfolobaceae",
+   "Metallosphaera"
+  ]
+ },
+ "A5E5S3": {
+  "organism": "Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)",
+  "organism_id": 379508,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Saccharomycotina",
+   "Pichiomycetes",
+   "Debaryomycetaceae",
+   "Candida/Lodderomyces clade",
+   "Lodderomyces"
+  ]
+ },
+ "A9A2B8": {
+  "organism": "Nitrosopumilus maritimus (strain SCM1)",
+  "organism_id": 436308,
+  "domain_of_life": "Archaea",
+  "phylum": "Nitrososphaerota",
+  "lineage": [
+   "Archaea",
+   "Nitrososphaerota",
+   "Nitrososphaeria",
+   "Nitrosopumilales",
+   "Nitrosopumilaceae",
+   "Nitrosopumilus"
+  ]
+ },
+ "Q4DE55": {
+  "organism": "Trypanosoma cruzi (strain CL Brener)",
+  "organism_id": 353153,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Discoba",
+  "lineage": [
+   "Eukaryota",
+   "Discoba",
+   "Euglenozoa",
+   "Kinetoplastea",
+   "Metakinetoplastina",
+   "Trypanosomatida",
+   "Trypanosomatidae",
+   "Trypanosoma",
+   "Schizotrypanum"
+  ]
+ },
+ "A0BUC6": {
+  "organism": "Paramecium tetraurelia",
+  "organism_id": 5888,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Ciliophora",
+   "Intramacronucleata",
+   "Oligohymenophorea",
+   "Peniculida",
+   "Parameciidae",
+   "Paramecium"
+  ]
+ },
+ "A0DRJ2": {
+  "organism": "Paramecium tetraurelia",
+  "organism_id": 5888,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Ciliophora",
+   "Intramacronucleata",
+   "Oligohymenophorea",
+   "Peniculida",
+   "Parameciidae",
+   "Paramecium"
+  ]
+ },
+ "A0DXL8": {
+  "organism": "Paramecium tetraurelia",
+  "organism_id": 5888,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Ciliophora",
+   "Intramacronucleata",
+   "Oligohymenophorea",
+   "Peniculida",
+   "Parameciidae",
+   "Paramecium"
+  ]
+ },
+ "A0E244": {
+  "organism": "Paramecium tetraurelia",
+  "organism_id": 5888,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Ciliophora",
+   "Intramacronucleata",
+   "Oligohymenophorea",
+   "Peniculida",
+   "Parameciidae",
+   "Paramecium"
+  ]
+ },
+ "A4H734": {
+  "organism": "Leishmania braziliensis",
+  "organism_id": 5660,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Discoba",
+  "lineage": [
+   "Eukaryota",
+   "Discoba",
+   "Euglenozoa",
+   "Kinetoplastea",
+   "Metakinetoplastina",
+   "Trypanosomatida",
+   "Trypanosomatidae",
+   "Leishmaniinae",
+   "Leishmania",
+   "Leishmania braziliensis species complex"
+  ]
+ },
+ "A0BZB2": {
+  "organism": "Paramecium tetraurelia",
+  "organism_id": 5888,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Ciliophora",
+   "Intramacronucleata",
+   "Oligohymenophorea",
+   "Peniculida",
+   "Parameciidae",
+   "Paramecium"
+  ]
+ },
+ "A0RUC2": {
+  "organism": "Cenarchaeum symbiosum (strain A)",
+  "organism_id": 414004,
+  "domain_of_life": "Archaea",
+  "phylum": "Nitrososphaerota",
+  "lineage": [
+   "Archaea",
+   "Nitrososphaerota",
+   "Candidatus Cenarchaeales",
+   "Candidatus Cenarchaeaceae",
+   "Candidatus Cenarchaeum"
+  ]
+ },
+ "A1RZM9": {
+  "organism": "Thermofilum pendens (strain DSM 2475 / Hrk 5)",
+  "organism_id": 368408,
+  "domain_of_life": "Archaea",
+  "phylum": "Thermoproteota",
+  "lineage": [
+   "Archaea",
+   "Thermoproteota",
+   "Thermoprotei",
+   "Thermofilales",
+   "Thermofilaceae",
+   "Thermofilum"
+  ]
+ },
+ "Q4N0P6": {
+  "organism": "Theileria parva",
+  "organism_id": 5875,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Sar",
+  "lineage": [
+   "Eukaryota",
+   "Sar",
+   "Alveolata",
+   "Apicomplexa",
+   "Aconoidasida",
+   "Piroplasmida",
+   "Theileriidae",
+   "Theileria"
+  ]
+ },
+ "Q4RS91": {
+  "organism": "Tetraodon nigroviridis",
+  "organism_id": 99883,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Metazoa",
+  "lineage": [
+   "Eukaryota",
+   "Metazoa",
+   "Chordata",
+   "Craniata",
+   "Vertebrata",
+   "Euteleostomi",
+   "Actinopterygii",
+   "Neopterygii",
+   "Teleostei",
+   "Neoteleostei",
+   "Acanthomorphata",
+   "Eupercaria",
+   "Tetraodontiformes",
+   "Tetradontoidea",
+   "Tetraodontidae",
+   "Tetraodon"
+  ]
+ },
+ "Q74ZI6": {
+  "organism": "Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)",
+  "organism_id": 284811,
+  "domain_of_life": "Eukaryota",
+  "phylum": "Fungi",
+  "lineage": [
+   "Eukaryota",
+   "Fungi",
+   "Dikarya",
+   "Ascomycota",
+   "Saccharomycotina",
+   "Saccharomycetes",
+   "Saccharomycetales",
+   "Saccharomycetaceae",
+   "Eremothecium"
+  ]
+ }
+}

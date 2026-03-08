@@ -1,0 +1,8 @@
+aln_col	rna_aa	dna_aa	col_type	rna_classification	dna_classification	Node1_state	Node1_pp	Node2_state	Node2_pp	Node3_state	Node3_pp	Node4_state	Node4_pp	Node5_state	Node5_pp
+175		R	DNA-only		backbone-only	R	0.9899	R	1.0000	R	1.0000	R	0.9944	R	0.9998
+187		N	DNA-only		backbone-only	P	0.9915	P	1.0000	P	1.0000	P	1.0000	P	1.0000
+189		A	DNA-only		base-only	N	0.7305	N	0.9837	N	0.9843	Q	0.6437	Q	0.9835
+190		L	DNA-only		backbone-only	Y	0.9971	Y	0.9999	Y	0.9996	Y	0.9355	Y	0.9190
+193		A	DNA-only		backbone-only	D	0.9676	D	0.9958	D	0.9893	N	0.3814	Q	0.3232
+197		S	DNA-only		backbone-only	A	0.9001	R	0.9996	R	1.0000	R	0.9999	R	1.0000
+228		D	DNA-only		base-only	E	0.8988	E	0.9464	E	0.9353	S	0.7487	S	0.8825

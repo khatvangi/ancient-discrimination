@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# NOTE: Phase 3 script (planned, not yet completed).
+# analyzes AF3 pilot results — feasibility check only.
 """analyze AF3 pilot results: 6 jobs (3 proteins × RNA + DNA).
 
 extracts ipTM, pTM, and ranking_score from summary_confidences.json,

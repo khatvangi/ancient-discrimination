@@ -1,4 +1,6 @@
 #!/bin/bash
+# NOTE: Phase 3 script (planned, not yet completed).
+# competitive AF3 batch — not yet completed.
 # run 93 competitive AF3 jobs on 2 GPUs (proteins <= 700 aa)
 # uses standard AF3 (Docker + HMMER)
 # ~30 min per job × 47 jobs per GPU ≈ 24 hours total

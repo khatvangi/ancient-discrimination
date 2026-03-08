@@ -1,4 +1,6 @@
 #!/bin/bash
+# NOTE: Phase 3 script (planned, not yet completed).
+# AF3 pilot run — feasibility test only, not used in current analysis.
 # run AF3 pilot batch: 6 jobs split across 2 GPUs.
 #
 # GPU 0: S4 (RNA, DNA) + HHH (RNA)

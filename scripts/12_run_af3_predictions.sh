@@ -1,4 +1,6 @@
 #!/bin/bash
+# NOTE: Phase 3 script (planned, not yet completed).
+# SLURM batch for AF3 predictions — not yet run.
 #SBATCH --job-name=af3_ancient
 #SBATCH --output=structures/af3_logs/af3_%A_%a.out
 #SBATCH --error=structures/af3_logs/af3_%A_%a.err

@@ -1,4 +1,6 @@
 #!/bin/bash
+# NOTE: Phase 3 script (planned, not yet completed).
+# AF3 pilot v2 — feasibility test only, not used in current analysis.
 # AF3 pilot v2: fixed binary paths for hmmbuild, hmmsearch, etc.
 #
 # previous failures:

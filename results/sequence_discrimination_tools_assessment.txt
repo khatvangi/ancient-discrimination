@@ -136,5 +136,7 @@ Neither tool alone is reliable enough. For our ancient discrimination project:
 
 Key limitation: both tools are trained on modern proteins, so applying them to
 ancestrally reconstructed sequences may be pushing beyond their training domain.
-This is fine — we acknowledge it and use structural prediction (AF3/Boltz-2) as
-the primary method, with sequence-based tools as a cross-check.
+This is fine — we acknowledge it. Structural prediction (AF3/Boltz-2) is
+planned as a complementary method (Phase 3, not yet completed), with
+sequence-based tools as additional cross-checks alongside the primary
+NAS-Bench structural contact analysis.

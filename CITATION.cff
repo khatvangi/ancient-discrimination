@@ -9,13 +9,16 @@ date-released: "2026-02-26"
 license: MIT
 repository-code: "https://github.com/kirankalidas/ancient-discrimination"
 abstract: >-
-  Computational analysis demonstrating that ancient protein domains
-  in LUCA's proteome were generalist nucleic acid binders. Census of
-  871 LUCA-age Pfam domains identifies 54 RNA-binding and 21 DNA-binding
-  families. NAS-Bench structural analysis of 19 paired families reveals
-  72% of ancestral NA-contacting residues differ from modern specialists,
-  with 59% radical substitutions, supporting the hypothesis that binding
-  specificity is a derived trait.
+  Computational analysis showing that ancient protein domains in LUCA's
+  proteome exhibit widespread weak RNA/DNA discrimination in structural-
+  contact analyses, consistent with ancestral generalism. Annotation-based
+  census of 871 LUCA-age Pfam domains identifies 54 RNA-binding and 21
+  DNA-binding families. NAS-Bench structural analysis of 18 independent
+  domain families (19 rows; PF07521 and PF10996 share source protein 9BCU)
+  reveals 72% of ancestral NA-contacting residues differ from modern
+  specialists, with 59% radical substitutions. ASR infers ancestral states
+  from extant sequences — these are probabilistic reconstructions. AF3/Boltz-2
+  structural predictions (Phase 3) are planned but not yet completed.
 keywords:
   - LUCA
   - nucleic acid binding

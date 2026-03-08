@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# NOTE: Phase 3 script (planned, not yet completed).
+# generates local AF3 format competitive binding inputs.
 """generate LOCAL AF3 format competitive binding inputs.
 
 local AF3 (Docker-based, HMMER for MSA) uses dialect "alphafold3"

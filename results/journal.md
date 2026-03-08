@@ -236,10 +236,15 @@ see `results/phase2_summary.md` for full detail.
 ---
 ---
 
+# NOTE: Phase 3 (planned, not yet completed)
+# the AF3 structural prediction work below documents pilot runs and
+# methodology development. the full prediction campaign is incomplete.
+# no Phase 3 results are used in the current census/NAS-Bench analysis.
+
 # Phase 3 — AF3 Structural Predictions
 
 **Date**: 2026-02-22
-**Status**: In progress
+**Status**: In progress (pilot only; full batch incomplete)
 
 ## Session log
 

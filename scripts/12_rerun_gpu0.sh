@@ -1,4 +1,6 @@
 #!/bin/bash
+# NOTE: Phase 3 script (planned, not yet completed).
+# pilot rerun — feasibility test only, not used in current analysis.
 # rerun the 3 GPU 0 pilot jobs that failed due to mmseqs race condition.
 # databases now exist, so createdb will be skipped.
 

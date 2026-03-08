@@ -1,4 +1,6 @@
 #!/bin/bash
+# NOTE: Phase 3 script (planned, not yet completed).
+# competitive AF3 pilot — feasibility test only.
 # run competitive AF3 pilot: 9 small proteins on 2 GPUs
 # uses standard AF3 (Docker + HMMER), NOT the mmseqs2 fork
 #

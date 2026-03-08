@@ -75,13 +75,15 @@ From Hudson & Ortlund 2014 (Nature Rev Mol Cell Biol):
 | RRM | Pre-mRNA splicing, mRNA stability | ssDNA in some contexts |
 | Sm/Lsm | snRNA binding | RNA-exclusive (control) |
 
-## WHAT AF3/BOLTZ-2 ENABLES (NEW)
+## WHAT AF3/BOLTZ-2 COULD ENABLE (Phase 3, planned but not yet completed)
 
 - Can predict protein-RNA and protein-DNA complexes (AF2 could not)
 - PNAbind discriminates RNA vs DNA binding with AUROC 0.92
 - NA-MPNN (Baker lab, 2025) unifies protein-DNA and protein-RNA analysis
 - Boltz-2 (MIT license) matches AF3 accuracy, freely installable
 - **Nobody has used these tools to compare RNA vs DNA binding across species**
+- Pilot feasibility tests (45 AF3 Server jobs) showed 36% docking rate with
+  systematic DNA bias; full campaign not yet run
 
 ## KEY LIMITATION
 

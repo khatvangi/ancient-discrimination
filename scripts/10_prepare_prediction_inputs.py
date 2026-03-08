@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# NOTE: Phase 2 script. prepares inputs for Phase 3 AF3/Boltz-2
+# predictions, which are planned but not yet completed.
 """prepare AF3/Boltz-2 input files for all predictions.
 
 for each ortholog:

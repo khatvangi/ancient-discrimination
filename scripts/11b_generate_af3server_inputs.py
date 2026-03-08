@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# NOTE: Phase 3 script (planned, not yet completed).
+# generates AF3 Server inputs for large proteins.
 """generate AF3 Server JSON inputs for large proteins (>1000 aa).
 
 these proteins may OOM on the local 24GB Titan RTX GPUs,

@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# NOTE: Phase 3 script (planned, not yet completed).
+# generates competitive binding inputs for AF3 Server.
 """generate AF3 Server competitive binding inputs.
 
 competitive design: one protein + RNA + dsDNA in a single prediction.

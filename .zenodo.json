@@ -1,6 +1,6 @@
 {
   "title": "The Evolution of Nucleic Acid Discrimination: Data and Code",
-  "description": "Computational analysis demonstrating that ancient protein domains in LUCA's proteome were generalist nucleic acid binders that did not distinguish between RNA and DNA. Includes census of LUCA's NA-binding proteome (Wehbi x RBPWorld Pfam intersection), NAS-Bench structural specificity analysis, ancestral state reconstruction for 19 domain families, and convergence analysis of ancestral binding modes.",
+  "description": "Computational analysis showing that ancient protein domains in LUCA's proteome exhibit widespread weak RNA/DNA discrimination in structural-contact analyses, consistent with ancestral generalism. Includes annotation-based census of LUCA's NA-binding proteome (Wehbi x RBPWorld Pfam intersection), NAS-Bench structural specificity analysis of 18 independent domain families (19 rows; PF07521 and PF10996 share source protein 9BCU), and ancestral state reconstruction with convergence analysis. AF3/Boltz-2 structural predictions (Phase 3) are planned but not yet completed.",
   "upload_type": "dataset",
   "publication_type": "article",
   "access_right": "open",
@@ -41,5 +41,5 @@
     {"identifier": "molecular-evolution"},
     {"identifier": "bioinformatics"}
   ],
-  "notes": "This dataset accompanies the manuscript 'The Evolution of Nucleic Acid Discrimination'. Structural prediction outputs (AF3, 14GB) are available separately upon request."
+  "notes": "This dataset accompanies the manuscript 'The Evolution of Nucleic Acid Discrimination'. AF3/Boltz-2 structural predictions (Phase 3) are planned but not yet completed; pilot feasibility scripts are included."
 }

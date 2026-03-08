@@ -1,4 +1,6 @@
 #!/bin/bash
+# NOTE: Phase 3 script (planned, not yet completed).
+# full AF3 prediction batch — not yet run.
 # run AF3 predictions using both GPUs in parallel (no SLURM).
 #
 # splits 296 jobs into two halves:
